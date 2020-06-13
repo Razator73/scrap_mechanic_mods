@@ -101,7 +101,7 @@ end
 function SurvivalGame.client_onCreate( self )
 	sm.game.bindChatCommand( "/blueprint", { { "string", "blueprint_name", true } }, "cl_onNewBlueprint", "Give next blueprint a name" )
 	if g_survivalDev then
-		sm.game.bindChatCommand( "/ammo", { { "int", "quantity", true } }, "cl_onChatCommand", "Give ammo (default 40)" )
+		sm.game.bindChatCommand( "/ammo", { { "int", "quantity", true } }, "cl_onChatCommand", "Give ammo (default 50)" )
 		sm.game.bindChatCommand( "/spudgun", {}, "cl_onChatCommand", "Give the spudgun" )
 		sm.game.bindChatCommand( "/gatling", {}, "cl_onChatCommand", "Give the potato gatling gun" )
 		sm.game.bindChatCommand( "/shotgun", {}, "cl_onChatCommand", "Give the fries shotgun" )
@@ -572,8 +572,7 @@ function SurvivalGame.server_onPlayerJoined( self, player, newPlayer )
 			--Hotbar
 			sm.container.setItem( inventory, 0, tool_sledgehammer, 1 )
 			sm.container.setItem( inventory, 1, tool_spudgun, 1 )
-			sm.container.setItem( inventory, 6, obj_plantables_potato, 20 )
-			sm.container.setItem( inventory, 7, obj_plantables_potato, 20 )
+			sm.container.setItem( inventory, 7, obj_plantables_potato, 50 )
 			sm.container.setItem( inventory, 8, tool_lift, 1 )
 			sm.container.setItem( inventory, 9, tool_connect, 1 )
 

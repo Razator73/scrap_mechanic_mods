@@ -1,1 +1,8 @@
-[ "spudgun_turret" ]
+
+[
+	"spudgun_turret",
+	"rover_finished",
+	"rover_unfinished",
+	"farmer_4wheeler",
+	"rover2"
+]

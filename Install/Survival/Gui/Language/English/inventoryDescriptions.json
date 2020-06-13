@@ -270,7 +270,7 @@
 		"description": "Makes plants grow faster"
 	},
 	"f74c2891-79a9-45e0-982e-4896651c2e25": {
-		"title": "Chemical"
+		"title": "Chemicals"
 	},
 	"5530e6a0-4748-4926-b134-50ca9ecb9dcf": {
 		"title": "Component Kit",
@@ -2446,8 +2446,26 @@
 	"8f190ce2-3a59-423e-8483-a7aa67bd5bc0": {
 		"title": "Lift",
 		"description": "Build on the lift to create freely movable constructions that won't be fixed to the ground. Can be elevated and lowered as well as lift creations that have flipped over."
-  },
-  "d4e6c84c-a493-44b1-81aa-4f4741ea3ee0": {
+	},
+	"85fc5f11-722b-4723-91f2-293a81ad0800": {
+		"title": "obj_tool_connect"
+	},
+	"731c6a84-7ae7-439d-a620-128076f9985c": {
+		"title": "obj_tool_paint"
+	},
+	"836e98a2-8c8c-4a6b-9239-54acdd4f4736": {
+		"title": "obj_tool_weld"
+	},
+	"2d7f1278-ac93-4039-9eb2-d31715ea10ff": {
+		"title": "obj_tool_spudgun"
+	},
+	"b633c3ee-2cda-4096-989a-60e90cd220aa": {
+		"title": "obj_tool_spudling"
+	},
+	"3faf624b-0a95-452f-b6cd-9930ad1731c5": {
+		"title": "obj_tool_frier"
+	},
+    "d4e6c84c-a493-44b1-81aa-4f4741ea3ee0": {
     "title": "Printer Container"
   }
 }

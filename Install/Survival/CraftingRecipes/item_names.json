@@ -7,6 +7,7 @@
 	"d0afb527-e786-4a22-a907-6da7e7cba8cb": "obj_interactive_locker",
 	"90dbaebf-8ea1-4a5a-8f6f-86ddde77c6c8": "obj_interactive_filecabinet",
 	"8694192c-d91b-444c-a184-910911bbb354": "obj_interactive_stafftoilet",
+
 	//--------------------------------------
 	// blocks.json
 	//--------------------------------------
@@ -53,6 +54,7 @@
 	"3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c": "blk_warehousefloor",
 	"d740a27d-cc0f-4866-9e07-6a5c516ad719": "blk_wornmetal",
 	"c4a2ffa8-c245-41fb-9496-966c6ee4648b": "blk_framework",
+
 	//--------------------------------------
 	// building.json
 	//--------------------------------------
@@ -66,6 +68,7 @@
 	"ce66734b-2122-460e-94dc-ccc73d799e32": "obj_building_slippery",
 	"f092e8b5-4b10-48be-8ad1-2ac5625f49b8": "obj_building_plunger",
 	"0ebf382a-e2e4-4c46-a48e-87808308c1e3": "obj_building_sink",
+
 	//--------------------------------------
 	// construction.json
 	//--------------------------------------
@@ -90,6 +93,7 @@
 	"da6e54df-a223-4a0e-b42f-ddeddd33f5b3": "obj_construction_light",
 	"dac97219-d076-41db-8bbb-2509facf0eb4": "obj_construction_paintcan",
 	"de7a75db-207d-48fe-a385-fc4c61b40cf6": "obj_construction_stairs",
+
 	//--------------------------------------
 	// consumables.json
 	//--------------------------------------
@@ -107,6 +111,7 @@
 	"c7322cd1-3158-41d9-b15a-eff2f2f8d9f7": "obj_consumable_inkammo",
 	"3a3280e4-03b6-4a4d-9e02-e348478213c9": "obj_consumable_glowstick",
 	"9a3e478c-2224-44fa-887c-239965bd05ad": "obj_consumable_soilbag",
+
 	//--------------------------------------
 	// containers.json
 	//--------------------------------------
@@ -119,6 +124,7 @@
 	"be29592a-ef58-4b1d-b18c-895023abd27f": "obj_container_chemical",
 	"ad35f7e6-af8f-40fa-aef4-77d827ac8a8a": "obj_container_chest",
 	"fcfae5e2-1df9-47d8-bb9a-30bec9b5b1f5": "obj_container_smallchest",
+
 	//--------------------------------------
 	// containers_decorative.json
 	//--------------------------------------
@@ -144,6 +150,7 @@
 	"10590ecd-7d2f-4ff9-a6de-e749870ae8b8": "obj_containers_stack",
 	"7e2b1dcb-4853-43ed-a7c5-0eb1a24b49d0": "obj_containers_barrel_blueberry",
 	"a0654dd8-f36a-4c41-bafd-18d9e5f0df2e": "obj_containers_barrel_tomato",
+
 	//--------------------------------------
 	// craftbot.json
 	//--------------------------------------
@@ -156,6 +163,7 @@
 	"5cb15c93-4fa9-48da-9974-2e95ca6c9e1c": "obj_craftbot_refinery",
 	"a930a42f-63ed-4fb0-933e-56ce8a889cc5": "obj_craftbot_resourcecontainer",
 	"767a3121-2c31-473c-a5ab-27e188fdd55a": "obj_craftbot_dressbot",
+
 	//--------------------------------------
 	// decor.json
 	//--------------------------------------
@@ -205,6 +213,7 @@
 	"db2ce519-490e-4432-b329-c973ecc8f5d9": "obj_decor_sunshakeudder",
 	"23ac6823-51a4-4581-b8ca-061c76f093f6": "obj_decor_haybale",
 	"74a3f240-65b2-4f52-9555-9b52173fca0a": "obj_decor_haybaleround",
+
 	//--------------------------------------
 	// destructable_tape.json
 	//--------------------------------------
@@ -243,6 +252,7 @@
 	"ea16ec2e-5135-49e9-9543-9bdcd818d90a": "obj_destructable_tape_big_walltape05",
 	"20b3577f-a2f1-44f3-a22c-83f792732771": "obj_destructable_taperolls_big",
 	"8365cf6a-af1a-41aa-a8c9-34313dce1f55": "obj_destructable_taperolls_small",
+
 	//--------------------------------------
 	// fittings.json
 	//--------------------------------------
@@ -307,6 +317,7 @@
 	"85623170-074a-4663-8944-97d131aff495": "obj_fittings_generatorpipebend",
 	"1b47f36c-7c6e-451c-87b2-34fdf33d6989": "obj_fittings_generatorpipesplit",
 	"c85957a1-c393-4352-ba79-5004bb4f07a2": "obj_fittings_generatorpipemulti",
+
 	//--------------------------------------
 	// harvest.json
 	//--------------------------------------
@@ -315,6 +326,7 @@
 	"5cb39ea5-554d-4c40-9d9a-6b2dd59de953": "obj_harvest_metal",
 	"7468db55-b29d-4ce0-82b9-2414f493a376": "obj_harvest_metal2",
 	"02ee2a98-bd8d-4a09-bb69-38edaf66b8e1": "obj_harvest_stone",
+
 	//--------------------------------------
 	// hideoutcrates.json
 	//--------------------------------------
@@ -327,6 +339,7 @@
 	"1dcd74ca-39ba-4b00-a36a-3381b25055f4": "obj_crates_tomato",
 	"99477093-e819-4199-b62a-fda6143aae89": "obj_crates_broccoli",
 	"8d601982-4608-4d5e-bb9e-e4041486f7c7": "obj_survivalobject_farmerball",
+
 	//--------------------------------------
 	// industrial.json
 	//--------------------------------------
@@ -395,6 +408,7 @@
 	"c349afdf-aded-47bc-9a5c-606372bc535b": "obj_industrial_powergenerator7",
 	"346a4ea9-d360-4133-b62f-4c188000c60b": "obj_industrial_powerswitch",
 	"ad9f6357-b0b4-4dab-b84e-fb20df54d1ac": "obj_industrial_powerholders",
+
 	//--------------------------------------
 	// interactive.json
 	//--------------------------------------
@@ -486,6 +500,7 @@
 	"454ad69d-bac2-4b06-9386-6267bcbfece2": "obj_interactive_mountablespudgun",
 	"c8b1bc7b-304e-44ce-9ca1-937b8e69d70c": "obj_interactive_encryptor_destruction",
 	"8fd2cf31-70b3-499a-bfb0-7e3d2c580258": "obj_interactive_encryptor_connection",
+
 	//--------------------------------------
 	// lights.json
 	//--------------------------------------
@@ -497,6 +512,7 @@
 	"5e3dff9b-2450-44ae-ad46-d2f6b5148cbf": "obj_light_arealight",
 	"16ba2d22-7b96-4c5e-9eb7-f6422ed80ad4": "obj_light_posterspotlight",
 	"85339a1d-e67f-4c63-94fd-4a1cf8c25810": "obj_light_posterspotlight2",
+
 	//--------------------------------------
 	// manmade.json
 	//--------------------------------------
@@ -509,6 +525,7 @@
 	"27c00cfb-4e7f-45fc-a037-f9a941464ce6": "obj_manmade_freshsign",
 	"20bd2885-d184-44ae-b72b-f90b786f8664": "obj_manmade_holidayposter",
 	"2289e96f-f9c6-440c-b7c9-ce9474da8264": "obj_manmade_salesign",
+
 	//--------------------------------------
 	// office.json
 	//--------------------------------------
@@ -524,12 +541,14 @@
 	"4c93de5a-72ab-40d0-a081-c41e3aa87e86": "obj_office_officechair",
 	"da2efa37-370d-4848-bc2e-2bae01173ce1": "obj_office_officechair_taped",
 	"1f343b76-3622-4e4b-9de4-238d43d60734": "obj_office_officechairbottom",
+
 	//--------------------------------------
 	// outfitpackage.json
 	//--------------------------------------
 	"63695efd-0862-49f2-ace6-4d1758147fae": "obj_outfitpackage_common",
 	"27a221b1-9809-4df1-901a-caafe119c9b6": "obj_outfitpackage_rare",
 	"7ab0cac7-b055-4283-b0bc-f85dd4d0416b": "obj_outfitpackage_epic",
+
 	//--------------------------------------
 	// plantables.json
 	//--------------------------------------
@@ -542,6 +561,7 @@
 	"6d92d8e7-25e9-4698-b83d-a64dc97978c8": "obj_plantables_tomato",
 	"b5cdd503-fe1c-482b-86ab-6a5d2cc4fc8f": "obj_plantables_broccoli",
 	"bfcfac34-db0f-42d6-bd0c-74a7a5c95e82": "obj_plantables_potato",
+
 	//--------------------------------------
 	// pottedplants.json
 	//--------------------------------------
@@ -554,11 +574,13 @@
 	"d1421af8-6f80-4413-8099-2c6b217fb929": "obj_plants_ballcactus",
 	"bc575e0c-d1aa-438e-9f3d-0a80f4ea915f": "obj_plants_barbarycactus",
 	"bb443a05-b5b9-4fad-90fc-5e04aa90fd8f": "obj_plants_blueflower",
+
 	//--------------------------------------
 	// powertools.json
 	//--------------------------------------
 	"3e10ef67-383a-4b60-aa5b-b1173134e437": "obj_powertools_sawblade",
 	"276fd55b-ae54-4a7a-ace6-fddd2d3370a5": "obj_powertools_drill",
+
 	//--------------------------------------
 	// resources.json
 	//--------------------------------------
@@ -573,6 +595,7 @@
 	"fb0f128c-e607-4c52-9c25-f44dfd2dd95e": "obj_resource_steak",
 	"388adeab-67e5-4901-afe8-c56217754510": "obj_resource_glowpoop",
 	"36335664-6e61-4d44-9876-54f9660a8565": "obj_consumable_glue",
+
 	//--------------------------------------
 	// robotparts.json
 	//--------------------------------------
@@ -590,6 +613,7 @@
 	"5de17a8f-f447-4204-886e-6ba015347f89": "obj_robotparts_farmbotpart_scytharm",
 	"b9b4f8ef-9d30-4662-8696-d27a2ba0a7fa": "obj_robotpart_totebotbody",
 	"243afe95-8058-47b0-bccf-49cc0445cd55": "obj_robotpart_totebotleg",
+
 	//--------------------------------------
 	// scrap.json
 	//--------------------------------------
@@ -597,6 +621,7 @@
 	"bd597ac9-6640-43ba-9bd8-ed584a794f13": "obj_scrap_driverseat",
 	"847daf20-02bf-4170-8699-9ab106acd29a": "obj_scrap_seat",
 	"59f6951a-a450-42bf-ad03-54567cb70245": "obj_scrap_smallwheel",
+
 	//--------------------------------------
 	// seeds.json
 	//--------------------------------------
@@ -609,6 +634,7 @@
 	"38e41fb5-dd50-4294-829d-a517f0282fed": "obj_seed_tomato",
 	"1c6756ca-3a60-4dcb-a5d1-353edf818308": "obj_seed_broccoli",
 	"eb1ef696-5c05-4662-9e47-fe1e0875ff84": "obj_seed_potato",
+
 	//--------------------------------------
 	// spaceship.json
 	//--------------------------------------
@@ -660,6 +686,7 @@
 	"275e4258-ff57-45ae-8e2f-b82204c56d16": "obj_spaceship_ceilingvent02",
 	"fc4f1fd8-2544-45f0-8e3b-4684bc45e5f9": "obj_spaceship_floor_panel",
 	"1f5d8b77-183c-4f8b-83d7-a3940d090926": "obj_spaceship_infoboard",
+
 	//--------------------------------------
 	// stoneparts.json
 	//--------------------------------------
@@ -672,6 +699,7 @@
 	"0b114031-5065-4365-922d-3980d791e00d": "obj_harvest_stonechunk01",
 	"4e3f17bb-0169-4eb5-a4b4-84725a607b2c": "obj_harvest_stonechunk02",
 	"4cd7a389-a1ac-47f4-8cc0-2776174985da": "obj_harvest_stonechunk03",
+
 	//--------------------------------------
 	// survivalobject.json
 	//--------------------------------------
@@ -705,10 +733,22 @@
 	"d1840356-ad77-4505-a9a0-10d11a77986f": "obj_hideout_dropoff",
 	"de7eea5b-9262-476b-a5bb-238d0e91f81f": "obj_survivalobject_kobag",
 	"79cc711e-7094-4029-8419-bbbf8f08c6f2": "obj_survivalobject_ruinchest",
+
 	//--------------------------------------
 	// test.json
 	//--------------------------------------
 	"176e4c20-93d6-4792-860e-7043f12003a6": "obj_craftbot_omnicrafter",
+
+	//--------------------------------------
+	// toolparts.json
+	//--------------------------------------
+	"85fc5f11-722b-4723-91f2-293a81ad0800": "obj_tool_connect",
+	"731c6a84-7ae7-439d-a620-128076f9985c": "obj_tool_paint",
+	"836e98a2-8c8c-4a6b-9239-54acdd4f4736": "obj_tool_weld",
+	"2d7f1278-ac93-4039-9eb2-d31715ea10ff": "obj_tool_spudgun",
+	"b633c3ee-2cda-4096-989a-60e90cd220aa": "obj_tool_spudling",
+	"3faf624b-0a95-452f-b6cd-9930ad1731c5": "obj_tool_frier",
+
 	//--------------------------------------
 	// tools.json
 	//--------------------------------------
@@ -723,6 +763,7 @@
 	"c5ea0c2f-185b-48d6-b4df-45c386a575cc": "tool_spudgun",
 	"f6250bf4-9726-406f-a29a-945c06e460e5": "tool_shotgun",
 	"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b": "tool_gatling",
+
 	//--------------------------------------
 	// treeparts.json
 	//--------------------------------------
@@ -816,6 +857,7 @@
 	"0539121b-9588-4c64-bdd0-25b0a29b081a": "obj_harvests_trees_pine03_p08",
 	"05c81c17-3780-4edb-80a4-1648c25ca460": "obj_harvests_trees_pine03_p09",
 	"15ee8b4c-d58b-462f-a0a0-5c9bcdff495f": "obj_harvests_trees_pine03_p10",
+
 	//--------------------------------------
 	// vehicle.json
 	//--------------------------------------
@@ -826,6 +868,7 @@
 	"eb608c5d-c418-49db-a2c5-1c8186b3d314": "obj_vehicle_mediumpipebent",
 	"64fdc73f-259a-49df-94ac-24db25a4dc42": "obj_vehicle_wheelhousecorner",
 	"6f38a734-571f-4c3d-97b9-c0aa480973af": "obj_vehicle_concavewedge",
+
 	//--------------------------------------
 	// warehouse.json
 	//--------------------------------------

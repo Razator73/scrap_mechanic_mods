@@ -48,6 +48,7 @@ function CottonPlant.sv_n_harvest( self, params, player )
 		if sm.container.beginTransaction() then
 			sm.container.collect( container, obj_resource_cotton, cottonAmount )
 			if sm.container.endTransaction() then
+				sm.event.sendToPlayer( player, "sv_e_onLoot", { uuid = obj_resource_cotton, pos = self.harvestable.worldPosition } )
 				sm.effect.playEffect( "Cotton - Picked", self.harvestable.worldPosition )
 				sm.harvestable.create( hvs_farmables_growing_cottonplant, self.harvestable.worldPosition, self.harvestable.worldRotation )
 				sm.harvestable.destroy( self.harvestable )

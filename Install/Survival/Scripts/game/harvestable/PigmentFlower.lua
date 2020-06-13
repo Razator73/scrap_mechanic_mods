@@ -10,8 +10,8 @@ end
 function PigmentFlower.server_onMelee( self, hitPos, attacker, damage )
 	if not self.harvested and sm.exists( self.harvestable ) then
 		sm.effect.playEffect( "Pigmentflower - Picked", self.harvestable.worldPosition )
-
-		local hX = math.random( 1, 3 )		
+		
+		local hX = math.random( 1, 3 )
 		local harvest = {
 			lootUid = obj_resource_flower,
 			lootQuantity = hX
@@ -40,6 +40,7 @@ function PigmentFlower.sv_n_harvest( self, params, player )
 		if sm.container.beginTransaction() then
 			sm.container.collect( container, obj_resource_flower, flowerAmount )
 			if sm.container.endTransaction() then
+				sm.event.sendToPlayer( player, "sv_e_onLoot", { uuid = obj_resource_flower, pos = self.harvestable.worldPosition } )
 				sm.effect.playEffect( "Pigmentflower - Picked", self.harvestable.worldPosition )
 				sm.harvestable.create( hvs_farmables_growing_pigmentflower, self.harvestable.worldPosition, self.harvestable.worldRotation )
 				sm.harvestable.destroy( self.harvestable )

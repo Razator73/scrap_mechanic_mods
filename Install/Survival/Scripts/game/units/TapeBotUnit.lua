@@ -68,6 +68,7 @@ function TapebotUnit.server_onCreate( self )
 	if self.data then
 		self.explosiveProjectile = self.data.explosiveProjectile
 	end
+	self.projectileBreachLevel = self.explosiveProjectile and 7 or 4
 
 	self.unit.eyeHeight = self.unit.character:getHeight() * 0.75
 	self.unit.visionFrustum = {
@@ -213,15 +214,25 @@ function TapebotUnit.server_onFixedUpdate( self, dt )
 			if self.randomRaidFireTimer:done() then
 				local contacts = sm.physics.getSphereContacts( self.unit.character.worldPosition, self.attackRange )
 				if #contacts.bodies > 0 then
-					local validBodies = {}
+					local validShapes = {}
 					for _, body in ipairs( contacts.bodies ) do
 						if body.destructable then
-							validBodies[#validBodies+1] = body
+							for _, shape in ipairs( body:getShapes() ) do
+								local shapeQualityLevel = sm.item.getQualityLevel( shape.shapeUuid )
+								if shape.destructable and self.projectileBreachLevel >= shapeQualityLevel and shapeQualityLevel > 0 then
+									validShapes[#validShapes+1] = shape
+								end
+							end
 						end
 					end
-					if #validBodies > 0 then
-						local targetBody = validBodies[math.random( 1, #validBodies )]
-						local targetPosition = sm.ai.getRandomCreationPosition( targetBody )
+
+					if #validShapes > 0 then
+						local targetShape = validShapes[math.random( 1, #validShapes )]
+						local targetPosition = targetShape.worldPosition
+						if sm.item.isBlock( targetShape.shapeUuid ) then
+							local targetLocalPosition = targetShape:getClosestBlockLocalPosition( self.unit.character.worldPosition )
+							targetPosition = targetShape.body:transformPoint( ( targetLocalPosition + sm.vec3.new( 0.5, 0.5, 0.5 ) ) * 0.25 )
+						end
 						self.rangedAttack.aimPoint = targetPosition
 						self.suppressionFireTimer:reset()
 					end

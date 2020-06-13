@@ -13,16 +13,13 @@ end
 
 function SlimyClam.sv_onHit( self )
 	if not self.harvested and sm.exists( self.harvestable ) then
-	
-		local hX = math.random( 1, 2 )
-		local harvest = {
-			lootUid = obj_resources_slimyclam,
-			lootQuantity = hX
-		}		
-		
-		local pos = self.harvestable:getPosition() + sm.vec3.new( 0, 0, 0.5 )
-		sm.projectile.harvestableCustomProjectileAttack( harvest, "loot", 0, pos, sm.noise.gunSpread( sm.vec3.new( 0, 0, 1 ), 20 ) * 5, self.harvestable, 0 )
-	
+		local lootList = {}
+		local count = randomStackAmountAvg2()
+		for i = 1, count do
+			lootList[i] = { uuid = obj_resources_slimyclam }
+		end
+		SpawnLoot( self.harvestable, lootList, self.harvestable.worldPosition + sm.vec3.new( 0, 0, 0.25 ), math.pi / 36 )
+
 		sm.harvestable.create( hvs_farmables_slimyclam_broken, self.harvestable.worldPosition, self.harvestable.worldRotation )
 		sm.harvestable.destroy( self.harvestable )
 		self.harvested = true

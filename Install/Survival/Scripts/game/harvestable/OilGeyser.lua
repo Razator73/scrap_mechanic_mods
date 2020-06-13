@@ -26,11 +26,12 @@ end
 function OilGeyser.sv_n_harvest( self, params, player )
 	if not self.harvested and sm.exists( self.harvestable ) then
 		local container = player:getInventory()
-		local hX = math.random( 1, 3 )
+		local quantity = randomStackAmount( 1, 2, 4 )
 		if sm.container.beginTransaction() then
-			sm.container.collect( container, obj_resource_crudeoil, hX )
+			sm.container.collect( container, obj_resource_crudeoil, quantity )
 			if sm.container.endTransaction() then
-				sm.effect.playEffect( 	"Oilgeyser - Picked", self.harvestable.worldPosition )
+				sm.event.sendToPlayer( player, "sv_e_onLoot", { uuid = obj_resource_crudeoil, quantity = quantity, pos = self.harvestable.worldPosition } )
+				sm.effect.playEffect( "Oilgeyser - Picked", self.harvestable.worldPosition )
 				sm.harvestable.create( hvs_farmables_growing_oilgeyser, self.harvestable.worldPosition, self.harvestable.worldRotation )
 				sm.harvestable.destroy( self.harvestable )
 				self.harvested = true
