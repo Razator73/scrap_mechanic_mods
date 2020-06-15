@@ -1,8 +1,11 @@
 
 [
 	"spudgun_turret",
-	"rover_finished",
-	"rover_unfinished",
 	"farmer_4wheeler",
-	"rover2"
+	"rover1",
+	"rover2",
+	"spud_turret",
+	"black_flyer",
+	"green_flyer",
+	"blue_bike"
 ]
