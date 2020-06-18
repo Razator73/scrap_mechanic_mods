@@ -147,6 +147,10 @@ function SurvivalGame.client_onCreate( self )
 		sm.game.bindChatCommand( "/printglobals", {}, "cl_onChatCommand", "Print all global lua variables" )
 		sm.game.bindChatCommand( "/clearpathnodes", {}, "cl_onChatCommand", "Clear all path nodes in overworld" )
 		sm.game.bindChatCommand( "/enablepathpotatoes", { { "bool", "enable", true } }, "cl_onChatCommand", "Creates path nodes at potato hits in overworld and links to previous node" )
+		
+		--custom
+		sm.game.bindChatCommand( "/tp", { { "string", "x,y,z", false } }, "cl_onChatCommand", "Teleport to numerical position" )
+		sm.game.bindChatCommand( "/dir", { }, "cl_onChatCommand", "Tell you direction vector you are looking at." )
 	end
 
 	self.cl = {}
@@ -541,6 +545,35 @@ function SurvivalGame.sv_onChatCommand( self, params, player )
 		print( "Globals:" )
 		for k,_ in pairs(_G) do
 			print( k )
+		end
+		
+	elseif params[1] == "/dir" then
+		local dir = player.character:getDirection()
+		self.network:sendToClient( player, "client_showMessage", "x:"..dir.x.." y:"..dir.y.." z:"..dir.z)
+	elseif params[1] == "/tp" then
+		local pos
+		if params[2] == "here" then
+			pos = player.character:getWorldPosition()
+			local dir = player.character:getDirection()
+			self.network:sendToClient( player, "client_showMessage", "x:"..math.floor(pos.x).." y:"..math.floor(pos.y).." z:"..math.floor(pos.z) )
+			--self.network:sendToClient( player, "client_showMessage", "looking x:"..dir.x.." y:"..dir.y.." z:"..dir.z )
+			return
+		else
+			if params[2] ~= nil then
+				local x,y,z = params[2]:match("([^,]+),([^,]+),([^,]+)")
+				pos = sm.vec3.new( tonumber(x),tonumber(y),tonumber(z) )
+			else
+				self.network:sendToClient( player, "client_showMessage", "Usage: /tp x,y,z or /tp here to see current coords" )
+			end
+		end
+		if pos then
+			local cellX, cellY = math.floor( pos.x/64 ), math.floor( pos.y/64 )
+			print("x:"..cellX.." y:"..cellY)
+			local dir = player.character:getDirection()
+			dir.x = 0
+			dir.y = 1
+			dir.z = -1
+			self.sv.saved.overworld:loadCell( cellX, cellY, player, "sv_recreatePlayerCharacter", { pos = pos, dir = dir } )
 		end
 
 	elseif params[1] == "/clearpathnodes"
