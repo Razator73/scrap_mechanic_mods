@@ -27,4 +27,5 @@ if __name__ == '__main__':
     with open(item_names_file) as i:
         item_names = json.load(i)
 
+    add_item_names(craftbot_path, item_names)
     add_item_names(hideout_path, item_names)
