@@ -3,22 +3,28 @@ import re
 from pathlib import Path
 
 
-craftbot_path = Path('Install/Survival/CraftingRecipes/craftbot.json')
-item_names_file = Path('item_names.json')
+def add_item_names(file, names):
+    with open(file) as f:
+        recipe_lines = f.readlines()
 
-with open(item_names_file) as f:
-    item_names = json.load(f)
+    item_id_regex = re.compile(r'(\t*)"itemId": "([a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12})"')
+    commented_lines = []
+    for line in recipe_lines:
+        if line_search := item_id_regex.search(line):
+            tabs, item_id = line_search.groups()
+            commented_lines.append(f'{tabs}// {names[item_id]}\n')
+        commented_lines.append(line)
 
-with open(craftbot_path) as f:
-    craftbot_lines = f.readlines()
+    with open(file, 'w') as f:
+        f.writelines(commented_lines)
 
-item_id_regex = re.compile(r'(\t*)"itemId": "([a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12})"')
-commented_lines = []
-for line in craftbot_lines:
-    if line_search := item_id_regex.search(line):
-        tabs, item_id = line_search.groups()
-        commented_lines.append(f'{tabs}// {item_names[item_id]}\n')
-    commented_lines.append(line)
 
-with open(craftbot_path, 'w') as f:
-    f.writelines(commented_lines)
+if __name__ == '__main__':
+    craftbot_path = Path('Install/Survival/CraftingRecipes/craftbot.json')
+    hideout_path = Path('Install/Survival/CraftingRecipes/hideout.json')
+    item_names_file = Path('item_names.json')
+
+    with open(item_names_file) as i:
+        item_names = json.load(i)
+
+    add_item_names(hideout_path, item_names)
