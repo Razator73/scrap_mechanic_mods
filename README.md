@@ -20,6 +20,15 @@ Added a blue print tool for storing vehicles/creations and then can extract them
 if the appropriate parts are in the new printer container. Original code by ren
 [github link](https://github.com/madalilng/SMS-blueprint)
 
+## GUI Changes
+* Added coordinates and direction next to the time in the top left corner
+
+## Dev commands
+Added a couple of commands for use in the mapping tool by the1killer,
+[github link](https://github.com/the1killer/sm_overview_ahk). The tool adds
+`/tp` and `/dir` commands. Though I have commands turned off in this mod
+pack so to use them dev mode needs to be enabled. 
+
 ## Harvesting Changes
 
 * Pigment Flowers now randomly gives between 1-3 flowers
