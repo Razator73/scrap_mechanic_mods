@@ -140,6 +140,19 @@
 		]
 	},
 	{
+		// blk_scrapmetal
+		"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// obj_interactive_robotbliphead01
+				"itemId": "1c04327f-1de4-4b06-92a8-2c9b40e491aa"
+			}
+		]
+	},
+	{
 		// blk_metal1
 		"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e",
 		"quantity": 10,
