@@ -147,7 +147,7 @@ function SurvivalGame.client_onCreate( self )
 		sm.game.bindChatCommand( "/printglobals", {}, "cl_onChatCommand", "Print all global lua variables" )
 		sm.game.bindChatCommand( "/clearpathnodes", {}, "cl_onChatCommand", "Clear all path nodes in overworld" )
 		sm.game.bindChatCommand( "/enablepathpotatoes", { { "bool", "enable", true } }, "cl_onChatCommand", "Creates path nodes at potato hits in overworld and links to previous node" )
-		
+
 		--custom
 		sm.game.bindChatCommand( "/tp", { { "string", "x,y,z", false } }, "cl_onChatCommand", "Teleport to numerical position" )
 		sm.game.bindChatCommand( "/dir", { }, "cl_onChatCommand", "Tell you direction vector you are looking at." )
@@ -546,7 +546,7 @@ function SurvivalGame.sv_onChatCommand( self, params, player )
 		for k,_ in pairs(_G) do
 			print( k )
 		end
-		
+
 	elseif params[1] == "/dir" then
 		local dir = player.character:getDirection()
 		self.network:sendToClient( player, "client_showMessage", "x:"..dir.x.." y:"..dir.y.." z:"..dir.z)
