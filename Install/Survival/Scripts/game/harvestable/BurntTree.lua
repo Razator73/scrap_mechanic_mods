@@ -47,7 +47,7 @@ function BurntTree.sv_onHit( self, damage )
 			for i = 1, slots do
 				lootList[i] = { uuid = obj_resource_ember, quantity = 1 }
 			end
-			SpawnLoot( self.harvestable, lootList )
+			SpawnLoot( self.harvestable, lootList, self.harvestable.worldPosition + sm.vec3.new( 0, 0, 0.75 ) )
 
 			self.harvestable:destroy()
 			self.sv.destroyed = true

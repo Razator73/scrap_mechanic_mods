@@ -28,7 +28,7 @@
 			},
 			"itemStack": {},
 			"rotationSet": "PropY",
-			"sticky": "-Y",
+			"sticky": "-Y+Y",
 			"physicsMaterial": "Plastic",
 			"ratings": {
 				"density": 2,
@@ -145,6 +145,7 @@
 			},
 			"itemStack": {},
 			"rotationSet": "PropY",
+			"sticky": "-Y+Y",
 			"physicsMaterial": "Fruit",
 			"ratings": {
 				"density": 2,
@@ -193,6 +194,7 @@
 			},
 			"itemStack": {},
 			"rotationSet": "PropY",
+			"sticky": "-Y+Y",
 			"physicsMaterial": "Fruit",
 			"ratings": {
 				"density": 2,

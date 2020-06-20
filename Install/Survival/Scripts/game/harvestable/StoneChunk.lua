@@ -91,12 +91,19 @@ function StoneChunk.server_onExplosion( self, center, destructionLevel )
 	end
 end
 
-function StoneChunk.server_onCollision( self, other, collisionPosition, selfPointVelocity, otherPointVelocity, collisionNormal )	
+function StoneChunk.server_onCollision( self, other, collisionPosition, selfPointVelocity, otherPointVelocity, collisionNormal )
 	if type( other ) == "Shape" and sm.exists( other ) then
 		if other.shapeUuid == obj_powertools_drill then
 			local angularVelocity = other.body.angularVelocity
 			if angularVelocity:length() > SPINNER_ANGULAR_THRESHOLD then
-				local damage = math.min( 2.5, angularVelocity:length() )
+				local damage = 2.5
+				if self.data.chunkSize then
+					if self.data.chunkSize == 1 then
+						damage = 5
+					elseif self.data.chunkSize == 2 then
+						damage = 3.75
+					end
+				end
 				self:sv_onHit( damage )
 			end
 		end

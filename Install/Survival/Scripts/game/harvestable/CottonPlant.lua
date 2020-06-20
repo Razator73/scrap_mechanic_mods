@@ -11,10 +11,9 @@ function CottonPlant.server_onMelee( self, hitPos, attacker, damage )
 	if not self.harvested and sm.exists( self.harvestable ) then
 		sm.effect.playEffect( "Cotton - Picked", self.harvestable.worldPosition )
 		
-		local cottonAmount = math.random( 1, 3 )
 		local harvest = {
 			lootUid = obj_resource_cotton,
-			lootQuantity = cottonAmount
+			lootQuantity = 1
 		}
 		local pos = self.harvestable:getPosition() + sm.vec3.new( 0, 0, 0.5 )
 		sm.projectile.harvestableCustomProjectileAttack( harvest, "loot", 0, pos, sm.noise.gunSpread( sm.vec3.new( 0, 0, 1 ), 20 ) * 5, self.harvestable, 0 )
@@ -44,9 +43,8 @@ end
 function CottonPlant.sv_n_harvest( self, params, player )
 	if not self.harvested and sm.exists( self.harvestable ) then
 		local container = player:getInventory()
-                local cottonAmount = math.random( 1, 3 )
 		if sm.container.beginTransaction() then
-			sm.container.collect( container, obj_resource_cotton, cottonAmount )
+			sm.container.collect( container, obj_resource_cotton, 1 )
 			if sm.container.endTransaction() then
 				sm.event.sendToPlayer( player, "sv_e_onLoot", { uuid = obj_resource_cotton, pos = self.harvestable.worldPosition } )
 				sm.effect.playEffect( "Cotton - Picked", self.harvestable.worldPosition )

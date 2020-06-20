@@ -66,13 +66,26 @@
 		]
 	},
 	{
+		// obj_seed_cotton
+		"itemId": "93c27ab2-4930-4654-ba1c-bcfe35e966f6",
+		"quantity": 5,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// obj_crates_banana
+				"itemId": "0bc74539-df8a-47c7-aad8-d55d809a01e4"
+			}
+		]
+	},
+	{
 		// obj_powertools_sawblade
 		"itemId": "3e10ef67-383a-4b60-aa5b-b1173134e437",
 		"quantity": 1,
 		"craftTime": 0,
 		"ingredientList": [
 			{
-				"quantity": 5,
+				"quantity": 4,
 				// obj_crates_tomato
 				"itemId": "1dcd74ca-39ba-4b00-a36a-3381b25055f4"
 			}
@@ -85,7 +98,7 @@
 		"craftTime": 0,
 		"ingredientList": [
 			{
-				"quantity": 5,
+				"quantity": 4,
 				// obj_crates_redbeet
 				"itemId": "628fd350-577d-413f-82a8-7f08a83de3d8"
 			}

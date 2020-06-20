@@ -110,7 +110,7 @@
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_consumable_corn_col.obj"
 			},
 			"rotationSet": "PropY",
-			"sticky": "-Y",
+			"sticky": "-Y+Y",
 			"physicsMaterial": "Fruit",
 			"ratings": {
 				"density": 4,
@@ -259,6 +259,7 @@
 			},
 			"itemStack": {},
 			"rotationSet": "PropY",
+			"sticky": "-Y+Y",
 			"physicsMaterial": "Metal",
 			"ratings": {
 				"density": 4,

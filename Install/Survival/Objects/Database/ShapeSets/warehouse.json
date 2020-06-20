@@ -977,7 +977,7 @@
 				"z": 1,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_fancube.obj"
 			},
-			"rotationSet": "PropY",
+			"rotationSet": "PropYmmNegYmmZ",
 			"physicsMaterial": "Metal",
 			"ratings": {
 				"density": 5,
@@ -1347,7 +1347,7 @@
 				"z": 2,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_overheadcranearm.obj"
 			},
-			"rotationSet": "PropZNegZ",
+			"rotationSet": "PropZX",
 			"sticky": "+X-X-Z+Z",
 			"physicsMaterial": "Metal",
 			"ratings": {
@@ -1495,7 +1495,7 @@
 				"z": 6,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_overheadcranearmplatform.obj"
 			},
-			"rotationSet": "PropYNegYZ",
+			"rotationSet": "PropYNegYZX",
 			"physicsMaterial": "Metal",
 			"ratings": {
 				"density": 5,
@@ -1533,7 +1533,7 @@
 				"z": 4,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_overheadcranetrolley.obj"
 			},
-			"rotationSet": "PropZNegY",
+			"rotationSet": "PropYNegYZX",
 			"physicsMaterial": "Metal",
 			"ratings": {
 				"density": 7,

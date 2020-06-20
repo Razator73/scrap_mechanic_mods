@@ -520,7 +520,7 @@
 				"y": 3,
 				"z": 3
 			},
-			"rotationSet": "PropYX",
+			"rotationSet": "PropYmmNegYmmZ",
 			"physicsMaterial": "Plastic",
 			"ratings": {
 				"density": 2,
@@ -576,7 +576,7 @@
 				"z": 1,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_office_cubicle.obj"
 			},
-			"rotationSet": "PropYZ",
+			"rotationSet": "PropYmZX",
 			"physicsMaterial": "Plastic",
 			"ratings": {
 				"density": 3,
@@ -716,7 +716,7 @@
 				"z": 4,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_office_deskextension.obj"
 			},
-			"rotationSet": "PropZY",
+			"rotationSet": "PropYmNegYmZ",
 			"physicsMaterial": "Metal",
 			"ratings": {
 				"density": 4,
@@ -884,7 +884,7 @@
 				"y": 1,
 				"z": 3
 			},
-			"rotationSet": "PropY",
+			"rotationSet": "PropYNegY",
 			"sticky": "+Y-Y",
 			"physicsMaterial": "Metal",
 			"ratings": {

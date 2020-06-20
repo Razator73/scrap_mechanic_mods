@@ -3,31 +3,7 @@
 		{
 			"uuid": "2aa8cb2c-2311-440c-8162-829ee394fbc2",
 			"name": "obj_manmade_scrapwall01",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scrapwall01_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_scrapwall01.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_scrapwall01.rend",
 			"color": "0a4444",
 			"box": {
 				"x": 8,
@@ -49,31 +25,7 @@
 		{
 			"uuid": "b94a113d-ddd4-45db-844c-1d97ca0e1d61",
 			"name": "obj_manmade_scrapwallsmall",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scrapwallSmall_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_scrapwallSmall.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_scrapwallsmall.rend",
 			"color": "0a4444",
 			"box": {
 				"x": 8,
@@ -95,40 +47,7 @@
 		{
 			"uuid": "c8ca8731-3af2-4554-9019-6b941affcb16",
 			"name": "obj_manmade_scraproof01",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_blinds_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_blinds_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_blinds_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scraproof01_ao.tga"
-								],
-								"material": "DifAsgNorAlphaFlipAo"
-							},
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scraproof01_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_scraproof01.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_scraproof01.rend",
 			"color": "0e8031",
 			"box": {
 				"x": 8,
@@ -151,40 +70,7 @@
 		{
 			"uuid": "c4ec4d33-83f7-4e7e-bb0a-8df52f96aef5",
 			"name": "obj_manmade_scraproof02",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scraproof02_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							},
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_blinds_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_blinds_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_blinds_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scraproof02_ao.tga"
-								],
-								"material": "DifAsgNorAlphaFlipAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_scraproof02.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_scraproof02.rend",
 			"color": "0e8031",
 			"hull": {
 				"x": 8,
@@ -208,31 +94,7 @@
 		{
 			"uuid": "0c07dba0-be79-40fd-9ed8-5a1c34e2d196",
 			"name": "obj_manmade_scraproof03",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_scraproof03_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_scraproof03.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_scraproof03.rend",
 			"color": "3a5964",
 			"box": {
 				"x": 8,
@@ -298,24 +160,7 @@
 		{
 			"uuid": "27c00cfb-4e7f-45fc-a037-f9a941464ce6",
 			"name": "obj_manmade_freshsign",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga"
-								],
-								"material": "PoseAnimDifAsgNor"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_signFresh_off.fbx",
-						"pose0": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_signFresh_on.fbx"
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_freshsign.rend",
 			"color": "19f088",
 			"hull": {
 				"x": 5,
@@ -341,40 +186,7 @@
 		{
 			"uuid": "20bd2885-d184-44ae-b72b-f90b786f8664",
 			"name": "obj_manmade_holidayposter",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							},
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_atlas01_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_holidayposter.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_holidayposter.rend",
 			"color": "eb6a90",
 			"hull": {
 				"x": 8,
@@ -396,31 +208,7 @@
 		{
 			"uuid": "2289e96f-f9c6-440c-b7c9-ce9474da8264",
 			"name": "obj_manmade_salesign",
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList": [
-							{
-								"textureList": [
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_dif.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_asg.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_holidayposter_nor.tga",
-									"$SURVIVAL_DATA/Objects/Textures/manmade/obj_manmade_SaleSign_ao.tga"
-								],
-								"material": "DifAsgNorAo"
-							}
-						],
-						"mesh": "$SURVIVAL_DATA/Objects/Mesh/manmade/obj_manmade_saleSign.fbx",
-						"includes": [
-							"POSITION",
-							"UV0",
-							"UV1",
-							"NORMAL",
-							"TANGENTS"
-						]
-					}
-				]
-			},
+			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_salesign.rend",
 			"color": "e9e9e9",
 			"box": {
 				"x": 3,
