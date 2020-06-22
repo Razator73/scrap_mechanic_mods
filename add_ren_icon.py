@@ -32,7 +32,7 @@ icon_map_xml = icon_map_folder / 'IconMapSurvival.xml'
 with open(icon_map_xml) as f:
     icon_map_lines = f.readlines()
 
-ren_container_lines = ['            <Index name="5bbe87d3-d60a-48b5-9ca9-0086c80ebf7f">\n',
+ren_container_lines = ['            <Index name="d4e6c84c-a493-44b1-81aa-4f4741ea3ee0">\n',
                        f'                <Frame point="{x} {y}"/>\n',
                        '            </Index>\n']
 
