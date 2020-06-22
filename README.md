@@ -12,8 +12,10 @@ and hit `Properties > Browse Local Files`.
 
 ## Uninstall
 
-To revert the game back to vanilla copy the contents in the Uninstall folder 
-into the Scrap Mechanic main directory and overwrite when prompted.
+Removed the Uninstall folder for now. The best way to do this would probably be
+to remove the Data and Survival folders and verify the files with Steam. I've also
+gone about it by uninstalling the whole game and reinstalling. I'll probably add
+the Uninstall folder back in sometime.
 
 ## Added Tools
 Added a blue print tool for storing vehicles/creations and then can extract them
@@ -104,3 +106,8 @@ Fertilizer Stack increased to 50 from 20
 * 20 Circuit Boards for 1 crate of Redbeets, 1 Crate of Blueberries, and 1 crate of Carrots
 * Paint Gun Ammo for 3 crates of Oranges
 * Epic Garment Box for 3 crates of Pineapples, 3 crates of Broccoli, and 3 Caged Farmers
+
+## Python Scripts
+
+These scripts are just for ease of maintaining my modded files. Also assist in the
+updating of the mods when a new version comes out.
