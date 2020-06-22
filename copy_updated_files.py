@@ -10,7 +10,6 @@ def _copy(self, target):
 Path.copy = _copy
 
 game_files_path = Path('game_files')
-uninstall_path = Path('Uninstall')
 install_path = Path('Install')
 
 modded_files = []
@@ -19,10 +18,10 @@ for path in install_path.glob('**/*.*'):
 
 for path in game_files_path.glob('**/*.*'):
     if str(path)[11:] in modded_files:
-        copy_path = uninstall_path / str(path)[11:]
+        copy_path = install_path / str(path)[11:]
         copy_dir = Path(*copy_path.parts[:-1])
         copy_dir.mkdir(parents=True, exist_ok=True)
         path.copy(copy_path)
 
-for path in uninstall_path.glob('**/*.*'):
+for path in install_path.glob('**/*.*'):
     print(path)
