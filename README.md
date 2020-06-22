@@ -33,7 +33,6 @@ pack so to use them dev mode needs to be enabled.
 
 * Pigment Flowers now randomly gives between 1-3 flowers
 * Beehives now give 3-5 beeswax
-* Cotton Plants now give 1-3 cotton
 * Burnt Trees now give 4-6 ember
 * All refine materials give 15 blocks (up from 10)
 * Doubled damage done to stone for faster harvesting
@@ -93,6 +92,7 @@ Fertilizer Stack increased to 50 from 20
 * Fertilizer Alternative - 5 Fertilizer for 30 Orange seeds
 * Fertilizer Alternative - 5 Fertilizer for 30 Pineapple seeds
 * Fertilizer Alternative - 5 Fertilizer for 30 Potato seeds
+* Fertilizer Alternative - 5 Fertilizer for 30 Cotton seeds
 * Blueprint tool - 13 Component Kits, 10 Scrap Metal, and 2 Circuit Boards
 * Blueprint container - 60 Metal 1, 5 Circuit Boards, 3 Component Kits, and 5 Glue
 * Scrap Metal - 10 for 15 rusted metal blocks

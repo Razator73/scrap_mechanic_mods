@@ -2614,5 +2614,18 @@
 				"itemId": "9edb6f7c-fb44-4348-a1c4-8afb41b92d8a"
 			}
 		]
+	},
+	{
+		// obj_consumable_fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// obj_seed_cotton
+				"itemId": "93c27ab2-4930-4654-ba1c-bcfe35e966f6"
+			}
+		]
 	}
 ]
