@@ -1,5 +1,5 @@
 # QOL mod for Scrapmechanic
-Updated for test release 0.4.6
+Updated for release 0.4.6
 
 ## Installation
 
