@@ -815,5 +815,9 @@
 
 	"448f7c93-699d-47b4-83ef-dbc78a1f9636": "gps_imap",
 	"d0afb527-e786-4a22-a014-d847900458a7": "gps_satellite",
-	"f08d772f-9851-47b4-83ef-6da7e7cba8cb": "gps_map_gui"
+	"f08d772f-9851-47b4-83ef-6da7e7cba8cb": "gps_map_gui",
+
+	"c658151c-1434-4ff4-817a-12d381f4c6e8": "obj_craftbot_recyclebot",
+	"3afbe615-0499-4640-8967-46bc8d6c9c53": "obj_vehicle_biggestwheel",
+	"fe0b5b1c-ae0f-43b3-869b-b0b809958477": "obj_vehicle_biggerwheel"
 }
