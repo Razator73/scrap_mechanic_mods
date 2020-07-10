@@ -811,5 +811,9 @@
 	"2893e707-36b3-4ff1-bb3c-ef1b5524ae13": "obj_warehouse_craneplatform",
 	"cc454365-7262-4953-a190-4bead4f4a260": "obj_warehouse_encryptorsign_destruction",
 	"ba79e3c0-914f-46ff-874b-243df5589e3c": "obj_warehouse_encryptorsign_connection",
-	"be744e84-f67e-4c06-a809-c247adc1babb": "obj_warehouse_masterswitch"
+	"be744e84-f67e-4c06-a809-c247adc1babb": "obj_warehouse_masterswitch",
+
+	"448f7c93-699d-47b4-83ef-dbc78a1f9636": "gps_imap",
+	"d0afb527-e786-4a22-a014-d847900458a7": "gps_satellite",
+	"f08d772f-9851-47b4-83ef-6da7e7cba8cb": "gps_map_gui"
 }

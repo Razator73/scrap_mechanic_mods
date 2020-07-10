@@ -1,6 +1,62 @@
 // this file is generated
 [
 	{
+		// gps_imap
+		"itemId": "448f7c93-699d-47b4-83ef-dbc78a1f9636",
+		"quantity": 1,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// blk_metal3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 15,
+				// obj_resource_circuitboard
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 5,
+				// obj_consumable_component
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			},
+			{
+				"quantity": 3,
+				// obj_interactive_logicgate
+				"itemId": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f"
+			}
+		]
+	},
+	{
+		// gps_satellite
+		"itemId": "d0afb527-e786-4a22-a014-d847900458a7",
+		"quantity": 1,
+		"craftTime": 48,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// blk_metal3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 1,
+				// obj_interactive_thruster_02
+				"itemId": "9fc793b2-250b-40ab-bcb3-97cf97c7b481"
+			},
+			{
+				"quantity": 15,
+				// obj_consumable_gas
+				"itemId": "d4d68946-aa03-4b8f-b1af-96b81ad4e305"
+			},
+			{
+				"quantity": 7,
+				// obj_interactive_logicgate
+				"itemId": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f"
+			}
+		]
+	},
+	{
 		// tool_connect
 		"itemId": "8c7efc37-cd7c-4262-976e-39585f8527bf",
 		"quantity": 1,

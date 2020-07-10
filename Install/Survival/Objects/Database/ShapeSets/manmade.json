@@ -1,6 +1,32 @@
 {
 	"partList": [
 		{
+			"uuid": "2aa8cb2c-ddd4-4554-9019-5a1c34e2d196",
+			"name": "obj_map_data_box",
+			"renderable": "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_logicgate.rend",
+			"color": "0a4444",
+			"box": {
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"scripted": {
+				"filename": "$SURVIVAL_DATA/Scripts/WayPoints/data.lua",
+				"classname": "Data",
+				"data": {}
+			},
+			"rotationSet": "PropFull",
+			"destroyTime": 1.0,
+			"physicsMaterial": "Metal",
+			"ratings": {
+				"density": 1,
+				"durability": 10,
+				"friction": 1,
+				"buoyancy": 1
+			},
+			"flammable": true
+		},
+		{
 			"uuid": "2aa8cb2c-2311-440c-8162-829ee394fbc2",
 			"name": "obj_manmade_scrapwall01",
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/manmade/obj_manmade_scrapwall01.rend",

@@ -1,4 +1,16 @@
 {
+	"f08d772f-9851-47b4-83ef-6da7e7cba8cb": {
+		"title": "Map Gui",
+		"description": "Used for and by the map, DO NOT USE, DO NOT USE, DO NOT USE"
+	},
+	"d0afb527-e786-4a22-a014-d847900458a7": {
+		"title": "Satellite",
+		"description": "Used for upgrading the map"
+	},
+	"448f7c93-699d-47b4-83ef-dbc78a1f9636": {
+		"title": "iMap",
+		"description": "A Map of the world\n\n1: Upgrade the map\n2: Create a waypoint\n3: Delete a waypoint\n4: Delete all waypoints"
+	},
 	"f08d772f-9851-400f-a014-d847900458a7": {
 		"title": "Fridge",
 		"description": "Keeps your food fresh"
@@ -2469,6 +2481,6 @@
 		"title": "Cotton Seed"
 	},
     "d4e6c84c-a493-44b1-81aa-4f4741ea3ee0": {
-    "title": "Printer Container"
+        "title": "Printer Container"
 	}
 }

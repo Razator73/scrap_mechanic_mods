@@ -2420,8 +2420,14 @@
             <Index name="5bbe87d3-d60a-48b5-9ca9-0086c80ebf7f">
                 <Frame point="576 1824"/>
             </Index>
-            <Index name="d4e6c84c-a493-44b1-81aa-4f4741ea3ee0">
+            <Index name="d0afb527-e786-4a22-a014-d847900458a7">
+                <Frame point="768 1824"/>
+            </Index>
+            <Index name="448f7c93-699d-47b4-83ef-dbc78a1f9636">
                 <Frame point="672 1824"/>
+            </Index>
+            <Index name="d4e6c84c-a493-44b1-81aa-4f4741ea3ee0">
+                <Frame point="864 1824"/>
             </Index>
         </Group>
     </Resource>
