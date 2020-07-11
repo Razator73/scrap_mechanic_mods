@@ -1325,6 +1325,12 @@
             <Index name="7700c1f2-a33a-11ea-bb37-0242ac130002">
                 <Frame point="1056 1920"/>
             </Index>
+	        <Index name="d0afb527-e786-4a22-a014-d847900458a7">
+                <Frame point="1920 1920"/>
+            </Index>
+	        <Index name="448f7c93-699d-47b4-83ef-dbc78a1f9636">
+                <Frame point="1824 1920"/>
+            </Index>
         </Group>
     </Resource>
 </MyGUI>

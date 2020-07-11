@@ -1,4 +1,24 @@
-{
+{   
+	"f08d772f-9851-47b4-83ef-6da7e7cba8cb": {
+		"title": "Map Gui",
+		"description": "Used for and by the map, DO NOT USE, DO NOT USE, DO NOT USE"
+	},
+	"d0afb527-e786-4a22-a014-d847900458a7": {
+		"title": "Satellite",
+		"description": "Used for upgrading the map"
+	},
+	"448f7c93-699d-47b4-83ef-dbc78a1f9636": {
+		"title": "iMap",
+		"description": "A Map of the world\n\n1: Upgrade the map\n2: Create a waypoint\n3: Delete a waypoint\n4: Delete all waypoints"
+	},
+	"fe0b5b1c-ae0f-43b3-869b-b0b809958477": {
+		"title": "Bigger Wheel",
+		"description": "Better to offRoad with"
+	},
+	"3afbe615-0499-4640-8967-46bc8d6c9c53": {
+		"title": "Biggest Wheel",
+		"description": "Wow What A Wheel"
+	},
 	"f08d772f-9851-400f-a014-d847900458a7": {
 		"title": "Fridge",
 		"description": "Keeps your food fresh"
@@ -396,6 +416,10 @@
 	"b63c6440-dfc2-4da7-acdb-3c385080b2e4": {
 		"title": "Craftbot",
 		"description": "The Craftbot will help you craft everything from new blocks to useful interactive parts. A mechanics best friend."
+	},
+	"c658151c-1434-4ff4-817a-12d381f4c6e8": {
+		"title": "Recyclebot",
+		"description": "This Craftbot will recycle parts."
 	},
 	"b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f": {
 		"title": "Craftbot"
@@ -2469,6 +2493,6 @@
 		"title": "Cotton Seed"
 	},
     "d4e6c84c-a493-44b1-81aa-4f4741ea3ee0": {
-    "title": "Printer Container"
-  }
+        "title": "Printer Container"
+	}
 }

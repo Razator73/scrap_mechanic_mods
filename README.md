@@ -1,5 +1,5 @@
 # QOL mod for Scrapmechanic
-Updated for test release 0.4.6
+Updated for release 0.4.6
 
 ## Installation
 
@@ -17,19 +17,21 @@ to remove the Data and Survival folders and verify the files with Steam. I've al
 gone about it by uninstalling the whole game and reinstalling. I'll probably add
 the Uninstall folder back in sometime.
 
-## Added Tools
+## Added Mods
 Added a blue print tool for storing vehicles/creations and then can extract them
 if the appropriate parts are in the new printer container. Original code by ren
 [github link](https://github.com/madalilng/SMS-blueprint)
 
-## GUI Changes
-* Added coordinates and direction next to the time in the top left corner
+Added the [GPS/Map mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2160603338)
+by TheGuy920 and NightmaresInd
+
+Added [Survival Recipe with Balance](https://steamcommunity.com/sharedfiles/filedetails/?id=2103741159)
+by 10K
 
 ## Dev commands
 Added a couple of commands for use in the mapping tool by the1killer,
 [github link](https://github.com/the1killer/sm_overview_ahk). The tool adds
-`/tp` and `/dir` commands. Though I have commands turned off in this mod
-pack so to use them dev mode needs to be enabled. 
+`/tp` and `/dir` commands.
 
 ## Harvesting Changes
 
