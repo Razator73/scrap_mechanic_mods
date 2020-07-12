@@ -23,6 +23,7 @@ local random_loot = {
 	{ uuid = obj_consumable_inkammo,				chance = 25,	quantity = randomStackAmountAvg10 },
 	{ uuid = obj_consumable_glowstick,				chance = 8,		quantity = randomStackAmountAvg3 },
 	{ uuid = obj_consumable_soilbag,				chance = 25,	quantity = randomStackAmountAvg3 },
+	{ uuid = obj_consumable_glue,                   chance = 25, 	quantity = randomStackAmount5 },
 
 	{ uuid = obj_resource_circuitboard,				chance = 15,	quantity = randomStackAmountAvg2},
 
@@ -51,7 +52,7 @@ local random_epicloot = {
 
 	{ uuid = obj_consumable_gas,					chance = 30,	quantity = randomStackAmountAvg5 },
 	{ uuid = obj_consumable_battery,				chance = 25,	quantity = randomStackAmount5 },
-	{ uuid = obj_consumable_water,					chance = 10,		quantity = randomStackAmount10 },
+	{ uuid = obj_consumable_water,					chance = 10,	quantity = randomStackAmount10 },
 	{ uuid = obj_consumable_chemical,				chance = 20,	quantity = randomStackAmount10 },
 	{ uuid = obj_consumable_component,				chance = 70,	quantity = 1 },
 	
@@ -114,7 +115,7 @@ local loot_crate_epic = {
 	selectTwo = {
 		{ uuid = obj_outfitpackage_common, 			chance = 30 },
 		{ uuid = obj_outfitpackage_rare, 			chance = 20 },
-		{ uuid = obj_outfitpackage_epic, 			chance = 10 },
+		{ uuid = obj_outfitpackage_epic, 			chance = 5 },
 
 		{ uuid = obj_consumable_pizzaburger,		chance = 10,	quantity = randomStackAmountAvg2 },
 		{ uuid = obj_consumable_component, 			chance = 20,	quantity = randomStackAmountAvg5 },
@@ -240,7 +241,7 @@ local loot_haybot = {
 		{ uuid = obj_consumable_component,		chance = 7, 	quantity = 2 },
 		{ uuid = obj_resource_circuitboard,		chance = 20, 	quantity = randomStackAmountAvg2 },
 		{ uuid = obj_consumable_battery,		chance = 8 },
-		{ uuid = nil,							chance = 10 },
+		{ uuid = nil,							chance = 5 },
 	}
 }
 
@@ -258,17 +259,17 @@ local loot_tapebot = {
 }
 
 local loot_farmbot = {
-	slots = function() return randomStackAmount( 3, 4, 6 ) end,
+	slots = function() return randomStackAmount( 3, 4 ) end,
 	selectOne = {
 		{ uuid = obj_survivalobject_keycard,	chance = 20 },
 	},
 	randomLoot = {
-		{ uuid = blk_metal2,					chance = 12,	quantity = 50 },
-		{ uuid = obj_consumable_component,		chance = 22,	quantity = randomStackAmountAvg5 },
-		{ uuid = obj_resource_circuitboard,		chance = 22,	quantity = randomStackAmountAvg5 },
-		{ uuid = obj_consumable_fertilizer,		chance = 4,		quantity = randomStackAmountAvg10 },
-		{ uuid = obj_outfitpackage_rare,		chance = 4 },
-		{ uuid = obj_outfitpackage_epic,		chance = 2 },
+		{ uuid = blk_metal2,					chance = 24,	quantity = 50 },
+		{ uuid = obj_consumable_component,		chance = 44,	quantity = randomStackAmountAvg5 },
+		{ uuid = obj_resource_circuitboard,		chance = 44,	quantity = randomStackAmountAvg5 },
+		{ uuid = obj_consumable_fertilizer,		chance = 8,		quantity = randomStackAmountAvg10 },
+		{ uuid = obj_outfitpackage_rare,		chance = 8 },
+		{ uuid = obj_outfitpackage_epic,		chance = 1 },
 		{ uuid = obj_powertools_drill,			chance = 1 },
 	}
 }
