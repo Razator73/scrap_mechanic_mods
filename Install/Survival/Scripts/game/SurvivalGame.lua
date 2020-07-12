@@ -107,8 +107,7 @@ end
 
 function SurvivalGame.client_onCreate( self )
 	sm.game.bindChatCommand( "/blueprint", { { "string", "blueprint_name", true } }, "cl_onNewBlueprint", "Give next blueprint a name" )
-	--if g_survivalDev then
-	if true then
+	if g_survivalDev then
 		sm.game.bindChatCommand( "/ammo", { { "int", "quantity", true } }, "cl_onChatCommand", "Give ammo (default 50)" )
 		sm.game.bindChatCommand( "/spudgun", {}, "cl_onChatCommand", "Give the spudgun" )
 		sm.game.bindChatCommand( "/gatling", {}, "cl_onChatCommand", "Give the potato gatling gun" )
