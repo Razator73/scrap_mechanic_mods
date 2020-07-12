@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<MyGUI type="Layout" version="3.2.0">
+    <Widget type="Widget" skin="BackgroundEngine" name="MainPanelUpgrade" position_real="0 0 0.260417 0.583333">
+        <Property key="NeedKey" value="false" />
+        <Property key="NeedMouse" value="true" />
+        <Property key="InheritsAlpha" value="false" />
+        <Property key="Visible" value="false" />
+        <Widget type="Button" skin="UpgradeButton" name="Upgrade" position_real="0.664 0.839683 0.272 0.109524">
+            <Property key="FontName" value="Default" />
+            <Widget type="TextBox" skin="TextBox" name="UpgradeText" position_real="0.110294 0.202899 0.779412 0.26087">
+                <Property key="Caption" value="UPGRADE" />
+                <Property key="TextAlign" value="Center" />
+                <Property key="FontName" value="UpgradeCaption" />
+                <Property key="NeedMouse" value="false" />
+            </Widget>
+            <Widget type="TextBox" skin="TextBox" name="UpgradeCost" position_real="0.448529 0.463768 0.441176 0.26087">
+                <Property key="FontName" value="UpgradeCost" />
+                <Property key="TextAlign" value="Left VCenter" />
+                <Property key="Caption" value="00 / 00" />
+                <Property key="NeedMouse" value="false" />
+            </Widget>
+            <Widget type="ImageBox" skin="ImageBox" name="UpgradeIcon" position_real="0.279412 0.463768 0.147059 0.289855">
+                <Property key="ImageTexture" value="gui_icon_components.png" />
+                <Property key="NeedMouse" value="false" />
+            </Widget>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.0825397 0.8 0.0634921">
+            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="FontName" value="InventoryTitle" />
+            <Property key="TextAlign" value="Center" />
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" name="Icon" position_real="0.108 0.326984 0.24 0.190476" />
+        <Widget type="Widget" skin="PanelEmpty" name="Setting" position_real="0.44 0.21746 0.28 0.404762" />
+        <Widget type="ImageBox" skin="ImageBox" name="UpgradeIcon" position_real="0.07 0.825397 0.16 0.126984">
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.625 0.4875 0.375 0.5125">
+                <Property key="ImageTexture" value="gui_icon_upgrade.png" />
+            </Widget>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="SubTitle" position_real="0.1 0.146032 0.8 0.047619">
+            <Property key="TextAlign" value="Center" />
+            <Property key="TextColour" value="1 0.803922 0.247059" />
+            <Property key="FontName" value="InventoryItemCount" />
+        </Widget>
+        <Widget type="EditBox" skin="EditBoxEmpty" name="UpgradeInfo" position_real="0.298 0.798413 0.36 0.190476">
+            <Property key="Caption" value="Level 5/5" />
+            <Property key="TextAlign" value="Left VCenter" />
+            <Property key="FontName" value="InventoryTabLabel" />
+            <Property key="WordWrap" value="true" />
+            <Property key="Static" value="true" />
+            <Property key="ReadOnly" value="true" />
+            <Property key="MultiLine" value="true" />
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.634921 1 0.047619">
+            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="TextAlign" value="Center" />
+            <Property key="FontName" value="InventoryTabLabel" />
+        </Widget>
+    </Widget>
+    <Widget type="Widget" skin="BackgroundEngineNoUpgrade" name="MainPanelNoUpgrade" position_real="0.263021 0 0.260417 0.462037">
+        <Property key="NeedKey" value="false" />
+        <Property key="NeedMouse" value="true" />
+        <Property key="InheritsAlpha" value="false" />
+        <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.104208 0.8 0.0801603">
+            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="FontName" value="InventoryTitle" />
+            <Property key="TextAlign" value="Center" />
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="SubTitle" position_real="0.1 0.184369 0.8 0.0601202">
+            <Property key="TextAlign" value="Center" />
+            <Property key="TextColour" value="1 0.803922 0.247059" />
+            <Property key="FontName" value="InventoryItemCount" />
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" name="Icon" position_real="0.108 0.412826 0.24 0.240481" />
+        <Widget type="Widget" skin="PanelEmpty" name="Setting" position_real="0.44 0.274549 0.28 0.511022" />
+        <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.801603 1 0.0601202">
+            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="TextAlign" value="Center" />
+            <Property key="FontName" value="InventoryTabLabel" />
+        </Widget>
+    </Widget>
+    <Widget type="Widget" skin="BackgroundEngine" name="MainPanelFuelUpgrade" position_real="0.526042 0 0.260417 0.583333">
+        <Property key="NeedKey" value="false" />
+        <Property key="NeedMouse" value="true" />
+        <Property key="InheritsAlpha" value="false" />
+        <Property key="Visible" value="false" />
+        <Widget type="Button" skin="UpgradeButton" name="Upgrade" position_real="0.664 0.839683 0.272 0.109524">
+            <Property key="FontName" value="Default" />
+            <Widget type="TextBox" skin="TextBox" position_real="0.110294 0.202899 0.779412 0.26087">
+                <Property key="Caption" value="UPGRADE" />
+                <Property key="TextAlign" value="Center" />
+                <Property key="FontName" value="UpgradeCaption" />
+                <Property key="NeedMouse" value="false" />
+            </Widget>
+            <Widget type="TextBox" skin="TextBox" name="UpgradeCost" position_real="0.448529 0.463768 0.441176 0.26087">
+                <Property key="FontName" value="UpgradeCost" />
+                <Property key="TextAlign" value="Left VCenter" />
+                <Property key="Caption" value="00 / 00" />
+                <Property key="NeedMouse" value="false" />
+            </Widget>
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.279412 0.463768 0.147059 0.289855">
+                <Property key="ImageTexture" value="gui_icon_components.png" />
+                <Property key="NeedMouse" value="false" />
+            </Widget>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.0825397 0.8 0.0634921">
+            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="FontName" value="InventoryTitle" />
+            <Property key="TextAlign" value="Center" />
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" name="Icon" position_real="0.108 0.244444 0.24 0.190476" />
+        <Widget type="Widget" skin="PanelEmpty" name="Setting" position_real="0.44 0.21746 0.28 0.404762" />
+        <Widget type="ImageBox" skin="ImageBox" name="UpgradeIcon" position_real="0.07 0.825397 0.16 0.126984">
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.625 0.4875 0.375 0.5125">
+                <Property key="ImageTexture" value="gui_icon_upgrade.png" />
+            </Widget>
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="SubTitle" position_real="0.1 0.146032 0.8 0.047619">
+            <Property key="TextAlign" value="Center" />
+            <Property key="TextColour" value="1 0.803922 0.247059" />
+            <Property key="FontName" value="InventoryItemCount" />
+        </Widget>
+        <Widget type="EditBox" skin="EditBoxEmpty" name="UpgradeInfo" position_real="0.298 0.798413 0.36 0.190476">
+            <Property key="Caption" value="Level 5/5" />
+            <Property key="TextAlign" value="Left VCenter" />
+            <Property key="FontName" value="InventoryTabLabel" />
+            <Property key="WordWrap" value="true" />
+            <Property key="Static" value="true" />
+            <Property key="ReadOnly" value="true" />
+            <Property key="MultiLine" value="true" />
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.634921 1 0.047619">
+            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="TextAlign" value="Center" />
+            <Property key="FontName" value="InventoryTabLabel" />
+        </Widget>
+        <Widget type="Button" skin="BackgroundFuelGas" name="BackgroundGas" position_real="0.118 0.428571 0.22 0.190476">
+            <Property key="NeedKey" value="false" />
+            <Property key="NeedMouse" value="false" />
+        </Widget>
+        <Widget type="Button" skin="BackgroundFuelBattery" name="BackgroundBattery" position_real="0.118 0.428571 0.22 0.190476">
+            <Property key="NeedKey" value="false" />
+            <Property key="NeedMouse" value="false" />
+        </Widget>
+        <Widget type="ItemBox" skin="InventoryItemBox2" name="FuelGrid" position_real="0.118 0.446032 0.22 0.174603">
+            <Property key="NeedKey" value="false" />
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" name="FuelContainer" position_real="0.052 0.51746 0.1 0.0380952">
+            <Property key="ImageTexture" value="gui_icon_refill_gas.png" />
+        </Widget>
+    </Widget>
+    <Widget type="Widget" skin="BackgroundEngineNoUpgrade" name="MainPanelFuelNoUpgrade" position_real="0.263021 0.466667 0.260417 0.462037">
+        <Property key="NeedKey" value="false" />
+        <Property key="NeedMouse" value="true" />
+        <Property key="InheritsAlpha" value="false" />
+        <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.104208 0.8 0.0801603">
+            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="FontName" value="InventoryTitle" />
+            <Property key="TextAlign" value="Center" />
+        </Widget>
+        <Widget type="TextBox" skin="TextBox" name="SubTitle" position_real="0.1 0.184369 0.8 0.0601202">
+            <Property key="TextAlign" value="Center" />
+            <Property key="TextColour" value="1 0.803922 0.247059" />
+            <Property key="FontName" value="InventoryItemCount" />
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" name="Icon" position_real="0.108 0.308617 0.24 0.240481" />
+        <Widget type="Widget" skin="PanelEmpty" name="Setting" position_real="0.44 0.274549 0.28 0.511022" />
+        <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.801603 1 0.0601202">
+            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="TextAlign" value="Center" />
+            <Property key="FontName" value="InventoryTabLabel" />
+        </Widget>
+        <Widget type="Button" skin="BackgroundFuelGas" name="BackgroundGas" position_real="0.118 0.541082 0.22 0.240481">
+            <Property key="NeedKey" value="false" />
+            <Property key="NeedMouse" value="false" />
+        </Widget>
+        <Widget type="Button" skin="BackgroundFuelBattery" name="BackgroundBattery" position_real="0.118 0.541082 0.22 0.240481">
+            <Property key="NeedKey" value="false" />
+            <Property key="NeedMouse" value="false" />
+        </Widget>
+        <Widget type="ItemBox" skin="InventoryItemBox2" name="FuelGrid" position_real="0.118 0.563126 0.22 0.220441">
+            <Property key="NeedKey" value="false" />
+        </Widget>
+        <Widget type="ImageBox" skin="ImageBox" name="FuelContainer" position_real="0.052 0.653307 0.1 0.0480962">
+            <Property key="ImageTexture" value="gui_icon_refill_battery.png" />
+        </Widget>
+    </Widget>
+</MyGUI>

@@ -4,8 +4,7 @@ dofile( "$SURVIVAL_DATA/Scripts/game/util/Timer.lua" )
 dofile( "$SURVIVAL_DATA/Scripts/game/survival_camera.lua" )
 
 SurvivalPlayer = class( nil )
-
-
+SurvivalPlayer.IsOpen = false
 local StatsTickRate = 40
 
 local PerSecond = StatsTickRate / 40
@@ -115,6 +114,12 @@ function SurvivalPlayer.server_onDestroy( self )
 
 	-- TODO: make this work
 	self.storage:save( self.sv.saved )
+end
+
+function ToggleToggle( param, player )
+	if sm.localPlayer.getPlayer():getName() == player then
+		SurvivalPlayer.IsOpen = param
+	end
 end
 
 function SurvivalPlayer.client_onCreate( self )
@@ -262,20 +267,59 @@ function SurvivalPlayer.cl_localPlayerUpdate( self, dt )
 		self.cl.hud:setText( "Time", getTimeOfDayString() )
 		local character = self.player:getCharacter()
 		if character then
-			 local text = " | "..math.floor(     character.worldPosition.y / CellSize )..", "..math.floor( character.worldPosition.x / CellSize )
-			 text = getTimeOfDayString().. text
-			 local direction = character.direction
-			 local yaw = math.atan2( direction.y, direction.x )
-			 if math.abs( yaw ) < math.pi * 0.25 then
-				text = text.." | East"
-			 elseif math.abs( yaw ) > math.pi * 0.75 then
-				text = text.." | West"
-			 elseif yaw >= math.pi * 0.25 then
-				text = text.." | North"
-			 else
-				text = text.." | South"
-			 end
-			 self.cl.hud:setText( "Time", text )
+			--TGO edited this function a lot
+			if SurvivalPlayer.IsOpen then
+				self.cl.hud:setImage("COMPASS_BG", "$SURVIVAL_DATA/Scripts/WayPoints/camera-hud0.png")
+				self.cl.hud:setText( "Time", "" )
+			else
+				self.cl.hud:setImage("COMPASS_BG", "")
+			end
+			local radarDataT = ''
+			local compassT = 'N                 NE                 E                 SE                 S                 SW                 W                 NW                 '
+			local chPos = character.worldPosition
+			local direction = character.direction
+			local yaw = math.atan2( direction.y, direction.x )
+			local hComp = chPos
+			local aim = 0
+			if hComp:length() > 1 then
+				local fDir = sm.vec3.new(direction.x, direction.y, 0)
+				local fhC = sm.vec3.new(hComp.x, hComp.y, 0)
+				aim = math.acos(fDir:normalize():dot(fhC:normalize()))
+				local crs = fDir:normalize():cross(fhC:normalize())
+				if crs.z < 0 then aim = -aim end
+			end
+			local newCompT = ''
+			local angDeg = math.deg(yaw)
+			local angCorr = -90
+			local fitAng = #compassT/2 + (#compassT * (angDeg+angCorr)/360)
+			for i=0,#compassT do
+				local charI = math.floor(math.fmod(i-fitAng,#compassT))
+				newCompT = newCompT .. compassT:sub(charI,charI)
+			end
+			self.cl.hud:setText( 'COMPASS_comp', newCompT )
+			local posT = ''
+			posT = math.floor(chPos.x)..','..math.floor(chPos.y)
+			self.cl.hud:setText( 'COMPASS_pos', posT )
+
+			local cellT = ''
+			cellT = math.floor(chPos.x / CellSize)..', '..math.floor(chPos.y  / CellSize)
+			self.cl.hud:setText( 'COMPASS_cell', cellT )
+		--TGO edited to here
+
+
+			-- local text = math.floor( character.worldPosition.x / CellSize )..", "..math.floor( character.worldPosition.y / CellSize )
+			-- local direction = character.direction
+			-- local yaw = math.atan2( direction.y, direction.x )
+			-- if math.abs( yaw ) < math.pi * 0.25 then
+			-- 	text = text.." E"
+			-- elseif math.abs( yaw ) > math.pi * 0.75 then
+			-- 	text = text.." W"
+			-- elseif yaw >= math.pi * 0.25 then
+			-- 	text = text.." N"
+			-- else
+			-- 	text = text.." S"
+			-- end
+			-- self.cl.hud:setText( "Time", text )
 		end
 
 		-- Update lost items marker
@@ -1248,3 +1292,5 @@ function SurvivalPlayer.client_onCancel( self )
 end
 
 function SurvivalPlayer.client_onReload( self ) end
+
+function GetGameMode( self )return false end

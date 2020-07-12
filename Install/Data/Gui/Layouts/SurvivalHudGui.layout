@@ -61,7 +61,7 @@
             </Widget>
         </Widget>
     </Widget>
-    <Widget type="Widget" skin="PanelEmpty" name="TimePanel" position_real="0 0 0.228125 0.0740741" >
+    <Widget type="Widget" skin="PanelEmpty" name="TimePanel" position_real="0 0 0.078125 0.0740741">
         <Property key="NeedKey" value="false" />
         <Property key="NeedMouse" value="false" />
         <Widget type="TextBox" skin="TextBox" name="Time" position_real="0.333333 0.625 0.666667 0.375">
@@ -121,4 +121,57 @@
             </Widget>
         </Widget>
     </Widget>
+    <!-- ##### COMPASS INFO ##### -->
+    <Widget type="Widget" skin="HudBackgroundLarge" position_real="0.4 0.01 0.2 0.05" name="COMPASS">
+            <Property key="NeedKey" value="false" />
+            <Property key="NeedMouse" value="false" />
+            <Property key="Alpha" value="0.9" />
+            <Widget type="ImageBox" skin="ImageBox" name="COMPASS_compI" position_real="0.01 0.01 0.98 0.50">
+                <Property key="ImageTexture" value="$SURVIVAL_DATA/Scripts/WayPoints/comp.png" />
+                <Property key="InheritsAlpha" value="true" />
+            </Widget>
+            <Widget type="ImageBox" skin="ImageBox" name="COMPASS_posI" position_real="0.01 0.57 0.34 0.36">
+                <Property key="ImageTexture" value="$SURVIVAL_DATA/Scripts/WayPoints/pos.png" />
+                <Property key="InheritsAlpha" value="true" />
+            </Widget>
+            <Widget type="ImageBox" skin="ImageBox" name="COMPASS_distI" position_real="0.35 0.59 0.31 0.32">
+                <Property key="ImageTexture" value="$SURVIVAL_DATA/Scripts/WayPoints/dist.png" />
+                <Property key="InheritsAlpha" value="true" />
+            </Widget>
+            <Widget type="ImageBox" skin="ImageBox" name="COMPASS_cellI" position_real="0.65 0.55 0.34 0.40">
+                <Property key="ImageTexture" value="$SURVIVAL_DATA/Scripts/WayPoints/cell.png" />
+                <Property key="InheritsAlpha" value="true" />
+            </Widget>
+            <Widget type="TextBox" skin="TextBox" position_real="0.02 0.02 0.96 0.46" name="COMPASS_comp">
+                <Property key="Caption" value="---W------N------E------S---"/>
+                <Property key="TextAlign" value="Center"/>
+                <Property key="TextColour" value="1 1 1"/>
+                <Property key="TextShadow" value="true"/>
+                <Property key="TextShadowColour" value="0 0 0"/>
+                <Property key="FontName" value="NIND_mini" />
+                <Property key="FontHeight" value="10"/>
+            </Widget>
+            <Widget type="TextBox" skin="TextBox" position_real="0.02 0.52 0.3 0.46" name="COMPASS_pos">
+                <Property key="Caption" value="0, 0"/>
+                <Property key="TextAlign" value="Left"/>
+                <Property key="TextColour" value="1 1 1"/>
+                <Property key="TextShadow" value="true"/>
+                <Property key="TextShadowColour" value="0 0 0"/>
+                <Property key="FontName" value="NIND_mini2" />
+                <Property key="FontHeight" value="6"/>
+            </Widget>
+            <Widget type="TextBox" skin="TextBox" position_real="0.7 0.52 0.28 0.46" name="COMPASS_cell">
+                <Property key="Caption" value="0, 0"/>
+                <Property key="TextAlign" value="Right"/>
+                <Property key="TextColour" value="1 1 1"/>
+                <Property key="TextShadow" value="true"/>
+                <Property key="TextShadowColour" value="0 0 0"/>
+                <Property key="FontName" value="NIND_mini2" />
+                <Property key="FontHeight" value="6"/>
+            </Widget>
+    </Widget>
+    <Widget type="ImageBox" skin="ImageBox" size="1 1" position_real="0.0 0.0 1.0 1.0" name="COMPASS_BG">
+	<Property key="ImageTexture" value="" />
+    </Widget>
+    <!-- ##### COMPASS INFO ##### -->
 </MyGUI>
