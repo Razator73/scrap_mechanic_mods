@@ -1833,22 +1833,22 @@
 		"quantity": 5,
 		"craftTime": 14,
 		"ingredientList": [
-			{	//Blueberry Seed
+			{
 				"quantity": 1,
 				// obj_seed_blueberry
 				"itemId": "4b6d2bee-d0f1-4e56-96f0-d2596388cad2"
 			},
-			{	//Orange Seed
+			{
 				"quantity": 1,
 				// obj_seed_orange
 				"itemId": "bee966b0-b5e5-41da-b992-5d363ab85ae4"
 			},
-			{	//Banana Seed
+			{
 				"quantity": 1,
 				// obj_seed_banana
 				"itemId": "22beade5-38ca-47b4-a2ee-32403f58a862"
 			},
-			{	//Gas
+			{
 				"quantity": 1,
 				// obj_consumable_gas
 				"itemId": "d4d68946-aa03-4b8f-b1af-96b81ad4e305"
@@ -1861,22 +1861,22 @@
 		"quantity": 5,
 		"craftTime": 14,
 		"ingredientList": [
-			{	//Tomato Seed
+			{
 				"quantity": 1,
 				// obj_seed_tomato
 				"itemId": "38e41fb5-dd50-4294-829d-a517f0282fed"
 			},
-			{	//Redbeet Seed
+			{
 				"quantity": 1,
 				// obj_seed_redbeet
 				"itemId": "64051718-a3f1-422b-bda3-277efa0c4545"
 			},
-			{	//Carrot Seed
+			{
 				"quantity": 1,
 				// obj_seed_carrot
 				"itemId": "9c82a525-8a8b-4483-9595-505aaa042486"
 			},
-			{	//Gas
+			{
 				"quantity": 1,
 				// obj_consumable_gas
 				"itemId": "d4d68946-aa03-4b8f-b1af-96b81ad4e305"
