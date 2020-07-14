@@ -1,0 +1,2230 @@
+{
+  "f08d772f-9851-47b4-83ef-6da7e7cba8cb": {
+    "title": "Map Gui",
+    "description": "Used for and by the map, DO NOT USE, DO NOT USE, DO NOT USE",
+    "name": "gps_map_gui"
+  },
+  "90dbaebf-8ea1-4a5a-8f6f-86ddde77c6c8": {
+    "title": "File Cabinet",
+    "name": "obj_interactive_filecabinet"
+  },
+  "8694192c-d91b-444c-a184-910911bbb354": {
+    "title": "Oily Toilet Seat",
+    "name": "obj_interactive_stafftoilet"
+  },
+  "cd0eff89-b693-40ee-bd4c-3500b23df44e": {
+    "title": "Concrete Slab Block",
+    "name": "blk_concretetiles"
+  },
+  "c4a2ffa8-c245-41fb-9496-966c6ee4648b": {
+    "title": "Framework Block",
+    "name": "blk_framework"
+  },
+  "0dff60c2-f7ae-4c13-b9c4-962ec1039be8": {
+    "title": "Mop Set",
+    "name": "obj_building_mopbucket"
+  },
+  "4c17571c-89b5-40f3-b13f-e9399591d0b4": {
+    "title": "Bathroom Stall Door",
+    "name": "obj_building_stalldoor"
+  },
+  "ce66734b-2122-460e-94dc-ccc73d799e32": {
+    "title": "Slippery Surface Sign",
+    "name": "obj_building_slippery"
+  },
+  "f092e8b5-4b10-48be-8ad1-2ac5625f49b8": {
+    "title": "Plunger",
+    "name": "obj_building_plunger"
+  },
+  "0ebf382a-e2e4-4c46-a48e-87808308c1e3": {
+    "title": "Warehouse sink",
+    "name": "obj_building_sink"
+  },
+  "1b927252-ee6d-420e-8bb4-ae42fcb43ba8": {
+    "title": "Hollow Concrete",
+    "name": "obj_construction_brick"
+  },
+  "c3a520b3-8d0e-435c-8070-e0ef58d028be": {
+    "title": "Broken Concrete Small",
+    "name": "obj_construction_rebarsmall"
+  },
+  "ac59ef69-95a7-4907-a8ba-e5c83ef83112": {
+    "title": "Broken Concrete Medium",
+    "name": "obj_construction_rebarmedium"
+  },
+  "0f638bd7-0c0d-4ba3-9ba2-af0b523ddff4": {
+    "title": "Broken Concrete Large",
+    "name": "obj_construction_rebarbig"
+  },
+  "c2078bfe-fa3d-4c2b-8d97-6b5308ff624b": {
+    "title": "Barrier Stand",
+    "name": "obj_construction_signcone"
+  },
+  "9769c4b2-67f0-446b-a00d-ee432218b038": {
+    "title": "obj_construction_signcone_taped",
+    "name": "obj_construction_signcone_taped"
+  },
+  "6232b62a-f3e0-4609-a159-ab08abf8125f": {
+    "title": "Cement Mix",
+    "name": "obj_construction_bucket"
+  },
+  "b0329961-7ac0-4a83-aabc-6701e516de7b": {
+    "title": "Concrete Block Mould",
+    "name": "obj_construction_mould"
+  },
+  "68db6d52-00fb-441a-ab34-a79341acde32": {
+    "title": "Sound Isolation Small ",
+    "name": "obj_construction_soundisolationsmall"
+  },
+  "4369132a-40d8-47e7-ac45-e390c0ea6597": {
+    "title": "Sound Isolation Large",
+    "name": "obj_construction_soundisolation"
+  },
+  "dac97219-d076-41db-8bbb-2509facf0eb4": {
+    "title": "Paint Bucket",
+    "name": "obj_construction_paintcan"
+  },
+  "cb7305b2-d8b5-4302-aff3-6cdd9212ca64": {
+    "title": "Sunshake",
+    "description": "Mechanics love a cold sunshake when thirsty",
+    "name": "obj_consumable_sunshake"
+  },
+  "54d8ef21-357d-48a3-a66d-40446f6bb686": {
+    "title": "Veggie Burger",
+    "description": "A vegetarian alternative. Fills up the hunger meter to the max",
+    "name": "obj_consumable_carrotburger"
+  },
+  "54d84731-d9ec-435d-bc9d-d48e0763b1bf": {
+    "title": "Pizza Burger",
+    "description": "A mechanics favorite food. Fills up the hunger meter to the max",
+    "name": "obj_consumable_pizzaburger"
+  },
+  "e243f642-6934-42bb-8cdd-f8ff1704d411": {
+    "title": "Revival Baguette",
+    "description": "Feed your fallen friends to get them back on their feet and back in action",
+    "name": "obj_consumable_longsandwich"
+  },
+  "2c4a2633-153a-4800-ba3d-2ac0d993b9c8": {
+    "title": "Woc Milk",
+    "name": "obj_consumable_milk"
+  },
+  "5530e6a0-4748-4926-b134-50ca9ecb9dcf": {
+    "title": "Component Kit",
+    "description": "Use to upgrade interactive parts and unlock bots in the Mechanic Station",
+    "name": "obj_consumable_component"
+  },
+  "76331bbf-abbd-4b8d-bb54-f721a5b6193b": {
+    "title": "Fertilizer Container",
+    "description": "Place furtilizer and connect it to a Vacuum Pump with a trigger to shoot furtilizer on to plants",
+    "name": "obj_container_fertilizer"
+  },
+  "096d4daf-639e-4947-a1a6-1890eaa94464": {
+    "title": "Potato Ammo Container",
+    "description": "Connect it to a Moutable Spud Gun with a trigger to shoot potato ammo",
+    "name": "obj_container_ammo"
+  },
+  "38ec258d-c644-4f08-8635-3f7434c884dd": {
+    "title": "Seed Container",
+    "description": "Place Seeds and connect it to a Vacuum Pump with a trigger to shoot seeds in to soil",
+    "name": "obj_container_seed"
+  },
+  "c3990931-b471-4e89-beb5-0baaef47f0af": {
+    "title": "Wooden Crate",
+    "name": "obj_containers_woodbox"
+  },
+  "80550b05-f9eb-433c-9773-2af3beb1479d": {
+    "title": "Vegetable Box",
+    "name": "obj_containers_vegboxgreen"
+  },
+  "f0438bd7-6307-4991-943f-d78b04877d96": {
+    "title": "Cucumber Box",
+    "name": "obj_containers_vegboxcucumber"
+  },
+  "f6687d52-efc1-4f00-b573-bee4363ee14f": {
+    "title": "Carrot Box",
+    "name": "obj_containers_vegboxcarrot"
+  },
+  "18a38c8e-18ec-46c5-be00-cee7724401e2": {
+    "title": "Banana Box",
+    "name": "obj_containers_vegboxbanana"
+  },
+  "8b684022-254b-41af-a58c-ec4b14791000": {
+    "title": "Fruit Box",
+    "name": "obj_containers_vegboxblue"
+  },
+  "de467c9b-a0ab-4e20-95ae-0e5fe8140989": {
+    "title": "Onion Box",
+    "name": "obj_containers_vegboxonion"
+  },
+  "7ece2c9b-bc74-45b7-b5f1-4c6f41a03a7a": {
+    "title": "Beetroot Box",
+    "name": "obj_containers_vegboxbeetroot"
+  },
+  "8bcc5a38-b566-45fe-b47e-45118ee70d2d": {
+    "title": "Orange Box",
+    "name": "obj_containers_vegboxorange"
+  },
+  "faae6e1a-f431-49fd-b8b8-16f12139ee88": {
+    "title": "Plant Container",
+    "name": "obj_containers_plantcontainerclosed"
+  },
+  "102565a0-c864-463e-b517-72e82242eec2": {
+    "title": "Open Plant Container",
+    "name": "obj_containers_plantcontaineropen"
+  },
+  "c76b89a3-7731-4ae1-99d4-788a29319360": {
+    "title": "Hay Crate",
+    "name": "obj_containers_haycrate"
+  },
+  "3bd4430f-75bc-452c-9e80-1bd639898689": {
+    "title": "Stone Crate",
+    "name": "obj_containers_stonecrate"
+  },
+  "f8b984da-4b24-4e36-b440-86ead126b6dc": {
+    "title": "Tree Crate",
+    "name": "obj_containers_treecrate"
+  },
+  "deabb19a-1acd-4bbf-8bd2-f8f17410170b": {
+    "title": "Woc Crate",
+    "name": "obj_containers_cowcrate"
+  },
+  "8a4a55b0-0228-4839-933b-0716cedb3f96": {
+    "title": "Unfolded Banana Box",
+    "name": "obj_containers_cardboardstack_small"
+  },
+  "f8da6b41-03d7-4bc1-ba94-011a351b1569": {
+    "title": "Unfolded Onion Box",
+    "name": "obj_containers_cardboardstack_medium"
+  },
+  "71665314-db59-4c43-bfe2-2746baa8ffe9": {
+    "title": "Unfolded Grow Box",
+    "name": "obj_containers_cardboardstack_large"
+  },
+  "d296c1ad-e893-4866-ba73-1cbbb38ebd37": {
+    "title": "Main Humidifier",
+    "name": "obj_containers_humidifier"
+  },
+  "10590ecd-7d2f-4ff9-a6de-e749870ae8b8": {
+    "title": "Warehouse Crate",
+    "name": "obj_containers_stack"
+  },
+  "7e2b1dcb-4853-43ed-a7c5-0eb1a24b49d0": {
+    "title": "Blueberry Juice Cylinder",
+    "name": "obj_containers_barrel_blueberry"
+  },
+  "a0654dd8-f36a-4c41-bafd-18d9e5f0df2e": {
+    "title": "Tomato Juice Cylinder",
+    "name": "obj_containers_barrel_tomato"
+  },
+  "2af00456-b22e-4743-b338-a91934aba7c5": {
+    "title": "Cookbot",
+    "description": "Cooks delicious food that will fill up your health bar or revive fallen friends.",
+    "name": "obj_craftbot_cookbot"
+  },
+  "b63c6440-dfc2-4da7-acdb-3c385080b2e4": {
+    "title": "Craftbot",
+    "description": "The Craftbot will help you craft everything from new blocks to useful interactive parts. A mechanics best friend.",
+    "name": "obj_craftbot_craftbot1"
+  },
+  "b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f": {
+    "title": "Craftbot",
+    "name": "obj_craftbot_craftbot2"
+  },
+  "1c83675f-7c77-4cbb-875b-79d4bd46100d": {
+    "title": "Craftbot",
+    "name": "obj_craftbot_craftbot3"
+  },
+  "c69a7855-d915-4784-af81-d0a8849e458f": {
+    "title": "Craftbot",
+    "name": "obj_craftbot_craftbot4"
+  },
+  "4fcb4cb8-7623-11ea-bc55-0242ac130003": {
+    "title": "Craftbot",
+    "name": "obj_craftbot_craftbot5"
+  },
+  "5cb15c93-4fa9-48da-9974-2e95ca6c9e1c": {
+    "title": "Refinebot",
+    "description": "Let the Refinebot help you out and refine all your collected logs. Put them in by hand or by placing a Resource Collector with logs next to it.",
+    "name": "obj_craftbot_refinery"
+  },
+  "a930a42f-63ed-4fb0-933e-56ce8a889cc5": {
+    "title": "Resource Collector",
+    "description": "Perfect for collecting and stacking logs. When full, place it next to a refinebot to turn logs in to blocks.",
+    "name": "obj_craftbot_resourcecontainer"
+  },
+  "767a3121-2c31-473c-a5ab-27e188fdd55a": {
+    "title": "Dressbot",
+    "description": "Use the Dressbot to make new clothes for your Mechanic. Just add your garment boxes and the right amount of cotton. You can also customise your look by using the blue wardrobe.",
+    "name": "obj_craftbot_dressbot"
+  },
+  "9eead4cf-4743-486e-99be-a553c4c10740": {
+    "title": "Mattress",
+    "name": "obj_decor_bed"
+  },
+  "ff2207c1-e40b-416f-8bdd-66a9efd6d1a9": {
+    "title": "Pillow",
+    "name": "obj_decor_pillow"
+  },
+  "f5670a5a-7782-4683-bed0-a6eda785a5e2": {
+    "title": "Produce Billboard",
+    "name": "obj_decor_poster01"
+  },
+  "080ef1dd-07a7-4d31-86b8-ac907e1468bf": {
+    "title": "Berry Billboard",
+    "name": "obj_decor_poster02"
+  },
+  "4d54298c-93a0-4b6d-8719-7380430a27bb": {
+    "title": "Sickle-Down Billboard",
+    "name": "obj_decor_poster03"
+  },
+  "d053adac-e217-49de-b184-ad4bfbe1e52d": {
+    "title": "Recycling Bin",
+    "name": "obj_decor_lidbarrel"
+  },
+  "da86d1c6-e29b-4741-8b65-eed067222dc7": {
+    "title": "Paper Stack",
+    "name": "obj_decor_stackedpaper"
+  },
+  "659488be-3d33-4244-b762-e7d77dcdcbbe": {
+    "title": "Old Restroom Mirror",
+    "name": "obj_decor_mirror"
+  },
+  "c7772f74-f120-4008-8121-977e52a1d7c0": {
+    "title": "Traffic Sign",
+    "name": "obj_road_signcurve"
+  },
+  "ea64acf0-c0a8-44c4-a946-f358d232e965": {
+    "title": "Metallic Tube",
+    "name": "obj_road_signpost"
+  },
+  "7bc20d55-6b49-450c-830c-16282ce7fb2d": {
+    "title": "Road Sign Base",
+    "name": "obj_road_signfoundation"
+  },
+  "31ada55e-7c79-4aee-86b6-809c0e5468df": {
+    "title": "Cash Register",
+    "name": "obj_decor_cashregister"
+  },
+  "d4ae8963-40e9-4680-934d-5626a3bfc363": {
+    "title": "Open Sign",
+    "name": "obj_decor_openclosedsign"
+  },
+  "7540ef9a-5c84-4dd2-b111-176d8de66e47": {
+    "title": "Old Fruit Stand",
+    "name": "obj_decor_rottenfruit"
+  },
+  "d361b477-69b2-4a3a-b119-ec99a3938f5b": {
+    "title": "Stacked Crates",
+    "name": "obj_decor_basketstack"
+  },
+  "5ad298e4-f5ad-479c-9ec6-6c4f9d3fb8ae": {
+    "title": "Sunshake Vending Machine",
+    "name": "obj_decor_sunshakemachine"
+  },
+  "db2ce519-490e-4432-b329-c973ecc8f5d9": {
+    "title": "Udder Decoration",
+    "name": "obj_decor_sunshakeudder"
+  },
+  "23ac6823-51a4-4581-b8ca-061c76f093f6": {
+    "title": "Haystack",
+    "name": "obj_decor_haybale"
+  },
+  "74a3f240-65b2-4f52-9555-9b52173fca0a": {
+    "title": "Hay Bale",
+    "name": "obj_decor_haybaleround"
+  },
+  "89f446fa-ba6a-4728-93b5-6a1abda114fc": {
+    "title": "obj_destructable_tape_doorwaytape01",
+    "name": "obj_destructable_tape_doorwaytape01"
+  },
+  "45b6f45a-9b47-40af-88d1-f1ad0d98e565": {
+    "title": "obj_destructable_tape_doorwaytape01_destroyed",
+    "name": "obj_destructable_tape_doorwaytape01_destroyed"
+  },
+  "3de7e8ca-f7f4-4faf-b348-4848741528c1": {
+    "title": "obj_destructable_tape_cornertape01",
+    "name": "obj_destructable_tape_cornertape01"
+  },
+  "46f4a939-b20c-4fae-bf37-8410796a05f2": {
+    "title": "obj_destructable_tape_cornertape02",
+    "name": "obj_destructable_tape_cornertape02"
+  },
+  "50668b05-41de-4b48-abf2-6a576ab550fe": {
+    "title": "obj_destructable_tape_cornertape03",
+    "name": "obj_destructable_tape_cornertape03"
+  },
+  "dfcff000-e027-4f43-9bfb-f9a84b3b50c4": {
+    "title": "obj_destructable_tape_cornertape04",
+    "name": "obj_destructable_tape_cornertape04"
+  },
+  "20e0b1f2-dd7b-4b69-9308-b6c26c0b0e6e": {
+    "title": "obj_destructable_tape_corridor01",
+    "name": "obj_destructable_tape_corridor01"
+  },
+  "94cf22f0-f0fb-4d1b-b5ce-f4b54e8e84d1": {
+    "title": "obj_destructable_tape_corridor02",
+    "name": "obj_destructable_tape_corridor02"
+  },
+  "a6524403-668d-4e41-93a7-6326e9205560": {
+    "title": "obj_destructable_tape_corridor03",
+    "name": "obj_destructable_tape_corridor03"
+  },
+  "c8d3b9ba-5bb1-49c5-aeb0-6c32f9b1e5c8": {
+    "title": "obj_destructable_tape_taperoll01",
+    "name": "obj_destructable_tape_taperoll01"
+  },
+  "ce1117c1-35d4-4c77-9a31-740078c6b1d8": {
+    "title": "obj_destructable_tape_taperoll02",
+    "name": "obj_destructable_tape_taperoll02"
+  },
+  "c5d4f725-0a67-4902-b6da-82a16aafd36a": {
+    "title": "obj_destructable_tape_taperoll03",
+    "name": "obj_destructable_tape_taperoll03"
+  },
+  "1503a160-bf1f-4b86-8406-b11250c71a28": {
+    "title": "obj_destructable_tape_taperoll04",
+    "name": "obj_destructable_tape_taperoll04"
+  },
+  "df4724fa-b3ea-438d-b07f-75af46af4bfd": {
+    "title": "obj_destructable_tape_tape01",
+    "name": "obj_destructable_tape_tape01"
+  },
+  "1bdc2111-691c-465f-84d1-0e5faeca9897": {
+    "title": "obj_destructable_tape_tape02",
+    "name": "obj_destructable_tape_tape02"
+  },
+  "7ba75948-640c-4563-9501-800cbddbeb6d": {
+    "title": "obj_destructable_tape_tape03",
+    "name": "obj_destructable_tape_tape03"
+  },
+  "55597dd3-44b6-4fd5-81da-bb56d2ec59d9": {
+    "title": "obj_destructable_tape_tape04",
+    "name": "obj_destructable_tape_tape04"
+  },
+  "3db622ee-112b-4b72-97fc-5bf49c3edf15": {
+    "title": "obj_destructable_tape_tape05",
+    "name": "obj_destructable_tape_tape05"
+  },
+  "189aabd7-a3a4-4ba1-886e-e2e21dd1772b": {
+    "title": "obj_destructable_tape_tape06",
+    "name": "obj_destructable_tape_tape06"
+  },
+  "c3b7163e-02d4-4b00-96ad-c15860be9419": {
+    "title": "obj_destructable_tape_cocoon01",
+    "name": "obj_destructable_tape_cocoon01"
+  },
+  "286faea5-83db-4f53-8813-1ce81309a059": {
+    "title": "obj_destructable_tape_cocoon02",
+    "name": "obj_destructable_tape_cocoon02"
+  },
+  "48a0b91a-1edb-4695-ba61-c702570563ce": {
+    "title": "obj_destructable_tape_rooftape01",
+    "name": "obj_destructable_tape_rooftape01"
+  },
+  "9b4a43c3-4950-49e2-858e-34768550a227": {
+    "title": "obj_destructable_tape_rooftape02",
+    "name": "obj_destructable_tape_rooftape02"
+  },
+  "2d503740-f2da-41a1-ae5c-3c49d44e3bb2": {
+    "title": "obj_destructable_tape_rooftape03",
+    "name": "obj_destructable_tape_rooftape03"
+  },
+  "1bace005-426c-4b44-8530-ef8698210a6f": {
+    "title": "obj_destructable_tape_rooftape04",
+    "name": "obj_destructable_tape_rooftape04"
+  },
+  "e8beb527-e470-4934-bc06-0d7f6312e49c": {
+    "title": "obj_destructable_tape_acrosstheroom01",
+    "name": "obj_destructable_tape_acrosstheroom01"
+  },
+  "109d044d-6002-4779-be04-34501d78408f": {
+    "title": "obj_destructable_tape_acrosstheroom02",
+    "name": "obj_destructable_tape_acrosstheroom02"
+  },
+  "960c9498-f76a-4ffc-a608-218dc6909de8": {
+    "title": "obj_destructable_tape_acrosstheroom03",
+    "name": "obj_destructable_tape_acrosstheroom03"
+  },
+  "ed8cb110-bf48-43f6-9e86-273cfc0a7080": {
+    "title": "obj_destructable_tape_big_walltape01",
+    "name": "obj_destructable_tape_big_walltape01"
+  },
+  "e9a7a26a-6e72-4bd4-8a44-7d5ab8b83f4b": {
+    "title": "obj_destructable_tape_big_walltape02",
+    "name": "obj_destructable_tape_big_walltape02"
+  },
+  "e086d2de-6224-4ebc-8152-add18793ee58": {
+    "title": "obj_destructable_tape_big_walltape03",
+    "name": "obj_destructable_tape_big_walltape03"
+  },
+  "265bf568-a801-4ce6-8ac3-d20526443bc5": {
+    "title": "obj_destructable_tape_big_walltape04",
+    "name": "obj_destructable_tape_big_walltape04"
+  },
+  "ea16ec2e-5135-49e9-9543-9bdcd818d90a": {
+    "title": "obj_destructable_tape_big_walltape05",
+    "name": "obj_destructable_tape_big_walltape05"
+  },
+  "20b3577f-a2f1-44f3-a22c-83f792732771": {
+    "title": "obj_destructable_taperolls_big",
+    "name": "obj_destructable_taperolls_big"
+  },
+  "8365cf6a-af1a-41aa-a8c9-34313dce1f55": {
+    "title": "obj_destructable_taperolls_small",
+    "name": "obj_destructable_taperolls_small"
+  },
+  "6be64f78-927b-4f61-b645-20adfbd9bfce": {
+    "title": "Wires Short",
+    "name": "obj_fittings_wireshort"
+  },
+  "0535b90e-f0a8-491c-8c70-1fc81b939fb4": {
+    "title": "Wires Long",
+    "name": "obj_fittings_wire"
+  },
+  "33102836-a94d-4ab3-9864-3d54d32c230d": {
+    "title": "Wires Bend",
+    "name": "obj_fittings_wirebend"
+  },
+  "f0713386-8c95-493d-b013-e8e53e32d1ed": {
+    "title": "Wires Convex Bend",
+    "name": "obj_fittings_wireconvexbend"
+  },
+  "a8164438-65fa-4840-8bc2-766fad543841": {
+    "title": "Wires Concave Bend",
+    "name": "obj_fittings_wireconcavebend"
+  },
+  "697e3b80-d3f7-4f4a-aba2-23611a45f967": {
+    "title": "Fuse Box",
+    "name": "obj_fittings_fusebox"
+  },
+  "647296c4-41ef-4173-8a54-d2a1ae1e89c3": {
+    "title": "Tubes Short",
+    "name": "obj_fittings_cordstraight"
+  },
+  "2ba72fca-443a-49e4-8eb2-073c4226866e": {
+    "title": "Tubes Long",
+    "name": "obj_fittings_cordstraightlong"
+  },
+  "903b0823-4ce1-48e6-9702-aeaa7598c347": {
+    "title": "Tubes Corner",
+    "name": "obj_fittings_cordbend"
+  },
+  "885ab381-007d-4a60-99e3-c58dec54c880": {
+    "title": "Tubes Join",
+    "name": "obj_fittings_cordjunction"
+  },
+  "5888a6dd-59ab-4cd6-86b2-6e68f64674b5": {
+    "title": "Holder Support Leg Base",
+    "name": "obj_fittings_pipebigholder"
+  },
+  "70a497d6-6bc2-4ee6-a381-0976d68ac980": {
+    "title": "Holder Support Leg",
+    "name": "obj_fittings_pipebigholderbar"
+  },
+  "b2c933a8-2dfb-479f-a3d9-b87797d5e0c6": {
+    "title": "Holder Support Bend",
+    "name": "obj_fittings_pipebigholderbarbend"
+  },
+  "40c5b3fd-1ac4-47f4-ae61-503e14baf20f": {
+    "title": "Power Station",
+    "name": "obj_fittings_powerstation"
+  },
+  "63cf0973-b81e-4fe1-ae44-654937e1b0e4": {
+    "title": "Giant Pipe",
+    "name": "obj_fittings_7x8"
+  },
+  "06fd0e52-f791-43a6-9fbd-5a8a6260f3f2": {
+    "title": "Giant Pipe Glass Straight",
+    "name": "obj_fittings_7x8_glass"
+  },
+  "41784077-0636-470f-a6df-b868f152af29": {
+    "title": "Giant Pipe Corner",
+    "name": "obj_fittings_7x8_bend"
+  },
+  "16ed53cc-a45b-4f64-92d4-2db93bf33e1c": {
+    "title": "Giant Pipe Glass Corner",
+    "name": "obj_fittings_7x8_bend_glass"
+  },
+  "8310f5b9-3394-4723-ac23-f59a21d6e3f3": {
+    "title": "Giant Pipe Tee",
+    "name": "obj_fittings_7x8_T"
+  },
+  "9777f897-4cce-4c22-99ce-793aaca9f7c0": {
+    "title": "Giant Pipe Bracer",
+    "name": "obj_fittings_7x1"
+  },
+  "66c3a5cd-ce37-4b37-916d-ac39a67ad2f5": {
+    "title": "Giant Pipe Holder",
+    "name": "obj_fittings_7x8_mount"
+  },
+  "764e94d1-61c0-4fef-9719-5548889e4817": {
+    "title": "Warehouse Ventilation Short",
+    "name": "obj_fittings_ventbig01"
+  },
+  "468650b4-5ff7-4be1-9e75-05ed86fd83e0": {
+    "title": "Warehouse Ventilation Long",
+    "name": "obj_fittings_ventbig02"
+  },
+  "9e9280f7-c9bc-4b86-b788-43f9b48903dd": {
+    "title": "Warehouse Ventilation Corner",
+    "name": "obj_fittings_ventbig03"
+  },
+  "e846e3e7-b608-49c9-bbfd-e0bb859e6d3c": {
+    "title": "Warehouse Ventilation Tee",
+    "name": "obj_fittings_ventbig04"
+  },
+  "20821431-de44-4d54-8877-60833316104e": {
+    "title": "Warehouse Ventilation Mount",
+    "name": "obj_fittings_ventbig05"
+  },
+  "e0f8dc49-c418-403b-a7a1-44bea7ecd3d0": {
+    "title": "Warehouse Ventilation Drum",
+    "name": "obj_fittings_venthub"
+  },
+  "968de65c-75f3-471b-954e-6165a4b6d3d6": {
+    "title": "Scrap Wood",
+    "name": "obj_harvest_wood"
+  },
+  "f99ebc34-4821-4b39-a625-b839c5802ed5": {
+    "title": "Wood",
+    "name": "obj_harvest_wood2"
+  },
+  "5cb39ea5-554d-4c40-9d9a-6b2dd59de953": {
+    "title": "Scrap Metal",
+    "name": "obj_harvest_metal"
+  },
+  "7468db55-b29d-4ce0-82b9-2414f493a376": {
+    "title": "Metal",
+    "name": "obj_harvest_metal2"
+  },
+  "02ee2a98-bd8d-4a09-bb69-38edaf66b8e1": {
+    "title": "Scrap Stone",
+    "name": "obj_harvest_stone"
+  },
+  "0bc74539-df8a-47c7-aad8-d55d809a01e4": {
+    "title": "Banana Crate",
+    "name": "obj_crates_banana"
+  },
+  "e77d9577-589a-446b-96c1-f6d0d7495489": {
+    "title": "Blueberry Crate",
+    "name": "obj_crates_blueberry"
+  },
+  "c10a77d5-3357-4cb4-8113-a2cbe69c7ff2": {
+    "title": "Orange Crate",
+    "name": "obj_crates_orange"
+  },
+  "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3": {
+    "title": "Pineapple Crate",
+    "name": "obj_crates_pineapple"
+  },
+  "9cd8288c-5a19-479f-af47-9eb55230ade2": {
+    "title": "Carrot Crate",
+    "name": "obj_crates_carrot"
+  },
+  "628fd350-577d-413f-82a8-7f08a83de3d8": {
+    "title": "Redbeet Crate",
+    "name": "obj_crates_redbeet"
+  },
+  "1dcd74ca-39ba-4b00-a36a-3381b25055f4": {
+    "title": "Tomato Crate",
+    "name": "obj_crates_tomato"
+  },
+  "99477093-e819-4199-b62a-fda6143aae89": {
+    "title": "Broccoli Crate",
+    "name": "obj_crates_broccoli"
+  },
+  "8d601982-4608-4d5e-bb9e-e4041486f7c7": {
+    "title": "Caged Farmer",
+    "name": "obj_survivalobject_farmerball"
+  },
+  "c8c07259-bc23-45a1-8a4c-585962274f19": {
+    "title": "Shelf",
+    "name": "obj_industrial_beamshelf"
+  },
+  "d5da6d42-69e2-49ca-8def-3339bf9f0d35": {
+    "title": "Staircase Landing",
+    "name": "obj_industrial_platform"
+  },
+  "85379fe5-da83-4aa2-b9c2-d67476ad6079": {
+    "title": "Staircase Long Railing",
+    "name": "obj_industrial_platformfencelong"
+  },
+  "8336bf8b-cde0-46a0-b995-5000cba4f27f": {
+    "title": "Staircase Short Railing",
+    "name": "obj_industrial_platformfenceshort"
+  },
+  "1ef1f0e8-389c-4eb9-b4a8-784499353f14": {
+    "title": "Staircase Baluster",
+    "name": "obj_industrial_platformfencepole"
+  },
+  "0a597f6d-eb45-4f93-91e5-130e19e0f1f5": {
+    "title": "Ventilation Grid",
+    "name": "obj_industrial_metalgrid"
+  },
+  "dbd509b5-b7cc-43cf-9a89-b3befecfe991": {
+    "title": "Shelf Pillar",
+    "name": "obj_industrial_rack"
+  },
+  "8d7be7bf-37c9-44d6-8adf-fc87b141cadf": {
+    "title": "Shelf Support",
+    "name": "obj_industrial_rackcube"
+  },
+  "f80026c5-2019-4f87-8abd-345bd23aa156": {
+    "title": "Tall Shelf Support",
+    "name": "obj_industrial_racklong"
+  },
+  "f37b101c-508b-4630-9f9d-47ef1c834183": {
+    "title": "Small Tank",
+    "name": "obj_industrial_cylindersmall"
+  },
+  "d71d8897-5af6-4adc-b626-50e45f931157": {
+    "title": "Medium Tank",
+    "name": "obj_industrial_cylindermedium"
+  },
+  "68c2baa5-1274-4bfd-8b12-6e522123f4de": {
+    "title": "Large Tank",
+    "name": "obj_industrial_cylinderlarge"
+  },
+  "8c4b9721-3de4-4ae3-a7d1-6f66a16d1368": {
+    "title": "Metal Window",
+    "name": "obj_industrial_window"
+  },
+  "007d6afc-59ef-4fb4-9bb7-52ab9bcfec22": {
+    "title": "Steel Pallet",
+    "name": "obj_industrial_pallet"
+  },
+  "6a720005-ba27-4cfc-8fb3-b1af8b9c8bd3": {
+    "title": "Table Support",
+    "name": "obj_industrial_rail"
+  },
+  "f9e8707a-62f8-4051-84e9-c2e17b686d9e": {
+    "title": "Tower Pole",
+    "name": "obj_industrial_antennatower"
+  },
+  "e3e58881-69e6-4593-8211-017bcd72c907": {
+    "title": "Tower Pole Top",
+    "name": "obj_industrial_antennatowertop"
+  },
+  "1daf2b8a-fd2f-4266-9942-c04feede4f7b": {
+    "title": "Satellite Dish",
+    "name": "obj_industrial_satellite01"
+  },
+  "ce350b5c-cebb-42b0-b8ba-1bf084a0090c": {
+    "title": "Satellite Reflector Dish",
+    "name": "obj_industrial_satellite03"
+  },
+  "e585bcd6-5828-4a37-8ec7-dffb561f0956": {
+    "title": "Antenna",
+    "name": "obj_industrial_antenna01"
+  },
+  "c938e84c-ff59-4e7e-a87c-5211ac903927": {
+    "title": "Reflector Antenna",
+    "name": "obj_industrial_antenna02"
+  },
+  "7237080a-676b-4be1-bb7f-2fb1a9f6f274": {
+    "title": "Ventilation Frame",
+    "name": "obj_industrial_windowframe"
+  },
+  "6f699ce5-4955-4725-9829-2b6e1dd6eee9": {
+    "title": "Steel Support Bracket",
+    "name": "obj_industrial_generatorfoothinge"
+  },
+  "916cbfc2-776f-49d4-838a-eb946136be3e": {
+    "title": "Encryptor Base",
+    "name": "obj_industrial_encryptstandbase"
+  },
+  "ddaa82ea-22c5-4a2c-8367-c2ee12d5ea5b": {
+    "title": "Encryptor Base Plate",
+    "name": "obj_industrial_encryptstandfoundation"
+  },
+  "3cbf5f08-14da-4db5-8360-de5078e7c4c1": {
+    "title": "Encryptor Frame Top",
+    "name": "obj_industrial_encryptstandframe"
+  },
+  "f1831414-735f-4323-834a-85d5953fc160": {
+    "title": "Small Steel Bracket",
+    "name": "obj_industrial_encryptstandhinge"
+  },
+  "3b47a99f-85c4-4490-8dc5-3560b7c4c863": {
+    "title": "Encryptor Frame Beam",
+    "name": "obj_industrial_encryptstandpillar"
+  },
+  "0ee4fc0a-9f69-4d67-b5c2-09ea5a22712f": {
+    "title": "Encryptor Holder",
+    "name": "obj_industrial_encryptstandpipe"
+  },
+  "fff76292-79aa-4f0d-814f-72e51159d6d7": {
+    "title": "Base Extension",
+    "name": "obj_industrial_encryptstandside"
+  },
+  "8ca9a4f2-c8c8-439d-9945-e2e95dafbc21": {
+    "title": "Generator B",
+    "name": "obj_industrial_powergenerator5"
+  },
+  "7997f4a5-6f5f-492e-95cb-65a5e2a0f2f2": {
+    "title": "Generator C",
+    "name": "obj_industrial_powergenerator4"
+  },
+  "af389b10-a31b-46f7-bbe9-0bfad8181e97": {
+    "title": "Generator D",
+    "name": "obj_industrial_powergenerator2"
+  },
+  "5cd67a6e-52cc-4eb0-9f44-275d366516c5": {
+    "title": "Generator A",
+    "name": "obj_industrial_powergenerator1"
+  },
+  "38934d9d-69a8-4a1f-8137-892ede148cb4": {
+    "title": "Power Generator Side",
+    "name": "obj_industrial_powergeneratorside"
+  },
+  "684002ad-3218-4dd0-a6dd-53e6dfdec562": {
+    "title": "Generator Tank",
+    "name": "obj_industrial_powergeneratortank"
+  },
+  "c349afdf-aded-47bc-9a5c-606372bc535b": {
+    "title": "Generator E",
+    "name": "obj_industrial_powergenerator7"
+  },
+  "161786c1-1290-4817-8f8b-7f80de755a06": {
+    "title": "Totebot Head: Bass",
+    "description": "This robot head is broken. But the sound generator inside seems to still be working. Creative mechanics can probably find a way to make music with this.",
+    "name": "obj_interactive_robotbasshead"
+  },
+  "4c6e27a2-4c35-4df3-9794-5e206fef9012": {
+    "title": "Totebot Head: Percussion",
+    "description": "This robot head is broken. But the sound generator inside seems to still be working. Creative mechanics can probably find a way to make music with this.",
+    "name": "obj_interactive_robotdrumhead"
+  },
+  "a052e116-f273-4d73-872c-924a97b86720": {
+    "title": "Totebot Head: Synth Voice",
+    "description": "This robot head is broken. But the sound generator inside seems to still be working. Creative mechanics can probably find a way to make music with this.",
+    "name": "obj_interactive_robotsynthhead"
+  },
+  "1c04327f-1de4-4b06-92a8-2c9b40e491aa": {
+    "title": "Totebot Head: Blip",
+    "description": "This robot head is broken. But the sound generator inside seems to still be working. Creative mechanics can probably find a way to make music with this.",
+    "name": "obj_interactive_robotbliphead01"
+  },
+  "3efe715f-8745-475f-a609-5e7cbe09a8ef": {
+    "title": "Bathtub",
+    "description": "Used for maximum relaxation. Sit down and relax or add it to your vehicle to stay nice and clean on the go. Can be connected to triggers which can activate other interactive parts from the bathtub.",
+    "name": "obj_interactive_bathtub"
+  },
+  "4152ce33-9b43-4c51-80a3-e0b4fe38841d": {
+    "title": "Raft Shark Mount",
+    "description": "A plastic shark mount prop from the survival game Raft. It seems to have some mechanical joints inside. Maybe it can bite?",
+    "name": "obj_interactive_raftshark"
+  },
+  "aae686a2-0eb3-43b3-b998-def282de79e9": {
+    "title": "Sport Suspension 2",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce.",
+    "name": "jnt_suspensionsport_02"
+  },
+  "d0aa2676-5266-432a-bf7e-3887e6ddedd5": {
+    "title": "Sport Suspension 3",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce.",
+    "name": "jnt_suspensionsport_03"
+  },
+  "d9adddcc-972d-4726-a376-67f950b99a44": {
+    "title": "Sport Suspension 4",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce.",
+    "name": "jnt_suspensionsport_04"
+  },
+  "52855106-a95c-4427-9970-3f227109b66d": {
+    "title": "Sport Suspension 5",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce.",
+    "name": "jnt_suspensionsport_05"
+  },
+  "00284190-1484-4286-a198-b2ddef768c2e": {
+    "title": "Off-Road Suspension 2",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles.",
+    "name": "jnt_suspensionoffroad_02"
+  },
+  "a9658eaf-0dd8-46a6-8cac-be6978f19b79": {
+    "title": "Off-Road Suspension 3",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles.",
+    "name": "jnt_suspensionoffroad_03"
+  },
+  "4c3f6a7c-45c6-4ed8-bf13-c247c3db6b81": {
+    "title": "Off-Road Suspension 4",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles.",
+    "name": "jnt_suspensionoffroad_04"
+  },
+  "73f838db-783e-4a41-bc0f-9008967780f3": {
+    "title": "Off-Road Suspension 5",
+    "description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles.",
+    "name": "jnt_suspensionoffroad_05"
+  },
+  "efbf45f8-62ec-4541-9eb1-d529966f6a29": {
+    "title": "Driver's Seat 2",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driverseat_02"
+  },
+  "c3ef3008-9367-4ab7-813a-24195d63e5a3": {
+    "title": "Driver's Seat 3",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driverseat_03"
+  },
+  "d30dcd12-ec39-43b9-a115-44c08e1b9091": {
+    "title": "Driver's Seat 4",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driverseat_04"
+  },
+  "ffa3a47e-fc0d-4977-802f-bd15683bbe5c": {
+    "title": "Driver's Seat 5",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driverseat_05"
+  },
+  "2b9c6e87-1b75-4a57-8979-74d9f95668ba": {
+    "title": "Seat 2",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat.",
+    "name": "obj_interactive_seat_02"
+  },
+  "ebe2782e-a4f5-4d91-83cc-db110179393b": {
+    "title": "Seat 3",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat.",
+    "name": "obj_interactive_seat_03"
+  },
+  "46465697-ed36-4720-ba8a-08c568b4e36c": {
+    "title": "Seat 4",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat.",
+    "name": "obj_interactive_seat_04"
+  },
+  "703ca746-d802-4e76-b443-4881e83afb73": {
+    "title": "Seat 5",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat.",
+    "name": "obj_interactive_seat_05"
+  },
+  "bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4": {
+    "title": "Driver's Saddle 2",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driversaddle_02"
+  },
+  "6953b17e-0a38-4107-8c56-5ee97e68bee3": {
+    "title": "Driver's Saddle 3",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driversaddle_03"
+  },
+  "41960868-6245-47b5-97c4-f446e199812f": {
+    "title": "Driver's Saddle 4",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driversaddle_04"
+  },
+  "9dd1ccea-1e44-430d-b706-3ff45416583e": {
+    "title": "Driver's Saddle 5",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool.",
+    "name": "obj_interactive_driversaddle_05"
+  },
+  "c39b3537-d9b2-45f8-b2ea-0e9002c896d9": {
+    "title": "Saddle 2",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle.",
+    "name": "obj_interactive_saddle_02"
+  },
+  "797e07a3-6d56-4b74-949b-9492c7946e0d": {
+    "title": "Saddle 3",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle.",
+    "name": "obj_interactive_saddle_03"
+  },
+  "7516f5b8-9a15-4606-92bb-ea9a96a16594": {
+    "title": "Saddle 4",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle.",
+    "name": "obj_interactive_saddle_04"
+  },
+  "42f70341-207d-4e9d-b8ed-37962603a926": {
+    "title": "Saddle 5",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle.",
+    "name": "obj_interactive_saddle_05"
+  },
+  "33d01ddd-f32b-4a9a-87d6-efb6710b389c": {
+    "title": "Gas Engine 2",
+    "description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption.",
+    "name": "obj_interactive_gasengine_02"
+  },
+  "470b9a92-ed94-4ef2-b1ea-b45f47ef0982": {
+    "title": "Gas Engine 3",
+    "description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption.",
+    "name": "obj_interactive_gasengine_03"
+  },
+  "bfcaac1a-5a7f-4fba-9980-1159617a7212": {
+    "title": "Gas Engine 4",
+    "description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption.",
+    "name": "obj_interactive_gasengine_04"
+  },
+  "3091926a-9340-46d9-83d6-4fd7c68ad950": {
+    "title": "Gas Engine 5",
+    "description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption.",
+    "name": "obj_interactive_gasengine_05"
+  },
+  "0c9cc5bb-af2f-4023-b8d8-cd7d52a60efe": {
+    "title": "Electric Engine 2",
+    "description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption.",
+    "name": "obj_interactive_electricengine_02"
+  },
+  "56cea967-a685-494d-85ef-3aa121a0c193": {
+    "title": "Electric Engine 3",
+    "description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption.",
+    "name": "obj_interactive_electricengine_03"
+  },
+  "5e57e0f7-e87c-4269-b274-146fe40e1b44": {
+    "title": "Electric Engine 4",
+    "description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption.",
+    "name": "obj_interactive_electricengine_04"
+  },
+  "22f3e797-82f5-4819-a085-c3cc28ec9025": {
+    "title": "Electric Engine 5",
+    "description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption.",
+    "name": "obj_interactive_electricengine_05"
+  },
+  "9fc793b2-250b-40ab-bcb3-97cf97c7b481": {
+    "title": "Thruster 2",
+    "description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption.",
+    "name": "obj_interactive_thruster_02"
+  },
+  "4c1cc8de-7af1-4f8e-a5c4-c583460af9e5": {
+    "title": "Thruster 3",
+    "description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption.",
+    "name": "obj_interactive_thruster_03"
+  },
+  "e6db321c-6f98-47f6-9f7f-4e6794a62cb8": {
+    "title": "Thruster 4",
+    "description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption.",
+    "name": "obj_interactive_thruster_04"
+  },
+  "a736ffdf-22c1-40f2-8e40-988cab7c0559": {
+    "title": "Thruster 5",
+    "description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption.",
+    "name": "obj_interactive_thruster_05"
+  },
+  "1872d83a-d1a1-4cb7-ad46-9e4468d2548c": {
+    "title": "Controller 2",
+    "description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller.",
+    "name": "obj_interactive_controller_02"
+  },
+  "6bb84152-c4d7-4644-bc37-a3becd79298d": {
+    "title": "Controller 3",
+    "description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller.",
+    "name": "obj_interactive_controller_03"
+  },
+  "2354cd24-3dd3-4db5-84ab-df64c32d2c72": {
+    "title": "Controller 4",
+    "description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller.",
+    "name": "obj_interactive_controller_04"
+  },
+  "a092359d-5cea-484d-a274-470d9a567632": {
+    "title": "Controller 5",
+    "description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller.",
+    "name": "obj_interactive_controller_05"
+  },
+  "cf46678b-c947-4267-ba85-f66930f5faa4": {
+    "title": "Sensor 2",
+    "description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more.",
+    "name": "obj_interactive_sensor_02"
+  },
+  "90fc3603-3544-4254-97ef-ea6723510961": {
+    "title": "Sensor 3",
+    "description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more.",
+    "name": "obj_interactive_sensor_03"
+  },
+  "de018bc6-1db5-492c-bfec-045e63f9d64b": {
+    "title": "Sensor 4",
+    "description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more.",
+    "name": "obj_interactive_sensor_04"
+  },
+  "20dcd41c-0a11-4668-9b00-97f278ce21af": {
+    "title": "Sensor 5",
+    "description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more.",
+    "name": "obj_interactive_sensor_05"
+  },
+  "31f14f52-f4d8-4b9f-9d6e-7412497c9284": {
+    "title": "Piston 2",
+    "description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations.",
+    "name": "jnt_interactive_piston_02"
+  },
+  "46396518-8c29-4da9-81bb-a020f4baf5b2": {
+    "title": "Piston 3",
+    "description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations.",
+    "name": "jnt_interactive_piston_03"
+  },
+  "7324219e-2b19-4098-baa3-9876984ead08": {
+    "title": "Piston 4",
+    "description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations.",
+    "name": "jnt_interactive_piston_04"
+  },
+  "2f004fdf-bfb0-46f3-a7ac-7711100bee0c": {
+    "title": "Piston 5",
+    "description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations.",
+    "name": "jnt_interactive_piston_05"
+  },
+  "59ea6ce8-239b-4eed-8847-a51b907d9b42": {
+    "title": "obj_pneumatic_pipe_01",
+    "name": "obj_pneumatic_pipe_01"
+  },
+  "a77a3c86-ba12-4f1f-986c-4bb532c5105d": {
+    "title": "Vacuum Pipe Straight Short",
+    "name": "obj_pneumatic_pipe_02"
+  },
+  "bf7b6484-8b8b-4846-8110-c5d9f0b9ada7": {
+    "title": "Vacuum Pipe Straight medium",
+    "name": "obj_pneumatic_pipe_04"
+  },
+  "7479ff7f-37fc-4304-93e9-aad7891c29f2": {
+    "title": "Vacuum Pipe Long",
+    "name": "obj_pneumatic_pipe_05"
+  },
+  "454ad69d-bac2-4b06-9386-6267bcbfece2": {
+    "title": "Mountable Spud Gun",
+    "description": "Connect it to a Ammo container with a trigger to shoot",
+    "name": "obj_interactive_mountablespudgun"
+  },
+  "c8b1bc7b-304e-44ce-9ca1-937b8e69d70c": {
+    "title": "Protector: Anti-Destruction",
+    "description": "Helps protecting your creation from damage. Connect it to a Battery container",
+    "name": "obj_interactive_encryptor_destruction"
+  },
+  "8fd2cf31-70b3-499a-bfb0-7e3d2c580258": {
+    "title": "Encryptor: Anti-Connection",
+    "description": "Hides the connections on your creations from other mechanics. Connect it to a Battery container",
+    "name": "obj_interactive_encryptor_connection"
+  },
+  "27c00cfb-4e7f-45fc-a037-f9a941464ce6": {
+    "title": "Fresh Neon Sign",
+    "name": "obj_manmade_freshsign"
+  },
+  "20bd2885-d184-44ae-b72b-f90b786f8664": {
+    "title": "Hard Work Sign",
+    "name": "obj_manmade_holidayposter"
+  },
+  "2289e96f-f9c6-440c-b7c9-ce9474da8264": {
+    "title": "Sale Sign",
+    "name": "obj_manmade_salesign"
+  },
+  "0c077288-d15d-45d6-8439-3dabe7144034": {
+    "title": "Water Dispenser",
+    "name": "obj_office_waterdispenser"
+  },
+  "239c9c71-e5c7-4ccb-ad40-7bdbb32f3cc9": {
+    "title": "Cup Holder",
+    "name": "obj_office_mugholder"
+  },
+  "e7eae129-9e3f-45d2-997c-637865c60a5e": {
+    "title": "Water Tank",
+    "name": "obj_office_waterdispensertank"
+  },
+  "b4831236-a9b3-4422-92da-803f9252a279": {
+    "title": "obj_office_waterdispensertank_taped",
+    "name": "obj_office_waterdispensertank_taped"
+  },
+  "3526de39-dcf4-484b-84ec-3336538be192": {
+    "title": "Corner Brace",
+    "name": "obj_office_cubiclefastener"
+  },
+  "da2efa37-370d-4848-bc2e-2bae01173ce1": {
+    "title": "obj_office_officechair_taped",
+    "name": "obj_office_officechair_taped"
+  },
+  "63695efd-0862-49f2-ace6-4d1758147fae": {
+    "title": "Garment Box (Common)",
+    "description": "Use it in a Dressbot to make new clothes",
+    "name": "obj_outfitpackage_common"
+  },
+  "27a221b1-9809-4df1-901a-caafe119c9b6": {
+    "title": "Garment Box (Rare)",
+    "description": "Use it in a Dressbot to make new clothes",
+    "name": "obj_outfitpackage_rare"
+  },
+  "7ab0cac7-b055-4283-b0bc-f85dd4d0416b": {
+    "title": "Garment Box (Epic)",
+    "description": "Use it in a Dressbot to make new clothes",
+    "name": "obj_outfitpackage_epic"
+  },
+  "aa4c9c5e-7fc6-4c27-967f-c550e551c872": {
+    "title": "Banana",
+    "description": "A fresh Banana.",
+    "name": "obj_plantables_banana"
+  },
+  "6a43fff2-8c6d-4460-9f44-e5483b5267dd": {
+    "title": "Blueberry",
+    "description": "A sweet Blueberry.",
+    "name": "obj_plantables_blueberry"
+  },
+  "f5098301-1693-457b-8efc-83b3504105ac": {
+    "title": "Orange",
+    "description": "A juicy Orange.",
+    "name": "obj_plantables_orange"
+  },
+  "4ec64cda-1a5b-4465-88b4-5ea452c4a556": {
+    "title": "Pineapple",
+    "description": "A juicy Pineapple.",
+    "name": "obj_plantables_pineapple"
+  },
+  "47ece75a-bfca-4e8a-b618-4f609fcea0da": {
+    "title": "Carrot",
+    "description": "A nutritious Carrot.",
+    "name": "obj_plantables_carrot"
+  },
+  "4ce00048-f735-4fab-b978-5f405e60f48f": {
+    "title": "Redbeet",
+    "description": "A nutritious Redbeet.",
+    "name": "obj_plantables_redbeet"
+  },
+  "6d92d8e7-25e9-4698-b83d-a64dc97978c8": {
+    "title": "Tomato",
+    "description": "A juicy Tomato.",
+    "name": "obj_plantables_tomato"
+  },
+  "b5cdd503-fe1c-482b-86ab-6a5d2cc4fc8f": {
+    "title": "Broccoli",
+    "description": "A nutritious Broccoli.",
+    "name": "obj_plantables_broccoli"
+  },
+  "bfcfac34-db0f-42d6-bd0c-74a7a5c95e82": {
+    "title": "Potato",
+    "description": "A starchy Potato. Can also be used as ammo for spud guns and mountable spud guns.",
+    "name": "obj_plantables_potato"
+  },
+  "13ffabca-91ec-48ce-9dd6-4f6660714701": {
+    "title": "Grass Container",
+    "name": "obj_plants_growbox"
+  },
+  "fcf0958c-084d-4854-9b1b-b06594b4262a": {
+    "title": "Beeswax",
+    "name": "obj_resource_beewax"
+  },
+  "267e0c93-62e3-45ad-9470-a14035cb9ca4": {
+    "title": "Ember",
+    "name": "obj_resource_ember"
+  },
+  "1147e59d-6940-42b4-840b-07f05054f5e0": {
+    "title": "Crude Oil",
+    "name": "obj_resource_crudeoil"
+  },
+  "3440440b-d362-4473-aa03-b7c41e1fe7ad": {
+    "title": "Cotton",
+    "name": "obj_resource_cotton"
+  },
+  "fe8bfeba-850b-4827-9785-10e2468c9c23": {
+    "title": "Corn",
+    "description": "Wocs love to eat corn.",
+    "name": "obj_resource_corn"
+  },
+  "40e8bd0d-04a0-4e95-b593-4038b54b156f": {
+    "title": "Glue Clam",
+    "name": "obj_resources_slimyclam"
+  },
+  "c9396a42-67c3-4fa3-b682-31428ff9eced": {
+    "title": "Pigment Flower",
+    "name": "obj_resource_flower"
+  },
+  "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3": {
+    "title": "Circuit Board",
+    "name": "obj_resource_circuitboard"
+  },
+  "fb0f128c-e607-4c52-9c25-f44dfd2dd95e": {
+    "title": "Woc Steak",
+    "name": "obj_resource_steak"
+  },
+  "388adeab-67e5-4901-afe8-c56217754510": {
+    "title": "Glow",
+    "name": "obj_resource_glowpoop"
+  },
+  "1e89879f-1171-4bcd-9465-db7f740ab09e": {
+    "title": "obj_robotparts_tapebothead01",
+    "name": "obj_robotparts_tapebothead01"
+  },
+  "50380984-9ad6-4092-88e9-5a84b8212899": {
+    "title": "obj_robotparts_tapebottorso01",
+    "name": "obj_robotparts_tapebottorso01"
+  },
+  "7faccb34-95df-4f3d-9250-054bb04b2719": {
+    "title": "obj_robotparts_tapebotleftarm01",
+    "name": "obj_robotparts_tapebotleftarm01"
+  },
+  "f293a245-2415-4da5-b012-01134652611f": {
+    "title": "obj_robotparts_tapebotshooter",
+    "name": "obj_robotparts_tapebotshooter"
+  },
+  "e9b6ef48-2a41-4db2-b8bc-5fd3f179b04e": {
+    "title": "obj_robotparts_haybothead",
+    "name": "obj_robotparts_haybothead"
+  },
+  "4617f9a6-8724-43ee-97e2-20904fd660ab": {
+    "title": "obj_robotparts_haybotbody",
+    "name": "obj_robotparts_haybotbody"
+  },
+  "6e480a17-57f1-4c06-9313-9b1c80e1be05": {
+    "title": "obj_robotparts_haybotpelvis",
+    "name": "obj_robotparts_haybotpelvis"
+  },
+  "7085387b-a2ce-4ef5-be67-b67501754b9e": {
+    "title": "obj_robotparts_haybotfork",
+    "name": "obj_robotparts_haybotfork"
+  },
+  "7b4d4f21-9164-4d55-854f-670afd54f1cc": {
+    "title": "obj_robotparts_farmbotpart_head",
+    "name": "obj_robotparts_farmbotpart_head"
+  },
+  "79b93e3a-79fd-4a1e-88cb-1eda65d3535f": {
+    "title": "obj_robotparts_farmbotpart_cannonarm",
+    "name": "obj_robotparts_farmbotpart_cannonarm"
+  },
+  "369b43d3-4ed3-464d-82e8-c9aa11251afc": {
+    "title": "obj_robotparts_farmbotpart_drill",
+    "name": "obj_robotparts_farmbotpart_drill"
+  },
+  "5de17a8f-f447-4204-886e-6ba015347f89": {
+    "title": "obj_robotparts_farmbotpart_scytharm",
+    "name": "obj_robotparts_farmbotpart_scytharm"
+  },
+  "b9b4f8ef-9d30-4662-8696-d27a2ba0a7fa": {
+    "title": "obj_robotpart_totebotbody",
+    "name": "obj_robotpart_totebotbody"
+  },
+  "243afe95-8058-47b0-bccf-49cc0445cd55": {
+    "title": "obj_robotpart_totebotleg",
+    "name": "obj_robotpart_totebotleg"
+  },
+  "c96ab903-f238-4bae-a614-28a758716d00": {
+    "title": "Scrap Gas Engine",
+    "description": "An engine with uneven speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. This Engine is not upgradable.",
+    "name": "obj_scrap_gasengine"
+  },
+  "bd597ac9-6640-43ba-9bd8-ed584a794f13": {
+    "title": "Scrap Driver's Seat",
+    "description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. This Drive's Seat is not upgradable.",
+    "name": "obj_scrap_driverseat"
+  },
+  "847daf20-02bf-4170-8699-9ab106acd29a": {
+    "title": "Scrap Seat",
+    "description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. This Seat is not upgradable.",
+    "name": "obj_scrap_seat"
+  },
+  "59f6951a-a450-42bf-ad03-54567cb70245": {
+    "title": "Scrap Wheel",
+    "description": "Not perfectly round",
+    "name": "obj_scrap_smallwheel"
+  },
+  "22beade5-38ca-47b4-a2ee-32403f58a862": {
+    "title": "Banana Seed",
+    "name": "obj_seed_banana"
+  },
+  "4b6d2bee-d0f1-4e56-96f0-d2596388cad2": {
+    "title": "Blueberry Seed",
+    "name": "obj_seed_blueberry"
+  },
+  "bee966b0-b5e5-41da-b992-5d363ab85ae4": {
+    "title": "Orange Seed",
+    "name": "obj_seed_orange"
+  },
+  "9edb6f7c-fb44-4348-a1c4-8afb41b92d8a": {
+    "title": "Pineapple Seed",
+    "name": "obj_seed_pineapple"
+  },
+  "9c82a525-8a8b-4483-9595-505aaa042486": {
+    "title": "Carrot Seed",
+    "name": "obj_seed_carrot"
+  },
+  "64051718-a3f1-422b-bda3-277efa0c4545": {
+    "title": "Redbeet Seed",
+    "name": "obj_seed_redbeet"
+  },
+  "38e41fb5-dd50-4294-829d-a517f0282fed": {
+    "title": "Tomato Seed",
+    "name": "obj_seed_tomato"
+  },
+  "1c6756ca-3a60-4dcb-a5d1-353edf818308": {
+    "title": "Broccoli Seed",
+    "name": "obj_seed_broccoli"
+  },
+  "eb1ef696-5c05-4662-9e47-fe1e0875ff84": {
+    "title": "Potato Seed",
+    "name": "obj_seed_potato"
+  },
+  "1a82f776-5989-4471-b09d-0c3f65012fb3": {
+    "title": "Exit Sign",
+    "name": "obj_spaceship_exitsign"
+  },
+  "aec1ff30-9347-4166-9cb7-f414e1563d9d": {
+    "title": "Maintenance Ship Door",
+    "name": "obj_spaceship_shipdoor"
+  },
+  "47062936-5d28-43ec-81b5-8fdb619e97e4": {
+    "title": "Ship Light",
+    "name": "obj_spaceship_ceilinglight"
+  },
+  "b3761216-dfc4-4679-960b-00f5ae5f8258": {
+    "title": "Handle",
+    "name": "obj_spaceship_interiorhandle"
+  },
+  "1df6f1af-fd39-443a-9fd7-dd389e0ba5c8": {
+    "title": "Ship Floor Tile",
+    "name": "obj_spaceship_interiorcables"
+  },
+  "1aac8942-38ac-4a83-bc16-6d33436c0934": {
+    "title": "Ship Ventilation",
+    "name": "obj_spaceship_interiorwedgelong"
+  },
+  "10079046-6400-42fd-bcd6-f66af6cfd8b8": {
+    "title": "Ship Compartment",
+    "name": "obj_spaceship_interiorboxmedium"
+  },
+  "98ef8fca-d4a3-4b9a-8699-0630b003b9fa": {
+    "title": "Ship Dual fan",
+    "name": "obj_spaceship_interiorboxlarge"
+  },
+  "2c90e412-9476-40d9-a440-228c888186bd": {
+    "title": "Warehouse Brick Lamp",
+    "name": "obj_spaceship_interiorlight"
+  },
+  "31c38d38-73f5-47ef-93c8-e10d4f579e1c": {
+    "title": "Net frame",
+    "name": "obj_spaceship_interiornet"
+  },
+  "4f5092dd-e2e5-4d42-8ec9-c0337cf23e21": {
+    "title": "Net frame hatch",
+    "name": "obj_spaceship_interiornetlarge"
+  },
+  "5f5926f5-1449-49b0-8997-2d5a0df37b21": {
+    "title": "Ship Shelf",
+    "name": "obj_spaceship_interiorshelf"
+  },
+  "5b628f22-ec0d-448f-a6be-3453950120a4": {
+    "title": "Calendar",
+    "name": "obj_spaceship_interiorcalendar"
+  },
+  "c563df47-9a8a-4338-9fec-06da1218c573": {
+    "title": "Bed",
+    "name": "obj_spaceship_shipbed"
+  },
+  "d4e6c84c-a493-44b1-81aa-4f4741ea3ed8": {
+    "title": "Broken Microwave",
+    "name": "obj_spaceship_microwave"
+  },
+  "a7d719f5-e839-4a95-923c-981b4dc21125": {
+    "title": "Ship Wall Panel Large",
+    "name": "obj_spaceship_wall08"
+  },
+  "5d2cdb56-2be8-4a62-8f05-ce5c9c1510ac": {
+    "title": "obj_spaceship_wall08_damaged",
+    "name": "obj_spaceship_wall08_damaged"
+  },
+  "4053c30c-6717-47c7-b0a9-177f7b8b30bc": {
+    "title": "obj_spaceship_wall02",
+    "name": "obj_spaceship_wall02"
+  },
+  "c807b38c-52b6-45cf-8cd3-1a46e6a9627f": {
+    "title": "obj_spaceship_wall02_damaged",
+    "name": "obj_spaceship_wall02_damaged"
+  },
+  "b3bb8083-d9b5-408d-b45c-49a444efba57": {
+    "title": "obj_spaceship_wall01",
+    "name": "obj_spaceship_wall01"
+  },
+  "46ac20df-dfbc-434f-aaf3-f34ddc2afb42": {
+    "title": "obj_spaceship_wall03",
+    "name": "obj_spaceship_wall03"
+  },
+  "011c1ffd-7146-4e8d-8c18-17247d768ae2": {
+    "title": "obj_spaceship_wall04",
+    "name": "obj_spaceship_wall04"
+  },
+  "6159898f-beb8-4f49-825b-92b0774daa61": {
+    "title": "obj_spaceship_wall12",
+    "name": "obj_spaceship_wall12"
+  },
+  "2bc619a3-c884-4e60-9e78-6c04487a48c5": {
+    "title": "obj_spaceship_wall12_damaged",
+    "name": "obj_spaceship_wall12_damaged"
+  },
+  "2448a709-a8ec-4d69-a927-b9ab195cd83f": {
+    "title": "obj_spaceship_wall06",
+    "name": "obj_spaceship_wall06"
+  },
+  "84d8e6eb-948b-4dd4-ab23-55a64d33eff1": {
+    "title": "obj_spaceship_wall05",
+    "name": "obj_spaceship_wall05"
+  },
+  "f15b5fa7-6113-4af8-b3e1-b05560ed946a": {
+    "title": "obj_spaceship_corner01",
+    "name": "obj_spaceship_corner01"
+  },
+  "45ee9f5a-cfc0-4f3a-bbe8-09f2ce1dbc4c": {
+    "title": "obj_spaceship_corner01_damaged",
+    "name": "obj_spaceship_corner01_damaged"
+  },
+  "988b5592-9e53-4782-a058-d26be442bd49": {
+    "title": "obj_spaceship_corner02",
+    "name": "obj_spaceship_corner02"
+  },
+  "90686663-1a3e-479a-b1c4-f81699274f50": {
+    "title": "obj_spaceship_corner03",
+    "name": "obj_spaceship_corner03"
+  },
+  "5ba206c2-d10b-4815-b95b-04be4959ec31": {
+    "title": "Ship Wall Panel Small",
+    "name": "obj_spaceship_wall11"
+  },
+  "7fa4ecf6-d8fe-49eb-a950-db1fb4590c4d": {
+    "title": "Ship Wall Panel Medium",
+    "name": "obj_spaceship_wall09"
+  },
+  "9bdb677f-8033-451f-8bc7-7ae71351c35c": {
+    "title": "Ship Wall Panel Large",
+    "name": "obj_spaceship_wall10"
+  },
+  "68d8eeb6-14e4-469b-9ee6-f80ebe1c4be6": {
+    "title": "Ship Wiring Short",
+    "name": "obj_spaceship_ceilingbeam03"
+  },
+  "e8cadcb0-9cdf-49d8-bac2-00193e8ac3cc": {
+    "title": "Ship Wiring Long",
+    "name": "obj_spaceship_ceilingbeam01"
+  },
+  "def1fe25-a33d-405b-ac04-2c1707c2101b": {
+    "title": "Ship Wiring End",
+    "name": "obj_spaceship_ceilingbeam02"
+  },
+  "4e084e1c-08e9-43de-bc6f-6fd73a9620aa": {
+    "title": "Ship Floor Mold",
+    "name": "obj_spaceship_frame01"
+  },
+  "aa3e38ef-21aa-4430-ab56-93c367f4f458": {
+    "title": "obj_spaceship_frame02",
+    "name": "obj_spaceship_frame02"
+  },
+  "29c5c1eb-a3bd-45ae-b823-aeb28d70593a": {
+    "title": "obj_spaceship_frame05",
+    "name": "obj_spaceship_frame05"
+  },
+  "22c526fc-b212-4e4e-af00-1cc69d9129e1": {
+    "title": "obj_spaceship_frame03",
+    "name": "obj_spaceship_frame03"
+  },
+  "a79a2bc9-1015-4c25-ab4b-0d4cb715db47": {
+    "title": "obj_spaceship_frame04",
+    "name": "obj_spaceship_frame04"
+  },
+  "c5bdb30e-9675-4f8a-8fb9-07e5b98039d4": {
+    "title": "obj_spaceship_frame06",
+    "name": "obj_spaceship_frame06"
+  },
+  "196586b5-897f-40f3-926c-b5dfa4f772eb": {
+    "title": "Ship Blinds",
+    "name": "obj_spaceship_blinds"
+  },
+  "66c1ccc6-1a68-40f3-9e10-ee362c3c13bc": {
+    "title": "Ship Ceiling Ventilation",
+    "name": "obj_spaceship_ceilingvent01"
+  },
+  "275e4258-ff57-45ae-8e2f-b82204c56d16": {
+    "title": "Ship Ventilation Panel",
+    "name": "obj_spaceship_ceilingvent02"
+  },
+  "fc4f1fd8-2544-45f0-8e3b-4684bc45e5f9": {
+    "title": "obj_spaceship_floor_panel",
+    "name": "obj_spaceship_floor_panel"
+  },
+  "1f5d8b77-183c-4f8b-83d7-a3940d090926": {
+    "title": "obj_spaceship_infoboard",
+    "name": "obj_spaceship_infoboard"
+  },
+  "cd18840d-d4ee-4f36-8ab1-843c823b0dcf": {
+    "title": "obj_harvests_stones_p01",
+    "name": "obj_harvests_stones_p01"
+  },
+  "b2d9e40b-e8e8-4d1e-86f9-86d0bdc5ddc4": {
+    "title": "obj_harvests_stones_p02",
+    "name": "obj_harvests_stones_p02"
+  },
+  "c9d61f53-ebd3-4bb5-8789-43b00edbcc8b": {
+    "title": "obj_harvests_stones_p03",
+    "name": "obj_harvests_stones_p03"
+  },
+  "126be16e-10c1-4ccd-82c5-368edc7f766a": {
+    "title": "obj_harvests_stones_p04",
+    "name": "obj_harvests_stones_p04"
+  },
+  "8c0ad43a-4bc8-41ef-ab3a-de70eb9ef510": {
+    "title": "obj_harvests_stones_p05",
+    "name": "obj_harvests_stones_p05"
+  },
+  "92bae57d-ae30-4a75-a7ad-8bf91f20d660": {
+    "title": "obj_harvests_stones_p06",
+    "name": "obj_harvests_stones_p06"
+  },
+  "0b114031-5065-4365-922d-3980d791e00d": {
+    "title": "obj_harvest_stonechunk01",
+    "name": "obj_harvest_stonechunk01"
+  },
+  "4e3f17bb-0169-4eb5-a4b4-84725a607b2c": {
+    "title": "obj_harvest_stonechunk02",
+    "name": "obj_harvest_stonechunk02"
+  },
+  "4cd7a389-a1ac-47f4-8cc0-2776174985da": {
+    "title": "obj_harvest_stonechunk03",
+    "name": "obj_harvest_stonechunk03"
+  },
+  "e49b210a-0d46-4f06-bcd8-08862379d156": {
+    "title": "Warehouse Key",
+    "description": "Used to activate a Warehouse elevator",
+    "name": "obj_survivalobject_keycard"
+  },
+  "ff09d816-843a-43e9-aab6-dc35e73787fd": {
+    "title": "obj_survivalobject_cardreader",
+    "name": "obj_survivalobject_cardreader"
+  },
+  "9a3058f3-6771-464f-a3e0-25d247f1422f": {
+    "title": "obj_survivalobject_cardreader_arm",
+    "name": "obj_survivalobject_cardreader_arm"
+  },
+  "75c11f33-7592-427f-96ac-d89994438042": {
+    "title": "obj_packingstation_front",
+    "name": "obj_packingstation_front"
+  },
+  "4fbf640a-200d-45c6-862a-cc2900f84f2c": {
+    "title": "obj_packingstation_mid",
+    "name": "obj_packingstation_mid"
+  },
+  "3a135dd2-510c-434b-b019-ce077042a5c8": {
+    "title": "obj_packingstation_crateload",
+    "name": "obj_packingstation_crateload"
+  },
+  "cc7fdd4a-ae17-44c8-9f91-089ea00f4891": {
+    "title": "obj_packingstation_screen_fruit",
+    "name": "obj_packingstation_screen_fruit"
+  },
+  "6a620faa-ca0d-4e39-bc67-97fb93d808c2": {
+    "title": "obj_packingstation_screen_veggie",
+    "name": "obj_packingstation_screen_veggie"
+  },
+  "d2e0d468-858b-4a8b-98b4-8c5900309aef": {
+    "title": "obj_survivalobject_elevatorfloor",
+    "name": "obj_survivalobject_elevatorfloor"
+  },
+  "a553bf2f-3a66-404a-b4c6-ce9e7b73f9d4": {
+    "title": "obj_survivalobject_elevatorbutton",
+    "name": "obj_survivalobject_elevatorbutton"
+  },
+  "61bdf048-c09f-4cf5-8b47-35ba28c0580c": {
+    "title": "obj_survivalobject_elevatorcallbutton",
+    "name": "obj_survivalobject_elevatorcallbutton"
+  },
+  "004bb5ee-34ba-484a-924b-31412d898e7e": {
+    "title": "obj_survivalobject_elevatordoor_left",
+    "name": "obj_survivalobject_elevatordoor_left"
+  },
+  "f47612db-e035-4d62-81e2-64fc3453ccc3": {
+    "title": "obj_survivalobject_bananabox",
+    "name": "obj_survivalobject_bananabox"
+  },
+  "c4a0a65b-3b24-4beb-bd7a-d687f4210169": {
+    "title": "obj_survivalobject_elevatorlamp",
+    "name": "obj_survivalobject_elevatorlamp"
+  },
+  "c8650c34-30ec-42c5-8dc3-7652ba4034ff": {
+    "title": "obj_survivalobject_elevatorwallleft",
+    "name": "obj_survivalobject_elevatorwallleft"
+  },
+  "d2093f3c-178c-4220-bfe0-e8a3d87f96c0": {
+    "title": "obj_survivalobject_elevatorwallright",
+    "name": "obj_survivalobject_elevatorwallright"
+  },
+  "256fde90-4225-4c22-b107-fcaabe2bec9c": {
+    "title": "obj_survivalobject_elevatorfan",
+    "name": "obj_survivalobject_elevatorfan"
+  },
+  "5ff56026-7af2-4644-b30c-f0b43230093f": {
+    "title": "obj_survivalobject_elevatorceiling",
+    "name": "obj_survivalobject_elevatorceiling"
+  },
+  "2ff2b13f-5a50-443c-bbda-1f40f6aa917f": {
+    "title": "obj_survivalobject_workbench",
+    "name": "obj_survivalobject_workbench"
+  },
+  "e59afe5b-2c5f-4934-95d7-8c187b22fd6d": {
+    "title": "obj_survivalobject_capsuledoor",
+    "name": "obj_survivalobject_capsuledoor"
+  },
+  "c0159b96-edf3-46cd-9fbe-96ee1126304b": {
+    "title": "obj_survivalobject_powercoresocket",
+    "name": "obj_survivalobject_powercoresocket"
+  },
+  "c654a023-ca53-4109-9f18-d297c18e9a02": {
+    "title": "Master Battery",
+    "description": "Used to power on large spaceships or stations",
+    "name": "obj_survivalobject_powercore"
+  },
+  "ebd73cee-988f-4ffb-95d1-d3c3c81fd506": {
+    "title": "obj_survivalobject_dispenserbot",
+    "name": "obj_survivalobject_dispenserbot"
+  },
+  "eed5ea94-2b85-4c1d-881d-7e07574480f9": {
+    "title": "obj_survivalobject_dispenserbot_spawner",
+    "name": "obj_survivalobject_dispenserbot_spawner"
+  },
+  "ec0bb005-f3c1-425a-94c4-6feca8567068": {
+    "title": "obj_survivalobject_terminal",
+    "name": "obj_survivalobject_terminal"
+  },
+  "614c3193-13da-40f4-9b03-37f26e760fd6": {
+    "title": "obj_hideout_questgiver",
+    "name": "obj_hideout_questgiver"
+  },
+  "712a5ebd-0793-49ba-b1ef-681a8fdceba6": {
+    "title": "obj_hideout_button",
+    "name": "obj_hideout_button"
+  },
+  "d1840356-ad77-4505-a9a0-10d11a77986f": {
+    "title": "obj_hideout_dropoff",
+    "name": "obj_hideout_dropoff"
+  },
+  "de7eea5b-9262-476b-a5bb-238d0e91f81f": {
+    "title": "obj_survivalobject_kobag",
+    "name": "obj_survivalobject_kobag"
+  },
+  "79cc711e-7094-4029-8419-bbbf8f08c6f2": {
+    "title": "obj_survivalobject_ruinchest",
+    "name": "obj_survivalobject_ruinchest"
+  },
+  "176e4c20-93d6-4792-860e-7043f12003a6": {
+    "title": "obj_craftbot_omnicrafter",
+    "name": "obj_craftbot_omnicrafter"
+  },
+  "103fc4e6-7e57-465e-a86d-983343415877": {
+    "title": "Water Bucket",
+    "description": "Bucket with water.",
+    "name": "obj_tool_bucket_water"
+  },
+  "2e792123-4a10-4cc6-b9ef-c5a518655cb4": {
+    "title": "Chemical Bucket",
+    "description": "Bucket with chemical waste.",
+    "name": "obj_tool_bucket_chemical"
+  },
+  "bb641a4f-e391-441c-bc6d-0ae21a069476": {
+    "title": "tool_sledgehammer",
+    "name": "tool_sledgehammer"
+  },
+  "c5ea0c2f-185b-48d6-b4df-45c386a575cc": {
+    "title": "Spud Gun",
+    "description": "Spud Gun with single potato shot.",
+    "name": "tool_spudgun"
+  },
+  "f6250bf4-9726-406f-a29a-945c06e460e5": {
+    "title": "Spud Shotgun",
+    "description": "Shoots sizzling hot fries in a spread.",
+    "name": "tool_shotgun"
+  },
+  "9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b": {
+    "title": "Spudling Gun",
+    "description": "Shoots potatoes in a rapid fire. Uses a lot of potato ammo",
+    "name": "tool_gatling"
+  },
+  "88dc2a60-7e1a-4c24-8584-2491acd79753": {
+    "title": "obj_harvest_log_s01",
+    "name": "obj_harvest_log_s01"
+  },
+  "135967d2-7faa-495f-98f4-5130350396a4": {
+    "title": "obj_harvest_log_m01",
+    "name": "obj_harvest_log_m01"
+  },
+  "a4ab4df5-403d-4baa-a3c3-ecc19dd87340": {
+    "title": "obj_harvest_log_l01",
+    "name": "obj_harvest_log_l01"
+  },
+  "3e6d2a8a-c836-4ae5-b6bf-9ec01c6393b0": {
+    "title": "obj_harvest_log_l02a",
+    "name": "obj_harvest_log_l02a"
+  },
+  "10149368-0d49-44c1-9521-dbec436eb770": {
+    "title": "obj_harvest_log_l02b",
+    "name": "obj_harvest_log_l02b"
+  },
+  "5a508601-485f-4db6-8134-69a4d3d02bc1": {
+    "title": "obj_harvests_trees_spruce02_p00",
+    "name": "obj_harvests_trees_spruce02_p00"
+  },
+  "b95bcc20-9581-4228-b444-b1c7ebc73507": {
+    "title": "obj_harvests_trees_spruce02_p01",
+    "name": "obj_harvests_trees_spruce02_p01"
+  },
+  "3104311d-a1c6-4f26-8eb9-7eea54fe164f": {
+    "title": "obj_harvests_trees_spruce02_p02",
+    "name": "obj_harvests_trees_spruce02_p02"
+  },
+  "de637191-d84d-4c1e-8a55-7bb86e54ce70": {
+    "title": "obj_harvests_trees_spruce02_p03",
+    "name": "obj_harvests_trees_spruce02_p03"
+  },
+  "a68470c8-67f4-4248-8c76-15fa7fb09ec6": {
+    "title": "obj_harvests_trees_spruce02_p04",
+    "name": "obj_harvests_trees_spruce02_p04"
+  },
+  "bb14330f-4698-4c2b-a5ba-732443a67d72": {
+    "title": "obj_harvests_trees_spruce01_p05",
+    "name": "obj_harvests_trees_spruce01_p05"
+  },
+  "3b0c9ff3-6c5a-404a-b830-4872471bf33f": {
+    "title": "obj_harvests_trees_spruce02_p05",
+    "name": "obj_harvests_trees_spruce02_p05"
+  },
+  "8f9e059a-4c3a-4664-967a-28f127529aaf": {
+    "title": "obj_harvests_trees_spruce03_p05",
+    "name": "obj_harvests_trees_spruce03_p05"
+  },
+  "4126d267-c8df-4c3c-98c7-9cb17f87f770": {
+    "title": "obj_harvests_trees_leafy01_p00",
+    "name": "obj_harvests_trees_leafy01_p00"
+  },
+  "fd381577-bcd2-4b72-b86c-de47d7783820": {
+    "title": "obj_harvests_trees_leafy01_p01",
+    "name": "obj_harvests_trees_leafy01_p01"
+  },
+  "c52c6da1-dad9-4649-b02f-34dec0bbd411": {
+    "title": "obj_harvests_trees_leafy01_p02",
+    "name": "obj_harvests_trees_leafy01_p02"
+  },
+  "90f31b94-a831-4786-a5e7-6d423c224718": {
+    "title": "obj_harvests_trees_leafy01_p03",
+    "name": "obj_harvests_trees_leafy01_p03"
+  },
+  "88dc4f4a-18c2-4d79-8dee-f0e7ac9d5845": {
+    "title": "obj_harvests_trees_leafy01_p04",
+    "name": "obj_harvests_trees_leafy01_p04"
+  },
+  "f708c190-6155-4769-ae0e-884cc8c21300": {
+    "title": "obj_harvests_trees_leafy02_p00",
+    "name": "obj_harvests_trees_leafy02_p00"
+  },
+  "bd2af8d6-ecc4-4071-82cb-56620345c06e": {
+    "title": "obj_harvests_trees_leafy02_p01",
+    "name": "obj_harvests_trees_leafy02_p01"
+  },
+  "5cf2c67c-62f6-4219-a857-943901611c6f": {
+    "title": "obj_harvests_trees_leafy02_p02",
+    "name": "obj_harvests_trees_leafy02_p02"
+  },
+  "42bac230-35c5-4d22-a141-1cf693137548": {
+    "title": "obj_harvests_trees_leafy02_p03",
+    "name": "obj_harvests_trees_leafy02_p03"
+  },
+  "3d9dd135-5e3d-412a-bb1b-2ad58f0ea8be": {
+    "title": "obj_harvests_trees_leafy02_p04",
+    "name": "obj_harvests_trees_leafy02_p04"
+  },
+  "9ca81758-7c90-4368-ab57-1d9d62b32a37": {
+    "title": "obj_harvests_trees_leafy02_p05",
+    "name": "obj_harvests_trees_leafy02_p05"
+  },
+  "5a0ffe5b-f7cf-482b-915f-1d6b0876c26c": {
+    "title": "obj_harvests_trees_leafy02_p06",
+    "name": "obj_harvests_trees_leafy02_p06"
+  },
+  "b1647259-50bd-4838-814a-bfddd770ba70": {
+    "title": "obj_harvests_trees_leafy02_p07",
+    "name": "obj_harvests_trees_leafy02_p07"
+  },
+  "ef7115ea-a497-4a4a-a1ec-44b810094ef1": {
+    "title": "obj_harvests_trees_leafy03_p00",
+    "name": "obj_harvests_trees_leafy03_p00"
+  },
+  "3b30e244-edca-44c3-a2b8-08ae779c69e6": {
+    "title": "obj_harvests_trees_leafy03_p01",
+    "name": "obj_harvests_trees_leafy03_p01"
+  },
+  "40ff42d8-6e6f-4da4-a91c-8289e72b9ea1": {
+    "title": "obj_harvests_trees_leafy03_p02",
+    "name": "obj_harvests_trees_leafy03_p02"
+  },
+  "8821ec7c-477d-4d3b-9b0c-aee479d3e6c3": {
+    "title": "obj_harvests_trees_leafy03_p03",
+    "name": "obj_harvests_trees_leafy03_p03"
+  },
+  "6e7eb9bb-4b8e-400a-b9c4-2e9320e03ead": {
+    "title": "obj_harvests_trees_leafy03_p04",
+    "name": "obj_harvests_trees_leafy03_p04"
+  },
+  "92a6186b-9c42-48d0-9ebc-a978044e6a22": {
+    "title": "obj_harvests_trees_leafy03_p05",
+    "name": "obj_harvests_trees_leafy03_p05"
+  },
+  "57d39e43-5c0b-476c-b8a2-474c77c22607": {
+    "title": "obj_harvests_trees_leafy03_p06",
+    "name": "obj_harvests_trees_leafy03_p06"
+  },
+  "c1e99269-4090-489f-bcaf-f7cb04b03a73": {
+    "title": "obj_harvests_trees_leafy03_p07",
+    "name": "obj_harvests_trees_leafy03_p07"
+  },
+  "a6523fd2-869c-4d11-ba42-dc967a8aad25": {
+    "title": "obj_harvests_trees_leafy03_p08",
+    "name": "obj_harvests_trees_leafy03_p08"
+  },
+  "fbc59ea5-993f-48a7-8b49-c1cdf67f75e2": {
+    "title": "obj_harvests_trees_leafy03_p09",
+    "name": "obj_harvests_trees_leafy03_p09"
+  },
+  "55b19e7f-e45b-48b2-8f7c-d9e84fed0736": {
+    "title": "obj_harvests_trees_birch01_p00",
+    "name": "obj_harvests_trees_birch01_p00"
+  },
+  "22947bb1-7c64-477c-8656-d7857df39b78": {
+    "title": "obj_harvests_trees_birch01_p01",
+    "name": "obj_harvests_trees_birch01_p01"
+  },
+  "5ee9b950-839f-479a-bc06-902b830504cf": {
+    "title": "obj_harvests_trees_birch01_p02",
+    "name": "obj_harvests_trees_birch01_p02"
+  },
+  "7b78d74f-c4c7-4c48-80f5-8f7f4bbd5de9": {
+    "title": "obj_harvests_trees_birch01_p03",
+    "name": "obj_harvests_trees_birch01_p03"
+  },
+  "1d667253-849c-4f9f-9109-1a2d91795247": {
+    "title": "obj_harvests_trees_birch01_p04",
+    "name": "obj_harvests_trees_birch01_p04"
+  },
+  "64555383-f1c9-4027-a1c4-02951d085b76": {
+    "title": "obj_harvests_trees_birch01_p05",
+    "name": "obj_harvests_trees_birch01_p05"
+  },
+  "89ca09da-4e7c-404f-99eb-beb275cfc217": {
+    "title": "obj_harvests_trees_birch02_p00",
+    "name": "obj_harvests_trees_birch02_p00"
+  },
+  "13cf98bf-d033-4be5-a0a0-560cb946a4ba": {
+    "title": "obj_harvests_trees_birch02_p01",
+    "name": "obj_harvests_trees_birch02_p01"
+  },
+  "ce37c509-2be6-4368-8ac7-a34a75fab248": {
+    "title": "obj_harvests_trees_birch02_p02",
+    "name": "obj_harvests_trees_birch02_p02"
+  },
+  "47b95667-6296-4bc4-a93e-8e2bf51c8b80": {
+    "title": "obj_harvests_trees_birch02_p03",
+    "name": "obj_harvests_trees_birch02_p03"
+  },
+  "06c564e2-ca8d-4843-94e9-322cb835f59e": {
+    "title": "obj_harvests_trees_birch02_p04",
+    "name": "obj_harvests_trees_birch02_p04"
+  },
+  "de556b89-a4be-4d7e-ab49-e6485af16836": {
+    "title": "obj_harvests_trees_birch02_p05",
+    "name": "obj_harvests_trees_birch02_p05"
+  },
+  "3b683206-f4b6-4652-bb32-dd488e73f367": {
+    "title": "obj_harvests_trees_birch02_p06",
+    "name": "obj_harvests_trees_birch02_p06"
+  },
+  "b7756219-75f2-4eb8-93d1-262e8ddded27": {
+    "title": "obj_harvests_trees_birch03_p00",
+    "name": "obj_harvests_trees_birch03_p00"
+  },
+  "0a2544c9-902d-42e2-91af-f35dad9c5d0e": {
+    "title": "obj_harvests_trees_birch03_p01",
+    "name": "obj_harvests_trees_birch03_p01"
+  },
+  "a73f7005-b89a-427d-8e94-c3d6f729be52": {
+    "title": "obj_harvests_trees_birch03_p02",
+    "name": "obj_harvests_trees_birch03_p02"
+  },
+  "2133fdb7-5e3c-4fb9-99ad-5b4f8bf5c6e5": {
+    "title": "obj_harvests_trees_birch03_p03",
+    "name": "obj_harvests_trees_birch03_p03"
+  },
+  "0b423e11-50dd-4272-92a2-506f42c992d4": {
+    "title": "obj_harvests_trees_birch03_p04",
+    "name": "obj_harvests_trees_birch03_p04"
+  },
+  "d00f05c6-f704-49a0-acdc-b4391086d254": {
+    "title": "obj_harvests_trees_birch03_p05",
+    "name": "obj_harvests_trees_birch03_p05"
+  },
+  "079b7a15-7718-444b-8560-7717109dabff": {
+    "title": "obj_harvests_trees_birch03_p06",
+    "name": "obj_harvests_trees_birch03_p06"
+  },
+  "fe1d102e-992a-4a24-a942-5fb37e8879d3": {
+    "title": "obj_harvests_trees_pine01_p00",
+    "name": "obj_harvests_trees_pine01_p00"
+  },
+  "608d6e20-bc3e-4440-907f-f0bd5fb45eac": {
+    "title": "obj_harvests_trees_pine01_p01",
+    "name": "obj_harvests_trees_pine01_p01"
+  },
+  "93ace99a-f58c-4dd3-8334-0ee890e42feb": {
+    "title": "obj_harvests_trees_pine01_p02",
+    "name": "obj_harvests_trees_pine01_p02"
+  },
+  "c713ed53-14fc-4a0d-93cf-9c2c865a2086": {
+    "title": "obj_harvests_trees_pine01_p03",
+    "name": "obj_harvests_trees_pine01_p03"
+  },
+  "e4df268d-5845-4532-ba75-75bb7b71fcdf": {
+    "title": "obj_harvests_trees_pine01_p04",
+    "name": "obj_harvests_trees_pine01_p04"
+  },
+  "79e41f5c-7b69-42ba-9172-7e3df49231bd": {
+    "title": "obj_harvests_trees_pine01_p05",
+    "name": "obj_harvests_trees_pine01_p05"
+  },
+  "5ca61a85-7040-47bc-8f87-5d2ce295cb6e": {
+    "title": "obj_harvests_trees_pine01_p06",
+    "name": "obj_harvests_trees_pine01_p06"
+  },
+  "1b24e0a4-3f04-4dfe-83ea-612da2eff922": {
+    "title": "obj_harvests_trees_pine01_p07",
+    "name": "obj_harvests_trees_pine01_p07"
+  },
+  "2f955589-701b-4c47-9127-37feeb80d35a": {
+    "title": "obj_harvests_trees_pine01_p08",
+    "name": "obj_harvests_trees_pine01_p08"
+  },
+  "c1593ec8-ed29-4f95-8bce-507f028810d2": {
+    "title": "obj_harvests_trees_pine01_p09",
+    "name": "obj_harvests_trees_pine01_p09"
+  },
+  "2311afca-ca99-4b7b-a209-8382ed7ea356": {
+    "title": "obj_harvests_trees_pine01_p10",
+    "name": "obj_harvests_trees_pine01_p10"
+  },
+  "f9a71b9b-d872-4097-863c-a11783642221": {
+    "title": "obj_harvests_trees_pine01_p11",
+    "name": "obj_harvests_trees_pine01_p11"
+  },
+  "46a78456-aa4f-409d-98d2-d1fdeac94e41": {
+    "title": "obj_harvests_trees_pine02_p00",
+    "name": "obj_harvests_trees_pine02_p00"
+  },
+  "ff5bee6a-81a3-49ba-a4b7-d94dbd4b8519": {
+    "title": "obj_harvests_trees_pine02_p01",
+    "name": "obj_harvests_trees_pine02_p01"
+  },
+  "9518dd16-f207-4dd5-9c52-91a655446a80": {
+    "title": "obj_harvests_trees_pine02_p02",
+    "name": "obj_harvests_trees_pine02_p02"
+  },
+  "61f24d00-3d2d-44bf-818e-50a11c920aca": {
+    "title": "obj_harvests_trees_pine02_p03",
+    "name": "obj_harvests_trees_pine02_p03"
+  },
+  "1986c34b-c318-4992-ab1d-34a1531a4095": {
+    "title": "obj_harvests_trees_pine02_p04",
+    "name": "obj_harvests_trees_pine02_p04"
+  },
+  "aff3fcf0-9b67-42b5-bced-5acdf223c9aa": {
+    "title": "obj_harvests_trees_pine02_p05",
+    "name": "obj_harvests_trees_pine02_p05"
+  },
+  "6f89ff7b-f49d-4f6e-904a-5758c29b0d8e": {
+    "title": "obj_harvests_trees_pine02_p06",
+    "name": "obj_harvests_trees_pine02_p06"
+  },
+  "b2c6c47e-7443-4566-a194-d3f24435733d": {
+    "title": "obj_harvests_trees_pine02_p07",
+    "name": "obj_harvests_trees_pine02_p07"
+  },
+  "7a31b721-c944-4b40-ba71-c1b2e3f00b9c": {
+    "title": "obj_harvests_trees_pine02_p08",
+    "name": "obj_harvests_trees_pine02_p08"
+  },
+  "ca208216-99f0-43d1-900d-cb0924223b65": {
+    "title": "obj_harvests_trees_pine02_p09",
+    "name": "obj_harvests_trees_pine02_p09"
+  },
+  "8089b86c-7390-4cb6-b30e-7b281e8c329e": {
+    "title": "obj_harvests_trees_pine02_p10",
+    "name": "obj_harvests_trees_pine02_p10"
+  },
+  "737a5987-a586-4a06-9e9d-3661ab8d69d2": {
+    "title": "obj_harvests_trees_pine03_p00",
+    "name": "obj_harvests_trees_pine03_p00"
+  },
+  "8c0a32e1-50a4-4e23-be1d-a09d12fc65c1": {
+    "title": "obj_harvests_trees_pine03_p01",
+    "name": "obj_harvests_trees_pine03_p01"
+  },
+  "a20e79dd-d74e-4e10-845a-b101b3a95ab2": {
+    "title": "obj_harvests_trees_pine03_p02",
+    "name": "obj_harvests_trees_pine03_p02"
+  },
+  "e3bc44d7-2173-47c0-86c3-0a9348812692": {
+    "title": "obj_harvests_trees_pine03_p03",
+    "name": "obj_harvests_trees_pine03_p03"
+  },
+  "85a54457-4172-4be5-a750-96df4d40286c": {
+    "title": "obj_harvests_trees_pine03_p04",
+    "name": "obj_harvests_trees_pine03_p04"
+  },
+  "3f7c3f3c-9b28-4a26-abbd-8f2948e9b027": {
+    "title": "obj_harvests_trees_pine03_p05",
+    "name": "obj_harvests_trees_pine03_p05"
+  },
+  "8e2dfa65-c08e-4f51-a007-5fed80d846a3": {
+    "title": "obj_harvests_trees_pine03_p06",
+    "name": "obj_harvests_trees_pine03_p06"
+  },
+  "4f693e6e-7819-46ff-aef3-5cfd2fc5bbde": {
+    "title": "obj_harvests_trees_pine03_p07",
+    "name": "obj_harvests_trees_pine03_p07"
+  },
+  "0539121b-9588-4c64-bdd0-25b0a29b081a": {
+    "title": "obj_harvests_trees_pine03_p08",
+    "name": "obj_harvests_trees_pine03_p08"
+  },
+  "05c81c17-3780-4edb-80a4-1648c25ca460": {
+    "title": "obj_harvests_trees_pine03_p09",
+    "name": "obj_harvests_trees_pine03_p09"
+  },
+  "15ee8b4c-d58b-462f-a0a0-5c9bcdff495f": {
+    "title": "obj_harvests_trees_pine03_p10",
+    "name": "obj_harvests_trees_pine03_p10"
+  },
+  "a7fb4293-f623-4a0f-9465-8bc640f0038b": {
+    "title": "License Plate",
+    "name": "obj_vehicle_license_plate"
+  },
+  "eabc9e68-6172-4719-ace5-5d64333233c0": {
+    "title": "Metallic Tube Straight",
+    "name": "obj_vehicle_mediumpipe"
+  },
+  "eb608c5d-c418-49db-a2c5-1c8186b3d314": {
+    "title": "Metallic Tube Bend",
+    "name": "obj_vehicle_mediumpipebent"
+  },
+  "64fdc73f-259a-49df-94ac-24db25a4dc42": {
+    "title": "Rounded Frame Corner",
+    "name": "obj_vehicle_wheelhousecorner"
+  },
+  "43c0ca80-0980-433a-88a3-929727a62a6d": {
+    "title": "Metal Storage Support",
+    "name": "obj_warehouse_container1"
+  },
+  "94acfb72-c650-4cb5-a8aa-08af3e691d2e": {
+    "title": "obj_warehouse_container2",
+    "name": "obj_warehouse_container2"
+  },
+  "66affe90-4552-455e-a0b0-b203f9988790": {
+    "title": "Metal Storage Ramp",
+    "name": "obj_warehouse_container3"
+  },
+  "b3425d6d-ea3d-45de-9078-10af2e178389": {
+    "title": "Large Metal Storage Lamp",
+    "name": "obj_warehouse_container3B"
+  },
+  "ba7775ef-d03b-46bd-aa09-09015297a415": {
+    "title": "Metal Storage Beam",
+    "name": "obj_warehouse_container3C"
+  },
+  "b7e60b8e-2075-4ae4-b906-53af3845e198": {
+    "title": "Metal Storage Corner B",
+    "name": "obj_warehouse_container4"
+  },
+  "2bbaf389-4ef7-4dca-b7ee-397cc30f3862": {
+    "title": "Metal Storage Corner A",
+    "name": "obj_warehouse_container5"
+  },
+  "fba945c7-a50f-4515-af38-57d768706078": {
+    "title": "Metal Storage Handle",
+    "name": "obj_warehouse_container6"
+  },
+  "513530b0-61bd-4b82-83e7-191d090d25d8": {
+    "title": "Metal Storage Floor",
+    "name": "obj_warehouse_container7"
+  },
+  "4db857f1-07dc-4ea2-9391-fd24903945d1": {
+    "title": "Packing Table",
+    "name": "obj_warehouse_packingtable"
+  },
+  "a2cf56fe-9961-481b-9a12-093f64867d9c": {
+    "title": "Packing Table Holder",
+    "name": "obj_warehouse_packingtablesupport"
+  },
+  "cf4daf85-36a2-479f-96dc-b6201bc12d36": {
+    "title": "Pack Instruction Sign",
+    "name": "obj_warehouse_packingtablesign"
+  },
+  "72074131-529b-49c1-9ff3-73706f61eb06": {
+    "title": "Wrapping Roll",
+    "name": "obj_warehouse_packingtableroll"
+  },
+  "efd779ef-ce99-4507-bafb-9e2c7ff8a46c": {
+    "title": "Banner",
+    "name": "obj_warehouse_banner1"
+  },
+  "6cb18801-8284-4f27-9f2e-b9955861b605": {
+    "title": "obj_warehouse_banner2",
+    "name": "obj_warehouse_banner2"
+  },
+  "448d7d18-2a36-4749-8d73-3da913ae6aeb": {
+    "title": "Crane Leg",
+    "name": "obj_warehouse_overheadcranearm"
+  },
+  "8f5f8a39-734d-4bc3-8a9e-74026bcb3704": {
+    "title": "Crane Panel",
+    "name": "obj_warehouse_overheadcranearmplate"
+  },
+  "cbc6fc23-dcc9-4d6f-a7aa-9a3ae37ca41f": {
+    "title": "Crane Cable Roll",
+    "name": "obj_warehouse_overheadcranerope"
+  },
+  "54ea2236-001c-4560-8e6d-3942a885bb3b": {
+    "title": "Crane Top",
+    "name": "obj_warehouse_overheadcranearmplatform"
+  },
+  "ec334737-1467-4a29-a3b7-e04f662bca1b": {
+    "title": "Crane Body",
+    "name": "obj_warehouse_overheadcranetrolley"
+  },
+  "96392e20-12e9-4a19-8dc5-7a8e33238ae2": {
+    "title": "Crane Hook",
+    "name": "obj_warehouse_cranehook"
+  },
+  "b7cf1762-4010-4915-813d-dfbefb100ef5": {
+    "title": "Crane Hook Block",
+    "name": "obj_warehouse_cranehook_base"
+  },
+  "2893e707-36b3-4ff1-bb3c-ef1b5524ae13": {
+    "title": "Crane Loading Floor",
+    "name": "obj_warehouse_craneplatform"
+  },
+  "cc454365-7262-4953-a190-4bead4f4a260": {
+    "title": "obj_warehouse_encryptorsign_destruction",
+    "name": "obj_warehouse_encryptorsign_destruction"
+  },
+  "ba79e3c0-914f-46ff-874b-243df5589e3c": {
+    "title": "obj_warehouse_encryptorsign_connection",
+    "name": "obj_warehouse_encryptorsign_connection"
+  },
+  "8f190ce2-3a59-423e-8483-a7aa67bd5bc0": {
+    "title": "Lift",
+    "description": "Build on the lift to create freely movable constructions that won't be fixed to the ground. Can be elevated and lowered as well as lift creations that have flipped over.",
+    "name": "tool_lift"
+  },
+  "85fc5f11-722b-4723-91f2-293a81ad0800": {
+    "title": "obj_tool_connect",
+    "name": "obj_tool_connect"
+  },
+  "731c6a84-7ae7-439d-a620-128076f9985c": {
+    "title": "obj_tool_paint",
+    "name": "obj_tool_paint"
+  },
+  "836e98a2-8c8c-4a6b-9239-54acdd4f4736": {
+    "title": "obj_tool_weld",
+    "name": "obj_tool_weld"
+  },
+  "2d7f1278-ac93-4039-9eb2-d31715ea10ff": {
+    "title": "obj_tool_spudgun",
+    "name": "obj_tool_spudgun"
+  },
+  "b633c3ee-2cda-4096-989a-60e90cd220aa": {
+    "title": "obj_tool_spudling",
+    "name": "obj_tool_spudling"
+  },
+  "3faf624b-0a95-452f-b6cd-9930ad1731c5": {
+    "title": "obj_tool_frier",
+    "name": "obj_tool_frier"
+  },
+  "93c27ab2-4930-4654-ba1c-bcfe35e966f6": {
+    "title": "Cotton Seed",
+    "name": "obj_seed_cotton"
+  }
+}
