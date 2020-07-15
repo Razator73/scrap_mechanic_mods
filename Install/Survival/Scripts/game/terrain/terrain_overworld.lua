@@ -5,7 +5,7 @@ dofile "random_generation.lua"
 local SCALE_HACK = false
 local SCALE = 8
 local ADD_LOD = 1
-local DEBUG_COLORS = false
+local DEBUG_COLORS = true
 
 ----------------------------------------------------------------------------------------------------
 -- Initialization
@@ -24,12 +24,33 @@ function init()
 	initPoiTiles()
 end
 
+local seen={}
+
+    --[[function dump(t,i)
+        seen[t]=true
+        local s={}
+        local n=0
+        for k in pairs(t) do
+            n=n+1 s[n]=k
+        end
+        table.sort(s)
+        for k,v in ipairs(s) do
+            --print(i,v)
+						json.encode(i,v)
+						--io.write(i,v)
+            v=t[v]
+            if type(v)=="table" and not seen[v] then
+                dump(v,i.."\t")
+            end
+        end
+    end]]
+
 function create( xMin, xMax, yMin, yMax, seed, data, padding )
 	--seed = 1337 --HACK: Constant seed for testing
 	--math.randomseed( os.time() )
 	--seed = math.random( 1073741823 )
-	--seed = 852772513
-	
+	--seed = 1000 --[TAG]
+
 	print( "Creating overworld terrain" )
 	print( "Bounds X: ["..xMin..", "..xMax.."], Y: ["..yMin..", "..yMax.."]" )
 	print( "Seed: "..seed )
@@ -37,9 +58,22 @@ function create( xMin, xMax, yMin, yMax, seed, data, padding )
 	print( "Total cells: " .. ( xMax - xMin + 1 ) * ( yMax - yMin + 1 ) )
 
 	generateOverworldCelldata( xMin, xMax, yMin, yMax, seed, data, padding )
-	
+	print("========================================")
+	print("========================================")
+	print("========================================")
+	print("========================================")
+	print(sm.json.writeJsonString(g_cellData))
+	--dump(g_cellData,"")
+	print("========================================")
+	print("========================================")
+	print("========================================")
+	print("========================================")
+  --[[local sec = tonumber(os.clock() + 9999999);
+  while (os.clock() < sec) do
+  end]]
+
 	sm.terrainData.save( g_cellData )
-	
+
 	createControlPoints()
 end
 
@@ -49,9 +83,24 @@ function load()
 	print( "Loading overworld terrain" )
 	if sm.terrainData.exists() then
 		g_cellData = sm.terrainData.load()
+		forEveryCell( function( x, y )
+			if y % 2 == 0 then
+				if x % 2 == 0 then
+					g_cellData.cellDebug[y][x] = DEBUG_Y --[FX] added this
+				else
+					g_cellData.cellDebug[y][x] = DEBUG_R --[FX] added this
+				end
+			else
+				if x % 2 == 0 then
+					g_cellData.cellDebug[y][x] = DEBUG_R --[FX] added this
+				else
+					g_cellData.cellDebug[y][x] = DEBUG_Y --[FX] added this
+				end
+			end
+		end )
 		--print( "Bounds X: [" .. g_cellData.bounds.xMin .. ", " .. g_cellData.bounds.xMax .. "], Y: [" .. g_cellData.bounds.yMin .. ", " .. g_cellData.bounds.yMax .. "]" )
 		--print( "Seed: "..g_cellData.seed )
-		
+
 		createControlPoints()
 		return true
 	end
@@ -157,38 +206,38 @@ function getMidElevationX( x0, y0, xFract )
 	local t = xFract
 	local x1 = x0 + 1
 	local c0, c1, c2, c3
-	
+
 	c0 = getMidElevation( x0, y0 )
-	
+
 	if flatTowardsEast( x0, y0 ) == 1 then
 		c1 = getMidElevation( x0, y0 )
 	else
 		c1 = getEastElevation( x0, y0 )
 	end
-	
+
 	if flatTowardsWest( x1, y0 ) == 1 then
 		c2 = getMidElevation( x1, y0 )
 	else
 		c2 = getWestElevation( x1, y0 )
 	end
-	
+
 	c3 = getMidElevation( x1, y0 )
-	
+
 	return sm.util.bezier3( c0, c1, c2, c3, t )
 end
 
 function getSouthElevationX( x0, y0, xFract )
 	local t = xFract
 	local x1 = x0 + 1
-	
+
 	local flatnessEast = flatTowardsEast( x0, y0 - 1 ) * 0.5 + flatTowardsEast( x0, y0 ) * 0.5
 	local flatnessWest = flatTowardsWest( x1, y0 - 1 ) * 0.5 + flatTowardsWest( x1, y0 ) * 0.5
-	
+
 	local c0 = getSouthElevation( x0, y0 )
 	local c1 = sm.util.lerp( getSouthEastElevation( x0, y0 ), getSouthElevation( x0, y0 ), flatnessEast )
 	local c2 = sm.util.lerp( getSouthWestElevation( x1, y0 ), getSouthElevation( x1, y0 ), flatnessWest )
 	local c3 = getSouthElevation( x1, y0 )
-	
+
 	return sm.util.bezier3( c0, c1, c2, c3, t )
 end
 
@@ -204,7 +253,7 @@ local function getElev( x, y )
 
 	local x0, y0
 	local xFract2, yFract2 --Mid to mid
-	
+
 	if xFract < 0.5 then
 		x0 = cellX - 1
 		xFract2 = xFract + 0.5
@@ -212,7 +261,7 @@ local function getElev( x, y )
 		x0 = cellX
 		xFract2 = xFract - 0.5
 	end
-	
+
 	if yFract < 0.5 then
 		y0 = cellY - 1
 		yFract2 = yFract + 0.5
@@ -220,15 +269,15 @@ local function getElev( x, y )
 		y0 = cellY
 		yFract2 = yFract - 0.5
 	end
-	
+
 	local flatnessNorth = sm.util.lerp( flatTowardsNorth( x0, y0 ), flatTowardsNorth( x0 + 1, y0 ), xFract2 )
 	local flatnessSouth = sm.util.lerp( flatTowardsSouth( x0, y0 + 1 ), flatTowardsSouth( x0 + 1, y0 + 1 ), xFract2 )
-	
+
 	local c0 = getMidElevationX( x0, y0, xFract2 )
 	local c1 = sm.util.lerp( getNorthElevationX( x0, y0, xFract2 ), getMidElevationX( x0, y0, xFract2 ), flatnessNorth )
 	local c2 = sm.util.lerp( getSouthElevationX( x0, y0 + 1, xFract2 ), getMidElevationX( x0, y0 + 1, xFract2 ), flatnessSouth )
 	local c3 = getMidElevationX( x0, y0 + 1, xFract2 )
-	
+
 	return sm.util.bezier3( c0, c1, c2, c3, yFract2 )
 end
 
@@ -236,11 +285,11 @@ local FlattenCache = {}
 
 function getElevationHeightAt( x, y )
 	local cellX, cellY = getCell( x, y )
-	
+
 	local blend
 	local cacheKey = bit.bor( bit.lshift( cellY + 128, 8 ), cellX + 128 )
 	local flattenList = FlattenCache[cacheKey]
-	
+
 	if flattenList == nil then
 		flattenList = {}
 
@@ -279,7 +328,7 @@ function getElevationHeightAt( x, y )
 		-- 	local rotationStep = getCellRotationStep( cellX, cellY )
 		-- 	print( "#flat on "..cellX..","..cellY..":"..#flattenList, "rot:", rotationStep )
 		-- end
-		
+
 		FlattenCache[cacheKey] = flattenList
 	end
 
@@ -355,7 +404,7 @@ function getHeightAt( x, y, lod )
 		y = y * SCALE
 		lod = lod + ADD_LOD
 	end
-	
+
 	local height = -16
 	local cellX, cellY = getCell( x, y )
 	if insideCellBounds( cellX, cellY ) == true then
@@ -439,27 +488,27 @@ function getColorAt( x, y, lod )
 		y = y * SCALE
 		lod = lod + ADD_LOD
 	end
-	
+
 	local noise = sm.noise.octaveNoise2d( x / 8, y / 8, 5, 45 )
 	local brightness = noise * 0.25 + 0.75
-	
+
 	local cornerX, cornerY = getClosestCorner( x, y )
 	local cellX, cellY = getCell( x, y )
-	
+
 	if insideCellBounds( cellX, cellY ) == true then
 		local id, tileCellOffsetX, tileCellOffsetY = getCellTileIdAndOffset( cellX, cellY )
-	
+
 		local rx, ry = inverseRotateLocal( cellX, cellY, x - cellX * CELL_SIZE, y - cellY * CELL_SIZE )
-	
+
 		local r, g, b = sm.terrainTile.getColorAt( id, tileCellOffsetX, tileCellOffsetY, lod, rx, ry )
-	
+
 		local color = { r, g, b }
 
 		if DEBUG_COLORS then
 			--cornerDebugColor( cornerX, cornerY, color )
 			cellDebugColor( cellX, cellY, color )
 		end
-		
+
 		--brightness = 0.75 -- No noise
 
 		--Checkerboard pattern
@@ -499,10 +548,10 @@ function getMaterialAt( x, y, lod )
 		y = y * SCALE
 		lod = lod + ADD_LOD
 	end
-	
+
 	local cellX, cellY = getCell( x, y )
 	if insideCellBounds( cellX, cellY ) == true then
-	
+
 --		if cellX == 0 then
 --			return 1, 0, 0, 0, 0, 0, 0, 0
 --		elseif cellX == 1 then
@@ -521,9 +570,9 @@ function getMaterialAt( x, y, lod )
 --			return 0, 0, 0, 0, 0, 0, 0, 1
 --		end
 		local id, tileCellOffsetX, tileCellOffsetY = getCellTileIdAndOffset( cellX, cellY )
-		
+
 		local rx, ry = inverseRotateLocal( cellX, cellY, x - cellX * CELL_SIZE, y - cellY * CELL_SIZE )
-		
+
 		return sm.terrainTile.getMaterialAt( id, tileCellOffsetX, tileCellOffsetY, lod, rx, ry )
 	end
 	return 1, 0, 0, 0, 0, 0, 0, 0
@@ -536,11 +585,11 @@ function getClutterIdxAt( x, y )
 		x = x * SCALE
 		y = y * SCALE
 	end
-	
+
 	local cellX, cellY = getCell( x * 0.5, y * 0.5 )
 	if insideCellBounds( cellX, cellY ) == true then
 		local id, tileCellOffsetX, tileCellOffsetY = getCellTileIdAndOffset( cellX, cellY )
-		
+
 		local rx, ry = inverseRotateLocal( cellX, cellY, x - cellX * CELL_SIZE * 2, y - cellY * CELL_SIZE * 2, CELL_SIZE * 2 - 1 )
 
 		return sm.terrainTile.getClutterIdxAt( id, tileCellOffsetX, tileCellOffsetY, rx, ry )
@@ -557,7 +606,7 @@ function getEffectMaterialAt( x, y )
 	end
 
 	local mat0, mat1, mat2, mat3, mat4, mat5, mat6, mat7 = getMaterialAt(x, y, 0)
-	
+
 	local materialWeights = {}
 	materialWeights["Grass"] = math.max(mat4, mat7)
 	materialWeights["Rock"] = math.max(mat0, mat2, mat5)
@@ -565,13 +614,13 @@ function getEffectMaterialAt( x, y )
 	materialWeights["Sand"] = math.max(mat1)
 	local weightThreshold = 0.25
 	local selectedKey = "Grass"
-	
+
 	for key, weight in pairs(materialWeights) do
 		if weight > materialWeights[selectedKey] and weight > weightThreshold then
 			selectedKey = key
 		end
 	end
-	
+
 	return selectedKey
 end
 
@@ -587,7 +636,7 @@ function getAssetsForCell( cellX, cellY, size )
 	if SCALE_HACK == true then
 		return {}
 	end
-	
+
 	local id, tileCellOffsetX, tileCellOffsetY = getCellTileIdAndOffset( cellX, cellY )
 
 	if id ~= 0 then
@@ -599,12 +648,12 @@ function getAssetsForCell( cellX, cellY, size )
 			if invalidAssets[tostring( asset.uuid )] then
 				sm.log.error( "Invalid asset {"..tostring( asset.uuid ).."} in tile: '"..getTilePath( id ).."'" )
 			end
-			
+
 			local rx, ry = rotateLocal( cellX, cellY, asset.pos.x, asset.pos.y )
-	
+
 			local x = cellX * CELL_SIZE + rx
 			local y = cellY * CELL_SIZE + ry
-	
+
 			local height = asset.pos.z + getCliffHeightAt( x, y )
 
 			-- Water rotation
@@ -622,7 +671,7 @@ function getAssetsForCell( cellX, cellY, size )
 				asset.slopeNormal = nor
 			end
 		end
-	
+
 		return assets
 	end
 	return {}
@@ -641,10 +690,10 @@ function getHarvestablesForCell( cellX, cellY, size )
 		local harvestables = sm.terrainTile.getHarvestablesForCell( id, tileCellOffsetX, tileCellOffsetY, size )
 		for _, harvestable in ipairs( harvestables ) do
 			local rx, ry = rotateLocal( cellX, cellY, harvestable.pos.x, harvestable.pos.y )
-	
+
 			local x = cellX * CELL_SIZE + rx
 			local y = cellY * CELL_SIZE + ry
-	
+
 			local height = harvestable.pos.z + getElevationHeightAt( x, y ) + getCliffHeightAt( x, y )
 			harvestable.pos = sm.vec3.new( rx, ry, height )
 			harvestable.rot = getRotationStepQuat( cellX, cellY ) * harvestable.rot
@@ -654,7 +703,7 @@ function getHarvestablesForCell( cellX, cellY, size )
 				harvestable.slopeNormal = nor
 			end
 		end
-		
+
 		return harvestables
 	end
 	return {}
@@ -764,11 +813,11 @@ function loadPrefab( prefab, loadFlags, prefabIndex )
 		subPrefab.rot = prefab.rot * subPrefab.rot
 		subPrefab.pos = prefab.pos + ( prefab.rot * ( subPrefab.pos * prefab.scale ) )
 		subPrefab.scale = prefab.scale * subPrefab.scale
-		
+
 		for _,tag in ipairs(prefab.tags) do
 			subPrefab.tags[#subPrefab.tags + 1] = tag
 		end
-		
+
 		if mergeCreations then
 			subPrefab.flags = bit.bor( subPrefab.flags, MergeCreationFlag )
 		end
@@ -777,7 +826,7 @@ function loadPrefab( prefab, loadFlags, prefabIndex )
 	end
 
 	local nodeCount = g_nodeCount
-	
+
 	for _,node in ipairs( nodes ) do
 
 		node.rot = prefab.rot * node.rot
@@ -798,7 +847,7 @@ function loadPrefab( prefab, loadFlags, prefabIndex )
 
 			nodeCount = math.max( node.params.connections.id, nodeCount )
 		end
-		
+
 		g_nodes[#g_nodes + 1] = node
 	end
 
@@ -811,11 +860,11 @@ function prepareCell( cellX, cellY, loadFlags )
 	-- This value needs to be larger then the number of connection nodes in the cell
 	g_nodeCount = 65536
 	g_creations = {}
-	
+
 	if SCALE_HACK == true then
 		return {}
 	end
-	
+
 	local id, tileCellOffsetX, tileCellOffsetY = getCellTileIdAndOffset( cellX, cellY )
 	if id ~= 0 then
 		local prefabs = sm.terrainTile.getPrefabsForCell( id, tileCellOffsetX, tileCellOffsetY )
