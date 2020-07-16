@@ -29,7 +29,7 @@
             <Property key="TextAlign" value="Center" />
         </Widget>
         <Widget type="TextBox" skin="TextBox" position_real="0.210145 0.59 0.137681 0.3">
-            <Property key="Caption" value="#80797cAt least one" />
+            <Property key="Caption" value="#80797cAt least\none" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
             <Property key="NeedKey" value="false" />
