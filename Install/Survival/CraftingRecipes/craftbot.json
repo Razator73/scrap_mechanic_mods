@@ -4768,5 +4768,6390 @@
 				"itemId": "93c27ab2-4930-4654-ba1c-bcfe35e966f6"
 			}
 		]
+	},
+	{
+		// obj_interactive_filecabinet
+		"itemId": "90dbaebf-8ea1-4a5a-8f6f-86ddde77c6c8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_stafftoilet
+		"itemId": "8694192c-d91b-444c-a184-910911bbb354",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// blk_concretetiles
+		"itemId": "cd0eff89-b693-40ee-bd4c-3500b23df44e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// blk_framework
+		"itemId": "c4a2ffa8-c245-41fb-9496-966c6ee4648b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_building_mopbucket
+		"itemId": "0dff60c2-f7ae-4c13-b9c4-962ec1039be8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_building_stalldoor
+		"itemId": "4c17571c-89b5-40f3-b13f-e9399591d0b4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_building_slippery
+		"itemId": "ce66734b-2122-460e-94dc-ccc73d799e32",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_building_plunger
+		"itemId": "f092e8b5-4b10-48be-8ad1-2ac5625f49b8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_building_sink
+		"itemId": "0ebf382a-e2e4-4c46-a48e-87808308c1e3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_brick
+		"itemId": "1b927252-ee6d-420e-8bb4-ae42fcb43ba8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_rebarsmall
+		"itemId": "c3a520b3-8d0e-435c-8070-e0ef58d028be",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_rebarmedium
+		"itemId": "ac59ef69-95a7-4907-a8ba-e5c83ef83112",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_rebarbig
+		"itemId": "0f638bd7-0c0d-4ba3-9ba2-af0b523ddff4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_signcone
+		"itemId": "c2078bfe-fa3d-4c2b-8d97-6b5308ff624b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_signcone_taped
+		"itemId": "9769c4b2-67f0-446b-a00d-ee432218b038",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_bucket
+		"itemId": "6232b62a-f3e0-4609-a159-ab08abf8125f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_mould
+		"itemId": "b0329961-7ac0-4a83-aabc-6701e516de7b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_soundisolationsmall
+		"itemId": "68db6d52-00fb-441a-ab34-a79341acde32",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_soundisolation
+		"itemId": "4369132a-40d8-47e7-ac45-e390c0ea6597",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_construction_paintcan
+		"itemId": "dac97219-d076-41db-8bbb-2509facf0eb4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_consumable_sunshake
+		"itemId": "cb7305b2-d8b5-4302-aff3-6cdd9212ca64",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_consumable_carrotburger
+		"itemId": "54d8ef21-357d-48a3-a66d-40446f6bb686",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_consumable_pizzaburger
+		"itemId": "54d84731-d9ec-435d-bc9d-d48e0763b1bf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_consumable_longsandwich
+		"itemId": "e243f642-6934-42bb-8cdd-f8ff1704d411",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_consumable_milk
+		"itemId": "2c4a2633-153a-4800-ba3d-2ac0d993b9c8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_consumable_component
+		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_container_fertilizer
+		"itemId": "76331bbf-abbd-4b8d-bb54-f721a5b6193b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_container_ammo
+		"itemId": "096d4daf-639e-4947-a1a6-1890eaa94464",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_container_seed
+		"itemId": "38ec258d-c644-4f08-8635-3f7434c884dd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_woodbox
+		"itemId": "c3990931-b471-4e89-beb5-0baaef47f0af",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxgreen
+		"itemId": "80550b05-f9eb-433c-9773-2af3beb1479d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxcucumber
+		"itemId": "f0438bd7-6307-4991-943f-d78b04877d96",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxcarrot
+		"itemId": "f6687d52-efc1-4f00-b573-bee4363ee14f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxbanana
+		"itemId": "18a38c8e-18ec-46c5-be00-cee7724401e2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxblue
+		"itemId": "8b684022-254b-41af-a58c-ec4b14791000",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxonion
+		"itemId": "de467c9b-a0ab-4e20-95ae-0e5fe8140989",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxbeetroot
+		"itemId": "7ece2c9b-bc74-45b7-b5f1-4c6f41a03a7a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_vegboxorange
+		"itemId": "8bcc5a38-b566-45fe-b47e-45118ee70d2d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_plantcontainerclosed
+		"itemId": "faae6e1a-f431-49fd-b8b8-16f12139ee88",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_plantcontaineropen
+		"itemId": "102565a0-c864-463e-b517-72e82242eec2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_haycrate
+		"itemId": "c76b89a3-7731-4ae1-99d4-788a29319360",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_stonecrate
+		"itemId": "3bd4430f-75bc-452c-9e80-1bd639898689",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_treecrate
+		"itemId": "f8b984da-4b24-4e36-b440-86ead126b6dc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_cowcrate
+		"itemId": "deabb19a-1acd-4bbf-8bd2-f8f17410170b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_cardboardstack_small
+		"itemId": "8a4a55b0-0228-4839-933b-0716cedb3f96",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_cardboardstack_medium
+		"itemId": "f8da6b41-03d7-4bc1-ba94-011a351b1569",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_cardboardstack_large
+		"itemId": "71665314-db59-4c43-bfe2-2746baa8ffe9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_humidifier
+		"itemId": "d296c1ad-e893-4866-ba73-1cbbb38ebd37",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_stack
+		"itemId": "10590ecd-7d2f-4ff9-a6de-e749870ae8b8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_barrel_blueberry
+		"itemId": "7e2b1dcb-4853-43ed-a7c5-0eb1a24b49d0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_containers_barrel_tomato
+		"itemId": "a0654dd8-f36a-4c41-bafd-18d9e5f0df2e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_cookbot
+		"itemId": "2af00456-b22e-4743-b338-a91934aba7c5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_craftbot1
+		"itemId": "b63c6440-dfc2-4da7-acdb-3c385080b2e4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_craftbot2
+		"itemId": "b7571f6f-9d53-44ba-99d2-3b4f05e6fd0f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_craftbot3
+		"itemId": "1c83675f-7c77-4cbb-875b-79d4bd46100d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_craftbot4
+		"itemId": "c69a7855-d915-4784-af81-d0a8849e458f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_craftbot5
+		"itemId": "4fcb4cb8-7623-11ea-bc55-0242ac130003",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_refinery
+		"itemId": "5cb15c93-4fa9-48da-9974-2e95ca6c9e1c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_resourcecontainer
+		"itemId": "a930a42f-63ed-4fb0-933e-56ce8a889cc5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_dressbot
+		"itemId": "767a3121-2c31-473c-a5ab-27e188fdd55a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_bed
+		"itemId": "9eead4cf-4743-486e-99be-a553c4c10740",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_pillow
+		"itemId": "ff2207c1-e40b-416f-8bdd-66a9efd6d1a9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_poster01
+		"itemId": "f5670a5a-7782-4683-bed0-a6eda785a5e2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_poster02
+		"itemId": "080ef1dd-07a7-4d31-86b8-ac907e1468bf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_poster03
+		"itemId": "4d54298c-93a0-4b6d-8719-7380430a27bb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_lidbarrel
+		"itemId": "d053adac-e217-49de-b184-ad4bfbe1e52d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_stackedpaper
+		"itemId": "da86d1c6-e29b-4741-8b65-eed067222dc7",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_mirror
+		"itemId": "659488be-3d33-4244-b762-e7d77dcdcbbe",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_road_signcurve
+		"itemId": "c7772f74-f120-4008-8121-977e52a1d7c0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_road_signpost
+		"itemId": "ea64acf0-c0a8-44c4-a946-f358d232e965",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_road_signfoundation
+		"itemId": "7bc20d55-6b49-450c-830c-16282ce7fb2d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_cashregister
+		"itemId": "31ada55e-7c79-4aee-86b6-809c0e5468df",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_openclosedsign
+		"itemId": "d4ae8963-40e9-4680-934d-5626a3bfc363",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_rottenfruit
+		"itemId": "7540ef9a-5c84-4dd2-b111-176d8de66e47",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_basketstack
+		"itemId": "d361b477-69b2-4a3a-b119-ec99a3938f5b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_sunshakemachine
+		"itemId": "5ad298e4-f5ad-479c-9ec6-6c4f9d3fb8ae",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_sunshakeudder
+		"itemId": "db2ce519-490e-4432-b329-c973ecc8f5d9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_haybale
+		"itemId": "23ac6823-51a4-4581-b8ca-061c76f093f6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_decor_haybaleround
+		"itemId": "74a3f240-65b2-4f52-9555-9b52173fca0a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_doorwaytape01
+		"itemId": "89f446fa-ba6a-4728-93b5-6a1abda114fc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_doorwaytape01_destroyed
+		"itemId": "45b6f45a-9b47-40af-88d1-f1ad0d98e565",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_cornertape01
+		"itemId": "3de7e8ca-f7f4-4faf-b348-4848741528c1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_cornertape02
+		"itemId": "46f4a939-b20c-4fae-bf37-8410796a05f2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_cornertape03
+		"itemId": "50668b05-41de-4b48-abf2-6a576ab550fe",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_cornertape04
+		"itemId": "dfcff000-e027-4f43-9bfb-f9a84b3b50c4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_corridor01
+		"itemId": "20e0b1f2-dd7b-4b69-9308-b6c26c0b0e6e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_corridor02
+		"itemId": "94cf22f0-f0fb-4d1b-b5ce-f4b54e8e84d1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_corridor03
+		"itemId": "a6524403-668d-4e41-93a7-6326e9205560",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_taperoll01
+		"itemId": "c8d3b9ba-5bb1-49c5-aeb0-6c32f9b1e5c8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_taperoll02
+		"itemId": "ce1117c1-35d4-4c77-9a31-740078c6b1d8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_taperoll03
+		"itemId": "c5d4f725-0a67-4902-b6da-82a16aafd36a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_taperoll04
+		"itemId": "1503a160-bf1f-4b86-8406-b11250c71a28",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_tape01
+		"itemId": "df4724fa-b3ea-438d-b07f-75af46af4bfd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_tape02
+		"itemId": "1bdc2111-691c-465f-84d1-0e5faeca9897",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_tape03
+		"itemId": "7ba75948-640c-4563-9501-800cbddbeb6d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_tape04
+		"itemId": "55597dd3-44b6-4fd5-81da-bb56d2ec59d9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_tape05
+		"itemId": "3db622ee-112b-4b72-97fc-5bf49c3edf15",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_tape06
+		"itemId": "189aabd7-a3a4-4ba1-886e-e2e21dd1772b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_cocoon01
+		"itemId": "c3b7163e-02d4-4b00-96ad-c15860be9419",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_cocoon02
+		"itemId": "286faea5-83db-4f53-8813-1ce81309a059",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_rooftape01
+		"itemId": "48a0b91a-1edb-4695-ba61-c702570563ce",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_rooftape02
+		"itemId": "9b4a43c3-4950-49e2-858e-34768550a227",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_rooftape03
+		"itemId": "2d503740-f2da-41a1-ae5c-3c49d44e3bb2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_rooftape04
+		"itemId": "1bace005-426c-4b44-8530-ef8698210a6f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_acrosstheroom01
+		"itemId": "e8beb527-e470-4934-bc06-0d7f6312e49c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_acrosstheroom02
+		"itemId": "109d044d-6002-4779-be04-34501d78408f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_acrosstheroom03
+		"itemId": "960c9498-f76a-4ffc-a608-218dc6909de8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_big_walltape01
+		"itemId": "ed8cb110-bf48-43f6-9e86-273cfc0a7080",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_big_walltape02
+		"itemId": "e9a7a26a-6e72-4bd4-8a44-7d5ab8b83f4b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_big_walltape03
+		"itemId": "e086d2de-6224-4ebc-8152-add18793ee58",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_big_walltape04
+		"itemId": "265bf568-a801-4ce6-8ac3-d20526443bc5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_tape_big_walltape05
+		"itemId": "ea16ec2e-5135-49e9-9543-9bdcd818d90a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_taperolls_big
+		"itemId": "20b3577f-a2f1-44f3-a22c-83f792732771",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_destructable_taperolls_small
+		"itemId": "8365cf6a-af1a-41aa-a8c9-34313dce1f55",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_wireshort
+		"itemId": "6be64f78-927b-4f61-b645-20adfbd9bfce",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_wire
+		"itemId": "0535b90e-f0a8-491c-8c70-1fc81b939fb4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_wirebend
+		"itemId": "33102836-a94d-4ab3-9864-3d54d32c230d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_wireconvexbend
+		"itemId": "f0713386-8c95-493d-b013-e8e53e32d1ed",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_wireconcavebend
+		"itemId": "a8164438-65fa-4840-8bc2-766fad543841",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_fusebox
+		"itemId": "697e3b80-d3f7-4f4a-aba2-23611a45f967",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_cordstraight
+		"itemId": "647296c4-41ef-4173-8a54-d2a1ae1e89c3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_cordstraightlong
+		"itemId": "2ba72fca-443a-49e4-8eb2-073c4226866e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_cordbend
+		"itemId": "903b0823-4ce1-48e6-9702-aeaa7598c347",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_cordjunction
+		"itemId": "885ab381-007d-4a60-99e3-c58dec54c880",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_pipebigholder
+		"itemId": "5888a6dd-59ab-4cd6-86b2-6e68f64674b5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_pipebigholderbar
+		"itemId": "70a497d6-6bc2-4ee6-a381-0976d68ac980",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_pipebigholderbarbend
+		"itemId": "b2c933a8-2dfb-479f-a3d9-b87797d5e0c6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_powerstation
+		"itemId": "40c5b3fd-1ac4-47f4-ae61-503e14baf20f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x8
+		"itemId": "63cf0973-b81e-4fe1-ae44-654937e1b0e4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x8_glass
+		"itemId": "06fd0e52-f791-43a6-9fbd-5a8a6260f3f2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x8_bend
+		"itemId": "41784077-0636-470f-a6df-b868f152af29",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x8_bend_glass
+		"itemId": "16ed53cc-a45b-4f64-92d4-2db93bf33e1c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x8_T
+		"itemId": "8310f5b9-3394-4723-ac23-f59a21d6e3f3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x1
+		"itemId": "9777f897-4cce-4c22-99ce-793aaca9f7c0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_7x8_mount
+		"itemId": "66c3a5cd-ce37-4b37-916d-ac39a67ad2f5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_ventbig01
+		"itemId": "764e94d1-61c0-4fef-9719-5548889e4817",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_ventbig02
+		"itemId": "468650b4-5ff7-4be1-9e75-05ed86fd83e0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_ventbig03
+		"itemId": "9e9280f7-c9bc-4b86-b788-43f9b48903dd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_ventbig04
+		"itemId": "e846e3e7-b608-49c9-bbfd-e0bb859e6d3c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_ventbig05
+		"itemId": "20821431-de44-4d54-8877-60833316104e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_fittings_venthub
+		"itemId": "e0f8dc49-c418-403b-a7a1-44bea7ecd3d0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_wood
+		"itemId": "968de65c-75f3-471b-954e-6165a4b6d3d6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_wood2
+		"itemId": "f99ebc34-4821-4b39-a625-b839c5802ed5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_metal
+		"itemId": "5cb39ea5-554d-4c40-9d9a-6b2dd59de953",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_metal2
+		"itemId": "7468db55-b29d-4ce0-82b9-2414f493a376",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_stone
+		"itemId": "02ee2a98-bd8d-4a09-bb69-38edaf66b8e1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_banana
+		"itemId": "0bc74539-df8a-47c7-aad8-d55d809a01e4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_blueberry
+		"itemId": "e77d9577-589a-446b-96c1-f6d0d7495489",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_orange
+		"itemId": "c10a77d5-3357-4cb4-8113-a2cbe69c7ff2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_pineapple
+		"itemId": "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_carrot
+		"itemId": "9cd8288c-5a19-479f-af47-9eb55230ade2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_redbeet
+		"itemId": "628fd350-577d-413f-82a8-7f08a83de3d8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_tomato
+		"itemId": "1dcd74ca-39ba-4b00-a36a-3381b25055f4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_crates_broccoli
+		"itemId": "99477093-e819-4199-b62a-fda6143aae89",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_farmerball
+		"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_beamshelf
+		"itemId": "c8c07259-bc23-45a1-8a4c-585962274f19",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_platform
+		"itemId": "d5da6d42-69e2-49ca-8def-3339bf9f0d35",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_platformfencelong
+		"itemId": "85379fe5-da83-4aa2-b9c2-d67476ad6079",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_platformfenceshort
+		"itemId": "8336bf8b-cde0-46a0-b995-5000cba4f27f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_platformfencepole
+		"itemId": "1ef1f0e8-389c-4eb9-b4a8-784499353f14",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_metalgrid
+		"itemId": "0a597f6d-eb45-4f93-91e5-130e19e0f1f5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_rack
+		"itemId": "dbd509b5-b7cc-43cf-9a89-b3befecfe991",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_rackcube
+		"itemId": "8d7be7bf-37c9-44d6-8adf-fc87b141cadf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_racklong
+		"itemId": "f80026c5-2019-4f87-8abd-345bd23aa156",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_cylindersmall
+		"itemId": "f37b101c-508b-4630-9f9d-47ef1c834183",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_cylindermedium
+		"itemId": "d71d8897-5af6-4adc-b626-50e45f931157",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_cylinderlarge
+		"itemId": "68c2baa5-1274-4bfd-8b12-6e522123f4de",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_window
+		"itemId": "8c4b9721-3de4-4ae3-a7d1-6f66a16d1368",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_pallet
+		"itemId": "007d6afc-59ef-4fb4-9bb7-52ab9bcfec22",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_rail
+		"itemId": "6a720005-ba27-4cfc-8fb3-b1af8b9c8bd3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_antennatower
+		"itemId": "f9e8707a-62f8-4051-84e9-c2e17b686d9e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_antennatowertop
+		"itemId": "e3e58881-69e6-4593-8211-017bcd72c907",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_satellite01
+		"itemId": "1daf2b8a-fd2f-4266-9942-c04feede4f7b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_satellite03
+		"itemId": "ce350b5c-cebb-42b0-b8ba-1bf084a0090c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_antenna01
+		"itemId": "e585bcd6-5828-4a37-8ec7-dffb561f0956",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_antenna02
+		"itemId": "c938e84c-ff59-4e7e-a87c-5211ac903927",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_windowframe
+		"itemId": "7237080a-676b-4be1-bb7f-2fb1a9f6f274",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_generatorfoothinge
+		"itemId": "6f699ce5-4955-4725-9829-2b6e1dd6eee9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandbase
+		"itemId": "916cbfc2-776f-49d4-838a-eb946136be3e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandfoundation
+		"itemId": "ddaa82ea-22c5-4a2c-8367-c2ee12d5ea5b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandframe
+		"itemId": "3cbf5f08-14da-4db5-8360-de5078e7c4c1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandhinge
+		"itemId": "f1831414-735f-4323-834a-85d5953fc160",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandpillar
+		"itemId": "3b47a99f-85c4-4490-8dc5-3560b7c4c863",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandpipe
+		"itemId": "0ee4fc0a-9f69-4d67-b5c2-09ea5a22712f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_encryptstandside
+		"itemId": "fff76292-79aa-4f0d-814f-72e51159d6d7",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergenerator5
+		"itemId": "8ca9a4f2-c8c8-439d-9945-e2e95dafbc21",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergenerator4
+		"itemId": "7997f4a5-6f5f-492e-95cb-65a5e2a0f2f2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergenerator2
+		"itemId": "af389b10-a31b-46f7-bbe9-0bfad8181e97",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergenerator1
+		"itemId": "5cd67a6e-52cc-4eb0-9f44-275d366516c5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergeneratorside
+		"itemId": "38934d9d-69a8-4a1f-8137-892ede148cb4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergeneratortank
+		"itemId": "684002ad-3218-4dd0-a6dd-53e6dfdec562",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_industrial_powergenerator7
+		"itemId": "c349afdf-aded-47bc-9a5c-606372bc535b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_robotbasshead
+		"itemId": "161786c1-1290-4817-8f8b-7f80de755a06",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_robotdrumhead
+		"itemId": "4c6e27a2-4c35-4df3-9794-5e206fef9012",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_robotsynthhead
+		"itemId": "a052e116-f273-4d73-872c-924a97b86720",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_robotbliphead01
+		"itemId": "1c04327f-1de4-4b06-92a8-2c9b40e491aa",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_bathtub
+		"itemId": "3efe715f-8745-475f-a609-5e7cbe09a8ef",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_raftshark
+		"itemId": "4152ce33-9b43-4c51-80a3-e0b4fe38841d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionsport_02
+		"itemId": "aae686a2-0eb3-43b3-b998-def282de79e9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionsport_03
+		"itemId": "d0aa2676-5266-432a-bf7e-3887e6ddedd5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionsport_04
+		"itemId": "d9adddcc-972d-4726-a376-67f950b99a44",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionsport_05
+		"itemId": "52855106-a95c-4427-9970-3f227109b66d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionoffroad_02
+		"itemId": "00284190-1484-4286-a198-b2ddef768c2e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionoffroad_03
+		"itemId": "a9658eaf-0dd8-46a6-8cac-be6978f19b79",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionoffroad_04
+		"itemId": "4c3f6a7c-45c6-4ed8-bf13-c247c3db6b81",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_suspensionoffroad_05
+		"itemId": "73f838db-783e-4a41-bc0f-9008967780f3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driverseat_02
+		"itemId": "efbf45f8-62ec-4541-9eb1-d529966f6a29",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driverseat_03
+		"itemId": "c3ef3008-9367-4ab7-813a-24195d63e5a3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driverseat_04
+		"itemId": "d30dcd12-ec39-43b9-a115-44c08e1b9091",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driverseat_05
+		"itemId": "ffa3a47e-fc0d-4977-802f-bd15683bbe5c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_seat_02
+		"itemId": "2b9c6e87-1b75-4a57-8979-74d9f95668ba",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_seat_03
+		"itemId": "ebe2782e-a4f5-4d91-83cc-db110179393b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_seat_04
+		"itemId": "46465697-ed36-4720-ba8a-08c568b4e36c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_seat_05
+		"itemId": "703ca746-d802-4e76-b443-4881e83afb73",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driversaddle_02
+		"itemId": "bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driversaddle_03
+		"itemId": "6953b17e-0a38-4107-8c56-5ee97e68bee3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driversaddle_04
+		"itemId": "41960868-6245-47b5-97c4-f446e199812f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_driversaddle_05
+		"itemId": "9dd1ccea-1e44-430d-b706-3ff45416583e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_saddle_02
+		"itemId": "c39b3537-d9b2-45f8-b2ea-0e9002c896d9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_saddle_03
+		"itemId": "797e07a3-6d56-4b74-949b-9492c7946e0d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_saddle_04
+		"itemId": "7516f5b8-9a15-4606-92bb-ea9a96a16594",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_saddle_05
+		"itemId": "42f70341-207d-4e9d-b8ed-37962603a926",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_gasengine_02
+		"itemId": "33d01ddd-f32b-4a9a-87d6-efb6710b389c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_gasengine_03
+		"itemId": "470b9a92-ed94-4ef2-b1ea-b45f47ef0982",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_gasengine_04
+		"itemId": "bfcaac1a-5a7f-4fba-9980-1159617a7212",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_gasengine_05
+		"itemId": "3091926a-9340-46d9-83d6-4fd7c68ad950",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_electricengine_02
+		"itemId": "0c9cc5bb-af2f-4023-b8d8-cd7d52a60efe",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_electricengine_03
+		"itemId": "56cea967-a685-494d-85ef-3aa121a0c193",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_electricengine_04
+		"itemId": "5e57e0f7-e87c-4269-b274-146fe40e1b44",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_electricengine_05
+		"itemId": "22f3e797-82f5-4819-a085-c3cc28ec9025",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_thruster_02
+		"itemId": "9fc793b2-250b-40ab-bcb3-97cf97c7b481",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_thruster_03
+		"itemId": "4c1cc8de-7af1-4f8e-a5c4-c583460af9e5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_thruster_04
+		"itemId": "e6db321c-6f98-47f6-9f7f-4e6794a62cb8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_thruster_05
+		"itemId": "a736ffdf-22c1-40f2-8e40-988cab7c0559",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_controller_02
+		"itemId": "1872d83a-d1a1-4cb7-ad46-9e4468d2548c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_controller_03
+		"itemId": "6bb84152-c4d7-4644-bc37-a3becd79298d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_controller_04
+		"itemId": "2354cd24-3dd3-4db5-84ab-df64c32d2c72",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_controller_05
+		"itemId": "a092359d-5cea-484d-a274-470d9a567632",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_sensor_02
+		"itemId": "cf46678b-c947-4267-ba85-f66930f5faa4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_sensor_03
+		"itemId": "90fc3603-3544-4254-97ef-ea6723510961",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_sensor_04
+		"itemId": "de018bc6-1db5-492c-bfec-045e63f9d64b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_sensor_05
+		"itemId": "20dcd41c-0a11-4668-9b00-97f278ce21af",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_interactive_piston_02
+		"itemId": "31f14f52-f4d8-4b9f-9d6e-7412497c9284",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_interactive_piston_03
+		"itemId": "46396518-8c29-4da9-81bb-a020f4baf5b2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_interactive_piston_04
+		"itemId": "7324219e-2b19-4098-baa3-9876984ead08",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// jnt_interactive_piston_05
+		"itemId": "2f004fdf-bfb0-46f3-a7ac-7711100bee0c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_pneumatic_pipe_01
+		"itemId": "59ea6ce8-239b-4eed-8847-a51b907d9b42",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_pneumatic_pipe_02
+		"itemId": "a77a3c86-ba12-4f1f-986c-4bb532c5105d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_pneumatic_pipe_04
+		"itemId": "bf7b6484-8b8b-4846-8110-c5d9f0b9ada7",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_pneumatic_pipe_05
+		"itemId": "7479ff7f-37fc-4304-93e9-aad7891c29f2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_mountablespudgun
+		"itemId": "454ad69d-bac2-4b06-9386-6267bcbfece2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_encryptor_destruction
+		"itemId": "c8b1bc7b-304e-44ce-9ca1-937b8e69d70c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_interactive_encryptor_connection
+		"itemId": "8fd2cf31-70b3-499a-bfb0-7e3d2c580258",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_manmade_freshsign
+		"itemId": "27c00cfb-4e7f-45fc-a037-f9a941464ce6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_manmade_holidayposter
+		"itemId": "20bd2885-d184-44ae-b72b-f90b786f8664",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_manmade_salesign
+		"itemId": "2289e96f-f9c6-440c-b7c9-ce9474da8264",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_office_waterdispenser
+		"itemId": "0c077288-d15d-45d6-8439-3dabe7144034",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_office_mugholder
+		"itemId": "239c9c71-e5c7-4ccb-ad40-7bdbb32f3cc9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_office_waterdispensertank
+		"itemId": "e7eae129-9e3f-45d2-997c-637865c60a5e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_office_waterdispensertank_taped
+		"itemId": "b4831236-a9b3-4422-92da-803f9252a279",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_office_cubiclefastener
+		"itemId": "3526de39-dcf4-484b-84ec-3336538be192",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_office_officechair_taped
+		"itemId": "da2efa37-370d-4848-bc2e-2bae01173ce1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_outfitpackage_common
+		"itemId": "63695efd-0862-49f2-ace6-4d1758147fae",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_outfitpackage_rare
+		"itemId": "27a221b1-9809-4df1-901a-caafe119c9b6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_outfitpackage_epic
+		"itemId": "7ab0cac7-b055-4283-b0bc-f85dd4d0416b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_banana
+		"itemId": "aa4c9c5e-7fc6-4c27-967f-c550e551c872",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_blueberry
+		"itemId": "6a43fff2-8c6d-4460-9f44-e5483b5267dd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_orange
+		"itemId": "f5098301-1693-457b-8efc-83b3504105ac",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_pineapple
+		"itemId": "4ec64cda-1a5b-4465-88b4-5ea452c4a556",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_carrot
+		"itemId": "47ece75a-bfca-4e8a-b618-4f609fcea0da",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_redbeet
+		"itemId": "4ce00048-f735-4fab-b978-5f405e60f48f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_tomato
+		"itemId": "6d92d8e7-25e9-4698-b83d-a64dc97978c8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_broccoli
+		"itemId": "b5cdd503-fe1c-482b-86ab-6a5d2cc4fc8f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plantables_potato
+		"itemId": "bfcfac34-db0f-42d6-bd0c-74a7a5c95e82",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_plants_growbox
+		"itemId": "13ffabca-91ec-48ce-9dd6-4f6660714701",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_beewax
+		"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_ember
+		"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_crudeoil
+		"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_cotton
+		"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_corn
+		"itemId": "fe8bfeba-850b-4827-9785-10e2468c9c23",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resources_slimyclam
+		"itemId": "40e8bd0d-04a0-4e95-b593-4038b54b156f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_flower
+		"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_circuitboard
+		"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_steak
+		"itemId": "fb0f128c-e607-4c52-9c25-f44dfd2dd95e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_resource_glowpoop
+		"itemId": "388adeab-67e5-4901-afe8-c56217754510",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_tapebothead01
+		"itemId": "1e89879f-1171-4bcd-9465-db7f740ab09e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_tapebottorso01
+		"itemId": "50380984-9ad6-4092-88e9-5a84b8212899",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_tapebotleftarm01
+		"itemId": "7faccb34-95df-4f3d-9250-054bb04b2719",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_tapebotshooter
+		"itemId": "f293a245-2415-4da5-b012-01134652611f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_haybothead
+		"itemId": "e9b6ef48-2a41-4db2-b8bc-5fd3f179b04e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_haybotbody
+		"itemId": "4617f9a6-8724-43ee-97e2-20904fd660ab",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_haybotpelvis
+		"itemId": "6e480a17-57f1-4c06-9313-9b1c80e1be05",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_haybotfork
+		"itemId": "7085387b-a2ce-4ef5-be67-b67501754b9e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_farmbotpart_head
+		"itemId": "7b4d4f21-9164-4d55-854f-670afd54f1cc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_farmbotpart_cannonarm
+		"itemId": "79b93e3a-79fd-4a1e-88cb-1eda65d3535f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_farmbotpart_drill
+		"itemId": "369b43d3-4ed3-464d-82e8-c9aa11251afc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotparts_farmbotpart_scytharm
+		"itemId": "5de17a8f-f447-4204-886e-6ba015347f89",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotpart_totebotbody
+		"itemId": "b9b4f8ef-9d30-4662-8696-d27a2ba0a7fa",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_robotpart_totebotleg
+		"itemId": "243afe95-8058-47b0-bccf-49cc0445cd55",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_scrap_gasengine
+		"itemId": "c96ab903-f238-4bae-a614-28a758716d00",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_scrap_driverseat
+		"itemId": "bd597ac9-6640-43ba-9bd8-ed584a794f13",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_scrap_seat
+		"itemId": "847daf20-02bf-4170-8699-9ab106acd29a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_scrap_smallwheel
+		"itemId": "59f6951a-a450-42bf-ad03-54567cb70245",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_banana
+		"itemId": "22beade5-38ca-47b4-a2ee-32403f58a862",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_blueberry
+		"itemId": "4b6d2bee-d0f1-4e56-96f0-d2596388cad2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_orange
+		"itemId": "bee966b0-b5e5-41da-b992-5d363ab85ae4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_pineapple
+		"itemId": "9edb6f7c-fb44-4348-a1c4-8afb41b92d8a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_carrot
+		"itemId": "9c82a525-8a8b-4483-9595-505aaa042486",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_redbeet
+		"itemId": "64051718-a3f1-422b-bda3-277efa0c4545",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_tomato
+		"itemId": "38e41fb5-dd50-4294-829d-a517f0282fed",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_broccoli
+		"itemId": "1c6756ca-3a60-4dcb-a5d1-353edf818308",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_potato
+		"itemId": "eb1ef696-5c05-4662-9e47-fe1e0875ff84",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_exitsign
+		"itemId": "1a82f776-5989-4471-b09d-0c3f65012fb3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_shipdoor
+		"itemId": "aec1ff30-9347-4166-9cb7-f414e1563d9d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_ceilinglight
+		"itemId": "47062936-5d28-43ec-81b5-8fdb619e97e4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorhandle
+		"itemId": "b3761216-dfc4-4679-960b-00f5ae5f8258",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorcables
+		"itemId": "1df6f1af-fd39-443a-9fd7-dd389e0ba5c8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorwedgelong
+		"itemId": "1aac8942-38ac-4a83-bc16-6d33436c0934",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorboxmedium
+		"itemId": "10079046-6400-42fd-bcd6-f66af6cfd8b8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorboxlarge
+		"itemId": "98ef8fca-d4a3-4b9a-8699-0630b003b9fa",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorlight
+		"itemId": "2c90e412-9476-40d9-a440-228c888186bd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiornet
+		"itemId": "31c38d38-73f5-47ef-93c8-e10d4f579e1c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiornetlarge
+		"itemId": "4f5092dd-e2e5-4d42-8ec9-c0337cf23e21",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorshelf
+		"itemId": "5f5926f5-1449-49b0-8997-2d5a0df37b21",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_interiorcalendar
+		"itemId": "5b628f22-ec0d-448f-a6be-3453950120a4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_shipbed
+		"itemId": "c563df47-9a8a-4338-9fec-06da1218c573",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_microwave
+		"itemId": "d4e6c84c-a493-44b1-81aa-4f4741ea3ed8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall08
+		"itemId": "a7d719f5-e839-4a95-923c-981b4dc21125",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall08_damaged
+		"itemId": "5d2cdb56-2be8-4a62-8f05-ce5c9c1510ac",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall02
+		"itemId": "4053c30c-6717-47c7-b0a9-177f7b8b30bc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall02_damaged
+		"itemId": "c807b38c-52b6-45cf-8cd3-1a46e6a9627f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall01
+		"itemId": "b3bb8083-d9b5-408d-b45c-49a444efba57",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall03
+		"itemId": "46ac20df-dfbc-434f-aaf3-f34ddc2afb42",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall04
+		"itemId": "011c1ffd-7146-4e8d-8c18-17247d768ae2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall12
+		"itemId": "6159898f-beb8-4f49-825b-92b0774daa61",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall12_damaged
+		"itemId": "2bc619a3-c884-4e60-9e78-6c04487a48c5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall06
+		"itemId": "2448a709-a8ec-4d69-a927-b9ab195cd83f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall05
+		"itemId": "84d8e6eb-948b-4dd4-ab23-55a64d33eff1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_corner01
+		"itemId": "f15b5fa7-6113-4af8-b3e1-b05560ed946a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_corner01_damaged
+		"itemId": "45ee9f5a-cfc0-4f3a-bbe8-09f2ce1dbc4c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_corner02
+		"itemId": "988b5592-9e53-4782-a058-d26be442bd49",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_corner03
+		"itemId": "90686663-1a3e-479a-b1c4-f81699274f50",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall11
+		"itemId": "5ba206c2-d10b-4815-b95b-04be4959ec31",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall09
+		"itemId": "7fa4ecf6-d8fe-49eb-a950-db1fb4590c4d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_wall10
+		"itemId": "9bdb677f-8033-451f-8bc7-7ae71351c35c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_ceilingbeam03
+		"itemId": "68d8eeb6-14e4-469b-9ee6-f80ebe1c4be6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_ceilingbeam01
+		"itemId": "e8cadcb0-9cdf-49d8-bac2-00193e8ac3cc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_ceilingbeam02
+		"itemId": "def1fe25-a33d-405b-ac04-2c1707c2101b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_frame01
+		"itemId": "4e084e1c-08e9-43de-bc6f-6fd73a9620aa",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_frame02
+		"itemId": "aa3e38ef-21aa-4430-ab56-93c367f4f458",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_frame05
+		"itemId": "29c5c1eb-a3bd-45ae-b823-aeb28d70593a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_frame03
+		"itemId": "22c526fc-b212-4e4e-af00-1cc69d9129e1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_frame04
+		"itemId": "a79a2bc9-1015-4c25-ab4b-0d4cb715db47",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_frame06
+		"itemId": "c5bdb30e-9675-4f8a-8fb9-07e5b98039d4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_blinds
+		"itemId": "196586b5-897f-40f3-926c-b5dfa4f772eb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_ceilingvent01
+		"itemId": "66c1ccc6-1a68-40f3-9e10-ee362c3c13bc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_ceilingvent02
+		"itemId": "275e4258-ff57-45ae-8e2f-b82204c56d16",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_floor_panel
+		"itemId": "fc4f1fd8-2544-45f0-8e3b-4684bc45e5f9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_spaceship_infoboard
+		"itemId": "1f5d8b77-183c-4f8b-83d7-a3940d090926",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_stones_p01
+		"itemId": "cd18840d-d4ee-4f36-8ab1-843c823b0dcf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_stones_p02
+		"itemId": "b2d9e40b-e8e8-4d1e-86f9-86d0bdc5ddc4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_stones_p03
+		"itemId": "c9d61f53-ebd3-4bb5-8789-43b00edbcc8b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_stones_p04
+		"itemId": "126be16e-10c1-4ccd-82c5-368edc7f766a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_stones_p05
+		"itemId": "8c0ad43a-4bc8-41ef-ab3a-de70eb9ef510",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_stones_p06
+		"itemId": "92bae57d-ae30-4a75-a7ad-8bf91f20d660",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_stonechunk01
+		"itemId": "0b114031-5065-4365-922d-3980d791e00d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_stonechunk02
+		"itemId": "4e3f17bb-0169-4eb5-a4b4-84725a607b2c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_stonechunk03
+		"itemId": "4cd7a389-a1ac-47f4-8cc0-2776174985da",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_keycard
+		"itemId": "e49b210a-0d46-4f06-bcd8-08862379d156",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_cardreader
+		"itemId": "ff09d816-843a-43e9-aab6-dc35e73787fd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_cardreader_arm
+		"itemId": "9a3058f3-6771-464f-a3e0-25d247f1422f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_packingstation_front
+		"itemId": "75c11f33-7592-427f-96ac-d89994438042",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_packingstation_mid
+		"itemId": "4fbf640a-200d-45c6-862a-cc2900f84f2c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_packingstation_crateload
+		"itemId": "3a135dd2-510c-434b-b019-ce077042a5c8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_packingstation_screen_fruit
+		"itemId": "cc7fdd4a-ae17-44c8-9f91-089ea00f4891",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_packingstation_screen_veggie
+		"itemId": "6a620faa-ca0d-4e39-bc67-97fb93d808c2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorfloor
+		"itemId": "d2e0d468-858b-4a8b-98b4-8c5900309aef",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorbutton
+		"itemId": "a553bf2f-3a66-404a-b4c6-ce9e7b73f9d4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorcallbutton
+		"itemId": "61bdf048-c09f-4cf5-8b47-35ba28c0580c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatordoor_left
+		"itemId": "004bb5ee-34ba-484a-924b-31412d898e7e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_bananabox
+		"itemId": "f47612db-e035-4d62-81e2-64fc3453ccc3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorlamp
+		"itemId": "c4a0a65b-3b24-4beb-bd7a-d687f4210169",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorwallleft
+		"itemId": "c8650c34-30ec-42c5-8dc3-7652ba4034ff",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorwallright
+		"itemId": "d2093f3c-178c-4220-bfe0-e8a3d87f96c0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorfan
+		"itemId": "256fde90-4225-4c22-b107-fcaabe2bec9c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_elevatorceiling
+		"itemId": "5ff56026-7af2-4644-b30c-f0b43230093f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_workbench
+		"itemId": "2ff2b13f-5a50-443c-bbda-1f40f6aa917f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_capsuledoor
+		"itemId": "e59afe5b-2c5f-4934-95d7-8c187b22fd6d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_powercoresocket
+		"itemId": "c0159b96-edf3-46cd-9fbe-96ee1126304b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_powercore
+		"itemId": "c654a023-ca53-4109-9f18-d297c18e9a02",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_dispenserbot
+		"itemId": "ebd73cee-988f-4ffb-95d1-d3c3c81fd506",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_dispenserbot_spawner
+		"itemId": "eed5ea94-2b85-4c1d-881d-7e07574480f9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_terminal
+		"itemId": "ec0bb005-f3c1-425a-94c4-6feca8567068",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_hideout_questgiver
+		"itemId": "614c3193-13da-40f4-9b03-37f26e760fd6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_hideout_button
+		"itemId": "712a5ebd-0793-49ba-b1ef-681a8fdceba6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_hideout_dropoff
+		"itemId": "d1840356-ad77-4505-a9a0-10d11a77986f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_kobag
+		"itemId": "de7eea5b-9262-476b-a5bb-238d0e91f81f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_survivalobject_ruinchest
+		"itemId": "79cc711e-7094-4029-8419-bbbf8f08c6f2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_craftbot_omnicrafter
+		"itemId": "176e4c20-93d6-4792-860e-7043f12003a6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_bucket_water
+		"itemId": "103fc4e6-7e57-465e-a86d-983343415877",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_bucket_chemical
+		"itemId": "2e792123-4a10-4cc6-b9ef-c5a518655cb4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// tool_sledgehammer
+		"itemId": "bb641a4f-e391-441c-bc6d-0ae21a069476",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// tool_spudgun
+		"itemId": "c5ea0c2f-185b-48d6-b4df-45c386a575cc",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// tool_shotgun
+		"itemId": "f6250bf4-9726-406f-a29a-945c06e460e5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// tool_gatling
+		"itemId": "9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_log_s01
+		"itemId": "88dc2a60-7e1a-4c24-8584-2491acd79753",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_log_m01
+		"itemId": "135967d2-7faa-495f-98f4-5130350396a4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_log_l01
+		"itemId": "a4ab4df5-403d-4baa-a3c3-ecc19dd87340",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_log_l02a
+		"itemId": "3e6d2a8a-c836-4ae5-b6bf-9ec01c6393b0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvest_log_l02b
+		"itemId": "10149368-0d49-44c1-9521-dbec436eb770",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce02_p00
+		"itemId": "5a508601-485f-4db6-8134-69a4d3d02bc1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce02_p01
+		"itemId": "b95bcc20-9581-4228-b444-b1c7ebc73507",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce02_p02
+		"itemId": "3104311d-a1c6-4f26-8eb9-7eea54fe164f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce02_p03
+		"itemId": "de637191-d84d-4c1e-8a55-7bb86e54ce70",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce02_p04
+		"itemId": "a68470c8-67f4-4248-8c76-15fa7fb09ec6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce01_p05
+		"itemId": "bb14330f-4698-4c2b-a5ba-732443a67d72",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce02_p05
+		"itemId": "3b0c9ff3-6c5a-404a-b830-4872471bf33f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_spruce03_p05
+		"itemId": "8f9e059a-4c3a-4664-967a-28f127529aaf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy01_p00
+		"itemId": "4126d267-c8df-4c3c-98c7-9cb17f87f770",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy01_p01
+		"itemId": "fd381577-bcd2-4b72-b86c-de47d7783820",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy01_p02
+		"itemId": "c52c6da1-dad9-4649-b02f-34dec0bbd411",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy01_p03
+		"itemId": "90f31b94-a831-4786-a5e7-6d423c224718",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy01_p04
+		"itemId": "88dc4f4a-18c2-4d79-8dee-f0e7ac9d5845",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p00
+		"itemId": "f708c190-6155-4769-ae0e-884cc8c21300",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p01
+		"itemId": "bd2af8d6-ecc4-4071-82cb-56620345c06e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p02
+		"itemId": "5cf2c67c-62f6-4219-a857-943901611c6f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p03
+		"itemId": "42bac230-35c5-4d22-a141-1cf693137548",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p04
+		"itemId": "3d9dd135-5e3d-412a-bb1b-2ad58f0ea8be",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p05
+		"itemId": "9ca81758-7c90-4368-ab57-1d9d62b32a37",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p06
+		"itemId": "5a0ffe5b-f7cf-482b-915f-1d6b0876c26c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy02_p07
+		"itemId": "b1647259-50bd-4838-814a-bfddd770ba70",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p00
+		"itemId": "ef7115ea-a497-4a4a-a1ec-44b810094ef1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p01
+		"itemId": "3b30e244-edca-44c3-a2b8-08ae779c69e6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p02
+		"itemId": "40ff42d8-6e6f-4da4-a91c-8289e72b9ea1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p03
+		"itemId": "8821ec7c-477d-4d3b-9b0c-aee479d3e6c3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p04
+		"itemId": "6e7eb9bb-4b8e-400a-b9c4-2e9320e03ead",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p05
+		"itemId": "92a6186b-9c42-48d0-9ebc-a978044e6a22",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p06
+		"itemId": "57d39e43-5c0b-476c-b8a2-474c77c22607",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p07
+		"itemId": "c1e99269-4090-489f-bcaf-f7cb04b03a73",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p08
+		"itemId": "a6523fd2-869c-4d11-ba42-dc967a8aad25",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_leafy03_p09
+		"itemId": "fbc59ea5-993f-48a7-8b49-c1cdf67f75e2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch01_p00
+		"itemId": "55b19e7f-e45b-48b2-8f7c-d9e84fed0736",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch01_p01
+		"itemId": "22947bb1-7c64-477c-8656-d7857df39b78",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch01_p02
+		"itemId": "5ee9b950-839f-479a-bc06-902b830504cf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch01_p03
+		"itemId": "7b78d74f-c4c7-4c48-80f5-8f7f4bbd5de9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch01_p04
+		"itemId": "1d667253-849c-4f9f-9109-1a2d91795247",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch01_p05
+		"itemId": "64555383-f1c9-4027-a1c4-02951d085b76",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p00
+		"itemId": "89ca09da-4e7c-404f-99eb-beb275cfc217",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p01
+		"itemId": "13cf98bf-d033-4be5-a0a0-560cb946a4ba",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p02
+		"itemId": "ce37c509-2be6-4368-8ac7-a34a75fab248",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p03
+		"itemId": "47b95667-6296-4bc4-a93e-8e2bf51c8b80",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p04
+		"itemId": "06c564e2-ca8d-4843-94e9-322cb835f59e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p05
+		"itemId": "de556b89-a4be-4d7e-ab49-e6485af16836",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch02_p06
+		"itemId": "3b683206-f4b6-4652-bb32-dd488e73f367",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p00
+		"itemId": "b7756219-75f2-4eb8-93d1-262e8ddded27",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p01
+		"itemId": "0a2544c9-902d-42e2-91af-f35dad9c5d0e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p02
+		"itemId": "a73f7005-b89a-427d-8e94-c3d6f729be52",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p03
+		"itemId": "2133fdb7-5e3c-4fb9-99ad-5b4f8bf5c6e5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p04
+		"itemId": "0b423e11-50dd-4272-92a2-506f42c992d4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p05
+		"itemId": "d00f05c6-f704-49a0-acdc-b4391086d254",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_birch03_p06
+		"itemId": "079b7a15-7718-444b-8560-7717109dabff",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p00
+		"itemId": "fe1d102e-992a-4a24-a942-5fb37e8879d3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p01
+		"itemId": "608d6e20-bc3e-4440-907f-f0bd5fb45eac",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p02
+		"itemId": "93ace99a-f58c-4dd3-8334-0ee890e42feb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p03
+		"itemId": "c713ed53-14fc-4a0d-93cf-9c2c865a2086",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p04
+		"itemId": "e4df268d-5845-4532-ba75-75bb7b71fcdf",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p05
+		"itemId": "79e41f5c-7b69-42ba-9172-7e3df49231bd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p06
+		"itemId": "5ca61a85-7040-47bc-8f87-5d2ce295cb6e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p07
+		"itemId": "1b24e0a4-3f04-4dfe-83ea-612da2eff922",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p08
+		"itemId": "2f955589-701b-4c47-9127-37feeb80d35a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p09
+		"itemId": "c1593ec8-ed29-4f95-8bce-507f028810d2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p10
+		"itemId": "2311afca-ca99-4b7b-a209-8382ed7ea356",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine01_p11
+		"itemId": "f9a71b9b-d872-4097-863c-a11783642221",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p00
+		"itemId": "46a78456-aa4f-409d-98d2-d1fdeac94e41",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p01
+		"itemId": "ff5bee6a-81a3-49ba-a4b7-d94dbd4b8519",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p02
+		"itemId": "9518dd16-f207-4dd5-9c52-91a655446a80",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p03
+		"itemId": "61f24d00-3d2d-44bf-818e-50a11c920aca",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p04
+		"itemId": "1986c34b-c318-4992-ab1d-34a1531a4095",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p05
+		"itemId": "aff3fcf0-9b67-42b5-bced-5acdf223c9aa",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p06
+		"itemId": "6f89ff7b-f49d-4f6e-904a-5758c29b0d8e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p07
+		"itemId": "b2c6c47e-7443-4566-a194-d3f24435733d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p08
+		"itemId": "7a31b721-c944-4b40-ba71-c1b2e3f00b9c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p09
+		"itemId": "ca208216-99f0-43d1-900d-cb0924223b65",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine02_p10
+		"itemId": "8089b86c-7390-4cb6-b30e-7b281e8c329e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p00
+		"itemId": "737a5987-a586-4a06-9e9d-3661ab8d69d2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p01
+		"itemId": "8c0a32e1-50a4-4e23-be1d-a09d12fc65c1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p02
+		"itemId": "a20e79dd-d74e-4e10-845a-b101b3a95ab2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p03
+		"itemId": "e3bc44d7-2173-47c0-86c3-0a9348812692",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p04
+		"itemId": "85a54457-4172-4be5-a750-96df4d40286c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p05
+		"itemId": "3f7c3f3c-9b28-4a26-abbd-8f2948e9b027",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p06
+		"itemId": "8e2dfa65-c08e-4f51-a007-5fed80d846a3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p07
+		"itemId": "4f693e6e-7819-46ff-aef3-5cfd2fc5bbde",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p08
+		"itemId": "0539121b-9588-4c64-bdd0-25b0a29b081a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p09
+		"itemId": "05c81c17-3780-4edb-80a4-1648c25ca460",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_harvests_trees_pine03_p10
+		"itemId": "15ee8b4c-d58b-462f-a0a0-5c9bcdff495f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_vehicle_license_plate
+		"itemId": "a7fb4293-f623-4a0f-9465-8bc640f0038b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_vehicle_mediumpipe
+		"itemId": "eabc9e68-6172-4719-ace5-5d64333233c0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_vehicle_mediumpipebent
+		"itemId": "eb608c5d-c418-49db-a2c5-1c8186b3d314",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_vehicle_wheelhousecorner
+		"itemId": "64fdc73f-259a-49df-94ac-24db25a4dc42",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container1
+		"itemId": "43c0ca80-0980-433a-88a3-929727a62a6d",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container2
+		"itemId": "94acfb72-c650-4cb5-a8aa-08af3e691d2e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container3
+		"itemId": "66affe90-4552-455e-a0b0-b203f9988790",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container3B
+		"itemId": "b3425d6d-ea3d-45de-9078-10af2e178389",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container3C
+		"itemId": "ba7775ef-d03b-46bd-aa09-09015297a415",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container4
+		"itemId": "b7e60b8e-2075-4ae4-b906-53af3845e198",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container5
+		"itemId": "2bbaf389-4ef7-4dca-b7ee-397cc30f3862",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container6
+		"itemId": "fba945c7-a50f-4515-af38-57d768706078",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_container7
+		"itemId": "513530b0-61bd-4b82-83e7-191d090d25d8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_packingtable
+		"itemId": "4db857f1-07dc-4ea2-9391-fd24903945d1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_packingtablesupport
+		"itemId": "a2cf56fe-9961-481b-9a12-093f64867d9c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_packingtablesign
+		"itemId": "cf4daf85-36a2-479f-96dc-b6201bc12d36",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_packingtableroll
+		"itemId": "72074131-529b-49c1-9ff3-73706f61eb06",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_banner1
+		"itemId": "efd779ef-ce99-4507-bafb-9e2c7ff8a46c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_banner2
+		"itemId": "6cb18801-8284-4f27-9f2e-b9955861b605",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_overheadcranearm
+		"itemId": "448d7d18-2a36-4749-8d73-3da913ae6aeb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_overheadcranearmplate
+		"itemId": "8f5f8a39-734d-4bc3-8a9e-74026bcb3704",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_overheadcranerope
+		"itemId": "cbc6fc23-dcc9-4d6f-a7aa-9a3ae37ca41f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_overheadcranearmplatform
+		"itemId": "54ea2236-001c-4560-8e6d-3942a885bb3b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_overheadcranetrolley
+		"itemId": "ec334737-1467-4a29-a3b7-e04f662bca1b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_cranehook
+		"itemId": "96392e20-12e9-4a19-8dc5-7a8e33238ae2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_cranehook_base
+		"itemId": "b7cf1762-4010-4915-813d-dfbefb100ef5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_craneplatform
+		"itemId": "2893e707-36b3-4ff1-bb3c-ef1b5524ae13",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_encryptorsign_destruction
+		"itemId": "cc454365-7262-4953-a190-4bead4f4a260",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_warehouse_encryptorsign_connection
+		"itemId": "ba79e3c0-914f-46ff-874b-243df5589e3c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// tool_lift
+		"itemId": "8f190ce2-3a59-423e-8483-a7aa67bd5bc0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_connect
+		"itemId": "85fc5f11-722b-4723-91f2-293a81ad0800",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_paint
+		"itemId": "731c6a84-7ae7-439d-a620-128076f9985c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_weld
+		"itemId": "836e98a2-8c8c-4a6b-9239-54acdd4f4736",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_spudgun
+		"itemId": "2d7f1278-ac93-4039-9eb2-d31715ea10ff",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_spudling
+		"itemId": "b633c3ee-2cda-4096-989a-60e90cd220aa",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_tool_frier
+		"itemId": "3faf624b-0a95-452f-b6cd-9930ad1731c5",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]	},
+	{
+		// obj_seed_cotton
+		"itemId": "93c27ab2-4930-4654-ba1c-bcfe35e966f6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// blk_scrapstone
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
 	}
 ]
