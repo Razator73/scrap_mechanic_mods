@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <MyGUI type="Layout" version="3.2.0">
-    <Widget type="Widget" skin="BackgroundPopup" name="MainPanel" position_real="0 0 0.47917 0.3229632">
+    <Widget type="Widget" skin="BackgroundPopup" name="MainPanel" position_real="0 0 0.359375 0.201852">
         <Property key="NeedKey" value="false" />
         <Property key="NeedMouse" value="true" />
         <Property key="InheritsAlpha" value="false" />
-        <Widget type="TextBox" skin="TextBox" position_real="0.0724638 0.1 0.855072 0.229358">
-            <Property key="Caption" value="L  O  G  I  C     G  A  T  E" />
+        <Widget type="TextBox" skin="TextBox" position_real="0.0724638 0.229358 0.855072 0.229358">
+            <Property key="Caption" value="#{CONTROLLER_LOGIC_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
             <Property key="NeedKey" value="false" />
             <Property key="NeedMouse" value="false" />
         </Widget>
-        <Widget type="Button" skin="ActiveButton" name="And" position_real="0.0724638 0.37271 0.137681 0.1490825">
+        <Widget type="Button" skin="ActiveButton" name="And" position_real="0.0724638 0.59633 0.137681 0.238532">
             <Property key="FontName" value="InventorySearchText" />
             <Property key="Caption" value="AND" />
             <Property key="TextAlign" value="Center" />

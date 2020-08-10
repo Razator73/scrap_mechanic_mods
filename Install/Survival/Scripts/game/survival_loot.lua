@@ -1,6 +1,7 @@
 
 dofile( "$SURVIVAL_DATA/Scripts/game/survival_shapes.lua" )
 dofile( "$SURVIVAL_DATA/Scripts/util.lua" )
+dofile( "$SURVIVAL_DATA/Scripts/game/survival_constants.lua" )
 
 -- A chance of 100 makes the item 100 times more likely than with a chance of 1
 
@@ -52,18 +53,18 @@ local random_epicloot = {
 
 	{ uuid = obj_consumable_gas,					chance = 30,	quantity = randomStackAmountAvg5 },
 	{ uuid = obj_consumable_battery,				chance = 25,	quantity = randomStackAmount5 },
-	{ uuid = obj_consumable_water,					chance = 10,	quantity = randomStackAmount10 },
+	{ uuid = obj_consumable_water,			chance = 10,	quantity = randomStackAmount10 },
 	{ uuid = obj_consumable_chemical,				chance = 20,	quantity = randomStackAmount10 },
-	{ uuid = obj_consumable_component,				chance = 70,	quantity = 1 },
-	
+	{ uuid = obj_consumable_component,		chance = 70,	quantity = 1 },
+
 	{ uuid = obj_resource_circuitboard,				chance = 50, 	quantity = randomStackAmountAvg3 },
 
 	{ uuid = obj_seed_banana,						chance = 15,	quantity = randomStackAmountAvg2 },
 	{ uuid = obj_seed_orange,						chance = 15,	quantity = randomStackAmountAvg2 },
 	{ uuid = obj_seed_blueberry,					chance = 15,	quantity = randomStackAmountAvg2 },
 
-	{ uuid = jnt_bearing, 							chance = 10,	quantity = 1 },
-	
+	{ uuid = jnt_bearing, 					chance = 10,	quantity = 1 },
+
 	{ uuid = obj_interactive_driverseat_01,			chance = 1,		quantity = 1 },
 	{ uuid = obj_interactive_seat_01,				chance = 1,		quantity = 1 },
 	{ uuid = obj_interactive_driversaddle_01,		chance = 1,		quantity = 1 },
@@ -85,28 +86,28 @@ local random_warehouseloot = {
 	{ uuid = obj_plantables_orange, 				chance = 5,		quantity = randomStackAmountAvg3 },
 	{ uuid = obj_plantables_pineapple, 				chance = 5,		quantity = randomStackAmountAvg3 },
 	{ uuid = obj_plantables_broccoli, 				chance = 5,		quantity = randomStackAmountAvg3 },
-	{ uuid = obj_consumable_sunshake, 				chance = 15 },
-	{ uuid = obj_plantables_potato, 				chance = 20,	quantity = randomStackAmountAvg10 },
-	{ uuid = obj_resource_circuitboard,				chance = 50 },
+	{ uuid = obj_consumable_sunshake, 		chance = 15 },
+	{ uuid = obj_plantables_potato, 		chance = 20,	quantity = randomStackAmountAvg10 },
+	{ uuid = obj_resource_circuitboard,		chance = 50 },
 	{ uuid = obj_consumable_gas,					chance = 70,	quantity = randomStackAmountAvg5 },
-	{ uuid = obj_consumable_battery,				chance = 40,	quantity = randomStackAmountAvg5 },
-	{ uuid = obj_consumable_fertilizer,				chance = 25,	quantity = randomStackAmountAvg10 },
-	{ uuid = obj_consumable_soilbag,				chance = 40,	quantity = randomStackAmountAvg3 },
+	{ uuid = obj_consumable_battery,		chance = 40,	quantity = randomStackAmountAvg5 },
+	{ uuid = obj_consumable_fertilizer,		chance = 25,	quantity = randomStackAmountAvg10 },
+	{ uuid = obj_consumable_soilbag,		chance = 40,	quantity = randomStackAmountAvg3 },
 	{ uuid = obj_consumable_component,				chance = 70,	quantity = 3 },
 }
 
 local random_loot_startarea = {
-	{ uuid = obj_scrap_smallwheel,					chance = 10 },
+	{ uuid = obj_scrap_smallwheel,			chance = 10 },
 	{ uuid = obj_consumable_gas,					chance = 25,	quantity = randomStackAmountAvg5 },
 	{ uuid = obj_consumable_chemical,				chance = 15,	quantity = randomStackAmount3 },
-	{ uuid = obj_consumable_soilbag,				chance = 25,	quantity = 1 },
-	{ uuid = obj_plantables_carrot,					chance = 25,	quantity = 1 },
-	{ uuid = obj_plantables_redbeet,				chance = 25,	quantity = 1 },
-	{ uuid = obj_plantables_tomato,					chance = 25,	quantity = 1 },
-	{ uuid = obj_seed_carrot,						chance = 20,	quantity = randomStackAmountAvg2 },
-	{ uuid = obj_seed_redbeet,						chance = 20,	quantity = randomStackAmountAvg2 },
-	{ uuid = obj_seed_tomato,						chance = 20,	quantity = randomStackAmountAvg2 },
-	{ uuid = jnt_bearing,							chance = 10 },
+	{ uuid = obj_consumable_soilbag,		chance = 25,	quantity = 1 },
+	{ uuid = obj_plantables_carrot,			chance = 25,	quantity = 1 },
+	{ uuid = obj_plantables_redbeet,		chance = 25,	quantity = 1 },
+	{ uuid = obj_plantables_tomato,			chance = 25,	quantity = 1 },
+	{ uuid = obj_seed_carrot,				chance = 20,	quantity = randomStackAmountAvg2 },
+	{ uuid = obj_seed_redbeet,				chance = 20,	quantity = randomStackAmountAvg2 },
+	{ uuid = obj_seed_tomato,				chance = 20,	quantity = randomStackAmountAvg2 },
+	{ uuid = jnt_bearing,					chance = 10 },
 }
 
 -- Loot crates
@@ -155,7 +156,7 @@ local loot_crate_epic_warehouse = {
 local loot_crate_standard = {
 	slots = function() return randomStackAmount( 1.5, 2, 3 ) end,
 	selectOne = {
-		{ uuid = obj_outfitpackage_common, 			chance = 3 },
+		{ uuid = obj_outfitpackage_common, 		chance = 3 },
 
 		{ uuid = obj_consumable_component,			chance = 35 },
 		{ uuid = nil,								chance = 53 }, -- No loot from selectOne
@@ -166,10 +167,10 @@ local loot_crate_standard = {
 local loot_crate_startarea = {
 	slots = function() return randomStackAmount( 1, 2, 3 ) end,
 	selectOne = {
-		{ uuid = obj_consumable_sunshake,			chance = 1 },
-		{ uuid = obj_consumable_component,			chance = 1 },
-		{ uuid = obj_resource_circuitboard,			chance = 1 },
-		{ uuid = nil,								chance = 2 }, -- No loot from selectOne
+		{ uuid = obj_consumable_sunshake,		chance = 1 },
+		{ uuid = obj_consumable_component,		chance = 1 },
+		{ uuid = obj_resource_circuitboard,		chance = 1 },
+		{ uuid = nil,							chance = 2 }, -- No loot from selectOne
 	},
 	randomLoot = random_loot_startarea
 }
@@ -177,10 +178,10 @@ local loot_crate_startarea = {
 local loot_crate_standard_warehouse = {
 	slots = function() return randomStackAmount( 1, 2, 3 ) end,
 	selectOne = {
-		{ uuid = obj_plantables_broccoli, 			chance = 1,		quantity = 1 },
-		{ uuid = obj_plantables_pineapple, 			chance = 1,		quantity = 1 },
-		{ uuid = nil,								chance = 5 }, -- No loot from selectOne
-	},	
+		{ uuid = obj_plantables_broccoli, 		chance = 1,		quantity = 1 },
+		{ uuid = obj_plantables_pineapple, 		chance = 1,		quantity = 1 },
+		{ uuid = nil,							chance = 5 }, -- No loot from selectOne
+	},
 	randomLoot = random_warehouseloot
 }
 
@@ -349,7 +350,7 @@ function SelectTwo( list )
 		end
 	end
 	return nil
-	
+
 end
 
 function SelectThree( list )
@@ -380,7 +381,7 @@ function SelectThree( list )
 		end
 	end
 	return nil
-	
+
 end
 
 function SelectLoot( lootTableName, slotLimit )
@@ -398,20 +399,20 @@ function SelectLoot( lootTableName, slotLimit )
 		if loot and loot.uuid then
 			lootList[#lootList + 1] = loot
 		end
-	end
-	
+			end
+
 	while #lootList < 2 and lootTable.selectTwo do
 		local loot = SelectTwo( lootTable.selectTwo )
 		assert( loot and loot.uuid )
 			lootList[#lootList + 1] = loot
 	end
-	
+
 	while #lootList < 3 and lootTable.selectThree do
 		local loot = SelectThree( lootTable.selectThree )
 		assert( loot and loot.uuid )
 			lootList[#lootList + 1] = loot
 	end
-	
+
 	while #lootList < slots and lootTable.randomLoot do
 		local loot = SelectOne( lootTable.randomLoot )
 		assert( loot and loot.uuid )

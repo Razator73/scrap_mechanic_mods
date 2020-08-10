@@ -53,46 +53,46 @@ local crafters = {
 		recipeSets = {
 			{ name = "craftbot", locked = false }
 		},
-		subTitle = "LEVEL 1",
+		subTitle = "#{LEVEL} 1",
 		createGuiFunction = sm.gui.createCraftBotGui
 	},
 	-- Craftbot 2
 	[tostring( obj_craftbot_craftbot2 )] = {
 		needsPower = false,
 		slots = 4,
-		speed = 1.25,
+		speed = 1,
 		upgrade = tostring( obj_craftbot_craftbot3 ),
 		upgradeCost = 5,
 		recipeSets = {
 			{ name = "craftbot", locked = false }
 		},
-		subTitle = "LEVEL 2",
+		subTitle = "#{LEVEL} 2",
 		createGuiFunction = sm.gui.createCraftBotGui
 	},
 	-- Craftbot 3
 	[tostring( obj_craftbot_craftbot3 )] = {
 		needsPower = false,
 		slots = 6,
-		speed = 1.50,
+		speed = 1,
 		upgrade = tostring( obj_craftbot_craftbot4 ),
 		upgradeCost = 5,
 		recipeSets = {
 			{ name = "craftbot", locked = false }
 		},
-		subTitle = "LEVEL 3",
+		subTitle = "#{LEVEL} 3",
 		createGuiFunction = sm.gui.createCraftBotGui
 	},
 	-- Craftbot 4
 	[tostring( obj_craftbot_craftbot4 )] = {
 		needsPower = false,
 		slots = 8,
-		speed = 1.75,
+		speed = 1,
 		upgrade = tostring( obj_craftbot_craftbot5 ),
 		upgradeCost = 20,
 		recipeSets = {
 			{ name = "craftbot", locked = false }
 		},
-		subTitle = "LEVEL 4",
+		subTitle = "#{LEVEL} 4",
 		createGuiFunction = sm.gui.createCraftBotGui
 	},
 	-- Craftbot 5
@@ -1217,7 +1217,9 @@ function Crafter.sv_spawn( self, spawner )
 	local rotation = sm.quat.angleAxis( math.pi*0.5, sm.vec3.new( 1, 0, 0 ) )
 	local size = rotation * sm.item.getShapeSize( uid )
 	local spawnPoint = self.sv.saved.spawner.shape:getWorldPosition() + sm.vec3.new( 0, 0, -1.5 ) - size * sm.vec3.new( 0.125, 0.125, 0.25 )
-	local spawnedObject = sm.shape.createPart( uid, spawnPoint, rotation )
+	local shapeLocalRotation = sm.vec3.getRotation( sm.vec3.new( 0, 0, 1 ), sm.vec3.new( 0, 1, 0 ) )
+	local body = sm.body.createBody( spawnPoint, rotation * shapeLocalRotation, true )
+	local shape = body:createPart( uid, sm.vec3.new( 0, 0, 0), sm.vec3.new( 0, -1, 0 ), sm.vec3.new( 1, 0, 0 ), true )
 
 	table.remove( self.sv.craftArray, 1 )
 	self:sv_markStorageDirty()

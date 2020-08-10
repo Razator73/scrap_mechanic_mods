@@ -11,10 +11,9 @@ dofile( "$SURVIVAL_DATA/Scripts/game/survival_units.lua" )
 SurvivalGame = class( nil )
 SurvivalGame.enableLimitedInventory = true
 SurvivalGame.enableRestrictions = true
-SurvivalGame.Player = nil
-SurvivalGame.Pos = nil
 
 local SyncInterval = 400 -- 400 ticks | 10 seconds
+
 
 function SurvivalGame.server_onCreate( self )
 	print( "SurvivalGame.server_onCreate" )
@@ -196,7 +195,6 @@ function SurvivalGame.loadCraftingRecipes( self )
 			dispenser = "$SURVIVAL_DATA/CraftingRecipes/dispenser.json",
 			cookbot = "$SURVIVAL_DATA/CraftingRecipes/cookbot.json",
 			craftbot = "$SURVIVAL_DATA/CraftingRecipes/craftbot.json",
-			undecided = "$SURVIVAL_DATA/CraftingRecipes/undecided.json",
 			dressbot = "$SURVIVAL_DATA/CraftingRecipes/dressbot.json"
 		}
 		g_craftingRecipes = {}
@@ -232,7 +230,7 @@ end
 function SurvivalGame.server_onFixedUpdate( self, timeStep )
 	if SurvivalGame.LoadCells == true then
 		print("Force Loading Cell...")
-		self.sv.saved.overworld:loadCell( math.floor( SurvivalGame.pos.x/64 ), math.floor( SurvivalGame.pos.y/64), SurvivalGame.Player) 
+		self.sv.saved.overworld:loadCell( math.floor( SurvivalGame.pos.x/64 ), math.floor( SurvivalGame.pos.y/64), SurvivalGame.Player)
 		SurvivalGame.LoadCells = false
 	end
 	-- Update time
@@ -448,11 +446,10 @@ function SurvivalGame.sv_enableRestrictions( self, state )
 	sm.game.enableRestrictions( state )
 	self.network:sendToClients( "client_showMessage", ( state and "Restricted" or "Unrestricted"  ) )
 end
-local InventoryState = true
+
 
 function SurvivalGame.sv_setLimitedInventory( self, state )
 	sm.game.setLimitedInventory( state )
-	InventoryState = state
 	self.network:sendToClients( "client_showMessage", ( state and "Limited inventory" or "Unlimited inventory"  ) )
 end
 
@@ -551,6 +548,7 @@ function SurvivalGame.sv_onChatCommand( self, params, player )
 			local cellX, cellY = math.floor( pos.x/64 ), math.floor( pos.y/64 )
 			self.sv.saved.overworld:loadCell( cellX, cellY, player, "sv_recreatePlayerCharacter", { pos = pos, dir = player.character:getDirection() } )
 		end
+
 	elseif params[1] == "/respawn" then
 		sm.event.sendToPlayer( player, "sv_e_respawn" )
 
@@ -858,8 +856,4 @@ function SurvivalGame.sv_e_unmarkBag( self, params )
 	else
 		sm.log.warning("SurvivalGame.sv_e_unmarkBag in a world that doesn't exist")
 	end
-end
-
-function GetInventoryState( self )
-	return InventoryState
 end

@@ -8,7 +8,7 @@
         <Widget type="Button" skin="UpgradeButton" name="Upgrade" position_real="0.664 0.839683 0.272 0.109524">
             <Property key="FontName" value="Default" />
             <Widget type="TextBox" skin="TextBox" position_real="0.110294 0.202899 0.779412 0.26087">
-                <Property key="Caption" value="UPGRADE" />
+                <Property key="Caption" value="#{CONTROLLER_UPGRADE}" />
                 <Property key="TextAlign" value="Center" />
                 <Property key="FontName" value="UpgradeCaption" />
                 <Property key="NeedMouse" value="false" />
@@ -19,13 +19,13 @@
                 <Property key="Caption" value="00 / 00" />
                 <Property key="NeedMouse" value="false" />
             </Widget>
-            <Widget type="ImageBox" skin="ImageBox" name="UpgradeButtonIcon" position_real="0.279412 0.463768 0.147059 0.289855">
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.279412 0.463768 0.147059 0.289855">
                 <Property key="ImageTexture" value="gui_icon_components.png" />
                 <Property key="NeedMouse" value="false" />
             </Widget>
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.0825397 0.8 0.0634921">
-            <Property key="Caption" value="D R I V E R &apos; S   S E A T" />
+            <Property key="Caption" value="#{CONTROLLER_DRIVER_SEAT_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
         </Widget>
@@ -50,7 +50,6 @@
             <Property key="MultiLine" value="true" />
         </Widget>
         <Widget type="ImageBox" skin="ImageBox" name="Level" position_real="0.29 0.411111 0.42 0.333333">
-            <Property key="ImageTexture" value="" />
             <Widget type="TextBox" skin="TextBox" name="Lvl1" position_real="0.214286 0.0714286 0.190476 0.190476">
                 <Property key="Caption" value="1" />
                 <Property key="TextAlign" value="Center" />
@@ -78,7 +77,7 @@
             </Widget>
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="SettingsText" position_real="0.164 0.55873 0.126 0.0634921">
-            <Property key="Caption" value="Settings" />
+            <Property key="Caption" value="#{CONTROLLER_DRIVER_SEAT_SETTINGS}" />
             <Property key="TextAlign" value="Left VCenter" />
             <Property key="FontName" value="InventoryPropertyText" />
             <Property key="TextColour" value="0.592157 0.592157 0.592157" />
@@ -89,7 +88,7 @@
         <Property key="NeedMouse" value="true" />
         <Property key="InheritsAlpha" value="false" />
         <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.104208 0.8 0.0801603">
-            <Property key="Caption" value="D R I V E R &apos; S   S E A T" />
+            <Property key="Caption" value="#{CONTROLLER_DRIVER_SEAT_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
         </Widget>
@@ -127,7 +126,7 @@
             </Widget>
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="SettingsText" position_real="0.164 0.705411 0.126 0.0801603">
-            <Property key="Caption" value="Settings" />
+            <Property key="Caption" value="#{CONTROLLER_DRIVER_SEAT_SETTINGS}" />
             <Property key="TextAlign" value="Left VCenter" />
             <Property key="FontName" value="InventoryPropertyText" />
             <Property key="TextColour" value="0.592157 0.592157 0.592157" />

@@ -83,6 +83,7 @@
 		},
 		{
 			"uuid": "aa8d89eb-919b-42f4-8b58-af6f0d5856bc",
+			"name": "jnt_suspensionsport_creative",
 			"legacyId": 101,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_suspensionsport01.rend",
 			"color": "df7f01",
@@ -161,11 +162,13 @@
 			"rotationSet": "PropZ",
 			"sticky": "-Z",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"qualityLevel": 2,
 			"stackSize": 5
 		},
 		{
 			"uuid": "a481138b-fae9-47c9-9bc2-91b6d2e2bf52",
+			"name": "jnt_suspensionoffroad_creative",
 			"legacyId": 102,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_suspensionoffroad01.rend",
 			"color": "df7f01",
@@ -244,11 +247,13 @@
 			"rotationSet": "PropZ",
 			"sticky": "-Z",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"qualityLevel": 2,
 			"stackSize": 5
 		},
 		{
 			"uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7",
+			"name": "obj_interactive_driverseat_creative",
 			"legacyId": 103,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_driverseat01.rend",
 			"color": "df7f01",
@@ -338,10 +343,12 @@
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"qualityLevel": 4
 		},
 		{
 			"uuid": "42786777-c148-4e13-9bab-e460564e79c3",
+			"name": "obj_interactive_seat_creative",
 			"legacyId": 104,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_seat01.rend",
 			"color": "df7f01",
@@ -428,10 +435,12 @@
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"qualityLevel": 4
 		},
 		{
 			"uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4",
+			"name": "obj_interactive_driversaddle_creative",
 			"legacyId": 120,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_driversaddle01.rend",
 			"color": "df7f01",
@@ -521,10 +530,12 @@
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"qualityLevel": 4
 		},
 		{
 			"uuid": "20f59114-5964-451f-bb47-820da3ebbc3b",
+			"name": "obj_interactive_saddle_creative",
 			"legacyId": 121,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_saddle01.rend",
 			"color": "df7f01",
@@ -626,6 +637,7 @@
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 250.0,
 			"qualityLevel": 4
 		},
@@ -689,6 +701,7 @@
 		},
 		{
 			"uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b",
+			"name": "obj_interactive_gasengine_creative",
 			"legacyId": 105,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_gasengine01.rend",
 			"color": "df7f01",
@@ -741,11 +754,13 @@
 			"rotationSet": "PropY",
 			"sticky": "-Y-Z+Z+X-X",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 1250.0,
 			"qualityLevel": 5
 		},
 		{
 			"uuid": "6546c293-a5aa-4442-80d5-a2819f077746",
+			"name": "obj_interactive_electricengine_creative",
 			"legacyId": 106,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_electricengine01.rend",
 			"color": "df7f01",
@@ -797,11 +812,13 @@
 			},
 			"rotationSet": "PropY",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 1250.0,
 			"qualityLevel": 5
 		},
 		{
 			"uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46",
+			"name": "obj_interactive_thruster_creative",
 			"legacyId": 107,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_thruster01.rend",
 			"color": "df7f01",
@@ -846,11 +863,13 @@
 			"rotationSet": "PropZ",
 			"sticky": "-Z",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 250.0,
 			"qualityLevel": 4
 		},
 		{
 			"uuid": "12862001-666c-4bdd-8326-a1f43610d28b",
+			"name": "obj_interactive_controller_creative",
 			"legacyId": 108,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_controller01.rend",
 			"color": "df7f01",
@@ -864,6 +883,7 @@
 			},
 			"rotationSet": "PropYZ",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 250.0,
 			"qualityLevel": 3,
 			"stackSize": 5
@@ -924,6 +944,7 @@
 		},
 		{
 			"uuid": "add3acc6-a6fd-44e8-a384-a7a16ce13c81",
+			"name": "obj_interactive_sensor_creative",
 			"legacyId": 111,
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_sensor01.rend",
 			"color": "df7f01",
@@ -939,6 +960,7 @@
 			"rotationSet": "PropZY",
 			"sticky": "+Y-Y-Z+X-X",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 250.0,
 			"qualityLevel": 3,
 			"stackSize": 10
@@ -1243,6 +1265,7 @@
 		},
 		{
 			"uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94",
+			"name": "jnt_interactive_piston_creative",
 			"renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive_upgradeable/obj_interactiveupgradeable_piston01.rend",
 			"previewRotation": [
 				1,
@@ -1303,6 +1326,7 @@
 			"rotationSet": "PropZ",
 			"sticky": "-Z",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"qualityLevel": 2,
 			"stackSize": 10
 		},
@@ -1336,6 +1360,7 @@
 		},
 		{
 			"uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51",
+			"name": "obj_interactive_mountablespudgun_creative",
 			"renderable": "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_mountablespudgun.rend",
 			"color": "df7f01",
 			"hull": {
@@ -1351,6 +1376,7 @@
 			"rotationSet": "PropYZ",
 			"sticky": "-Z-Y+Y-X+X",
 			"physicsMaterial": "Mechanical",
+			"ratings": {},
 			"density": 1250.0,
 			"qualityLevel": 4
 		},

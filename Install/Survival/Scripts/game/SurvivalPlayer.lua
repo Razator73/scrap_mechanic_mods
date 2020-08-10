@@ -897,7 +897,7 @@ function SurvivalPlayer.sv_e_eat( self, edibleParams )
 	end
 	if edibleParams.waterGain then
 		self:sv_restoreWater( edibleParams.waterGain )
-		-- sm.effect.playEffect( "Eat - DrinkFinish", self.player.character.worldPosition )
+		-- self.network:sendToClient( self.player, "cl_n_onEffect", { name = "Eat - DrinkFinish", host = self.player.character } )
 	end
 	self.storage:save( self.sv.saved )
 	self.network:setClientData( self.sv.saved )
@@ -958,7 +958,7 @@ function SurvivalPlayer.sv_e_onLoot( self, params )
 end
 
 function SurvivalPlayer.cl_n_onLoot( self, params )
-	local message = "Picked up "..sm.shape.getShapeTitle( params.uuid )
+	local message = "#{INFO_PICKED_LOOT} "..sm.shape.getShapeTitle( params.uuid )
 	if params.quantity and params.quantity > 1 then
 		message = message.." x"..params.quantity
 	end
@@ -972,6 +972,14 @@ end
 
 function SurvivalPlayer.cl_n_onMsg( self, msg )
 	sm.gui.displayAlertText( msg )
+end
+
+function SurvivalPlayer.cl_n_onEffect( self, params )
+	if params.host then
+		sm.effect.playHostedEffect( params.name, params.host, params.boneName, params.parameters )
+	else
+		sm.effect.playEffect( params.name, params.position, params.velocity, params.rotation, params.scale, params.parameters )
+	end
 end
 
 function SurvivalPlayer.sv_e_onStayPesticide( self )

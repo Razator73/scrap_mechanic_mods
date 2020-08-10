@@ -7,8 +7,8 @@
         <Property key="Visible" value="false" />
         <Widget type="Button" skin="UpgradeButton" name="Upgrade" position_real="0.664 0.839683 0.272 0.109524">
             <Property key="FontName" value="Default" />
-            <Widget type="TextBox" skin="TextBox" name="UpgradeText" position_real="0.110294 0.202899 0.779412 0.26087">
-                <Property key="Caption" value="UPGRADE" />
+            <Widget type="TextBox" skin="TextBox" position_real="0.110294 0.202899 0.779412 0.26087">
+                <Property key="Caption" value="#{CONTROLLER_UPGRADE}" />
                 <Property key="TextAlign" value="Center" />
                 <Property key="FontName" value="UpgradeCaption" />
                 <Property key="NeedMouse" value="false" />
@@ -19,13 +19,13 @@
                 <Property key="Caption" value="00 / 00" />
                 <Property key="NeedMouse" value="false" />
             </Widget>
-            <Widget type="ImageBox" skin="ImageBox" name="UpgradeIcon" position_real="0.279412 0.463768 0.147059 0.289855">
+            <Widget type="ImageBox" skin="ImageBox" position_real="0.279412 0.463768 0.147059 0.289855">
                 <Property key="ImageTexture" value="gui_icon_components.png" />
                 <Property key="NeedMouse" value="false" />
             </Widget>
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.0825397 0.8 0.0634921">
-            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_GAS_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
         </Widget>
@@ -51,7 +51,7 @@
             <Property key="MultiLine" value="true" />
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.634921 1 0.047619">
-            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_INSTRUCTION}" />
             <Property key="TextAlign" value="Center" />
             <Property key="FontName" value="InventoryTabLabel" />
         </Widget>
@@ -61,7 +61,7 @@
         <Property key="NeedMouse" value="true" />
         <Property key="InheritsAlpha" value="false" />
         <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.104208 0.8 0.0801603">
-            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_GAS_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
         </Widget>
@@ -73,7 +73,7 @@
         <Widget type="ImageBox" skin="ImageBox" name="Icon" position_real="0.108 0.412826 0.24 0.240481" />
         <Widget type="Widget" skin="PanelEmpty" name="Setting" position_real="0.44 0.274549 0.28 0.511022" />
         <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.801603 1 0.0601202">
-            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_INSTRUCTION}" />
             <Property key="TextAlign" value="Center" />
             <Property key="FontName" value="InventoryTabLabel" />
         </Widget>
@@ -86,7 +86,7 @@
         <Widget type="Button" skin="UpgradeButton" name="Upgrade" position_real="0.664 0.839683 0.272 0.109524">
             <Property key="FontName" value="Default" />
             <Widget type="TextBox" skin="TextBox" position_real="0.110294 0.202899 0.779412 0.26087">
-                <Property key="Caption" value="UPGRADE" />
+                <Property key="Caption" value="#{CONTROLLER_UPGRADE}" />
                 <Property key="TextAlign" value="Center" />
                 <Property key="FontName" value="UpgradeCaption" />
                 <Property key="NeedMouse" value="false" />
@@ -103,7 +103,7 @@
             </Widget>
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.0825397 0.8 0.0634921">
-            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_GAS_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
         </Widget>
@@ -129,7 +129,7 @@
             <Property key="MultiLine" value="true" />
         </Widget>
         <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.634921 1 0.047619">
-            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_INSTRUCTION}" />
             <Property key="TextAlign" value="Center" />
             <Property key="FontName" value="InventoryTabLabel" />
         </Widget>
@@ -153,7 +153,7 @@
         <Property key="NeedMouse" value="true" />
         <Property key="InheritsAlpha" value="false" />
         <Widget type="TextBox" skin="TextBox" name="Name" position_real="0.1 0.104208 0.8 0.0801603">
-            <Property key="Caption" value="G A S   E N G I N E" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_GAS_TITLE}" />
             <Property key="FontName" value="InventoryTitle" />
             <Property key="TextAlign" value="Center" />
         </Widget>
@@ -165,7 +165,7 @@
         <Widget type="ImageBox" skin="ImageBox" name="Icon" position_real="0.108 0.308617 0.24 0.240481" />
         <Widget type="Widget" skin="PanelEmpty" name="Setting" position_real="0.44 0.274549 0.28 0.511022" />
         <Widget type="TextBox" skin="TextBox" name="Interaction" position_real="0 0.801603 1 0.0601202">
-            <Property key="Caption" value="Drag to ajdust engine power" />
+            <Property key="Caption" value="#{CONTROLLER_ENGINE_INSTRUCTION}" />
             <Property key="TextAlign" value="Center" />
             <Property key="FontName" value="InventoryTabLabel" />
         </Widget>
