@@ -52,7 +52,9 @@
 		"$SURVIVAL_DATA/Objects/Database/ShapeSets/character_shape.json",
 		"$SURVIVAL_DATA/Objects/Database/ShapeSets/vacumpipe.json",
 		"$SURVIVAL_DATA/Objects/Database/ShapeSets/outfitpackage.json",
-		"$SURVIVAL_DATA/Objects/Database/ShapeSets/effect_proxies.json"
+		"$SURVIVAL_DATA/Objects/Database/ShapeSets/effect_proxies.json",
+
+		"$SURVIVAL_DATA/Scripts/game/ren/ShapeSets.json"
 
 		//REMOVE BEFORE SHIP 
 		//"$SURVIVAL_DATA/Objects/Database/ShapeSets/debug.json",

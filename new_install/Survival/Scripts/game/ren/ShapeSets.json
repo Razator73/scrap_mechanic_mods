@@ -1,0 +1,29 @@
+{
+  "partList": [
+    {
+      "uuid": "d4e6c84c-a493-44b1-81aa-4f4741ea3ee0",
+      "name": "obj_ren_container",
+      "renderable": "$SURVIVAL_DATA/Objects/Renderable/interactive/obj_interactive_smallchest.rend",
+      "color": "770000",
+      "box": {
+        "x": 3,
+        "y": 2,
+        "z": 3
+      },
+      "chest": {
+        "slots": 100
+      },
+      "rotationSet": "PropY",
+      "sticky": "-Y",
+      "physicsMaterial": "Mechanical",
+      "ratings": {
+        "density": 8,
+        "durability": 6,
+        "friction": 5,
+        "buoyancy": 8
+      },
+      "flammable": false,
+      "density": 250.0
+    }
+  ]
+}

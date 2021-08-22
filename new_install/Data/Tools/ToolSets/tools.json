@@ -12,6 +12,12 @@
 			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_sledgehammer_preview.rend",
 			"previewRotation": [ -1, 0, 0, 0, 0, 1, 0, 1, 0 ],
 			"sledgehammer": { }
+		},
+		{
+			"uuid": "7700c1f2-a33a-11ea-bb37-0242ac130002",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_lift_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$SURVIVAL_DATA/Scripts/game/ren/tools/PrinterTool.lua", "class": "PrinterTool" }
 		}
 	]
 }
