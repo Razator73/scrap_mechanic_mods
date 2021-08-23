@@ -11,6 +11,7 @@
 				"margin": 0.1,
 				"axis": "X"
 			},
+			"itemStack": {},
 			"rotationSet": "PropYX",
 			"sticky": "-Y+Y-Z+Z-X+X",
 			"physicsMaterial": "Wood",
@@ -21,7 +22,7 @@
 				"buoyancy": 3
 			},
 			"flammable": true,
-			"stackSize": 10
+			"stackSize": 20
 		},
 		{
 			"uuid": "fcf0958c-084d-4854-9b1b-b06594b4262a",
@@ -33,6 +34,7 @@
 				"y": 1,
 				"z": 2
 			},
+			"itemStack": {},
 			"rotationSet": "PropYZX",
 			"sticky": "-X+X-Y+Y-Z+Z",
 			"physicsMaterial": "Plastic",
@@ -43,7 +45,7 @@
 				"buoyancy": 3
 			},
 			"flammable": true,
-			"stackSize": 10
+			"stackSize": 20
 		},
 		{
 			"uuid": "40e8bd0d-04a0-4e95-b593-4038b54b156f",
@@ -56,6 +58,7 @@
 				"z": 2,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_harvest_resource_slimyclam_col.obj"
 			},
+			"itemStack": {},
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Stone",
@@ -66,7 +69,7 @@
 				"buoyancy": 3
 			},
 			"flammable": false,
-			"stackSize": 10
+			"stackSize": 20
 		},
 		{
 			"uuid": "3440440b-d362-4473-aa03-b7c41e1fe7ad",
@@ -112,7 +115,7 @@
 				"buoyancy": 3
 			},
 			"flammable": true,
-			"stackSize": 10,
+			"stackSize": 20,
 			"restrictions": {
 				"paintable": false
 			}
@@ -128,6 +131,7 @@
 				"z": 2,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_resources_circuitboard.obj"
 			},
+			"itemStack": {},
 			"rotationSet": "PropYZ",
 			"physicsMaterial": "Metal",
 			"ratings": {
@@ -137,7 +141,7 @@
 				"buoyancy": 3
 			},
 			"flammable": false,
-			"stackSize": 10
+			"stackSize": 20
 		},
 		{
 			"uuid": "fb0f128c-e607-4c52-9c25-f44dfd2dd95e",
@@ -150,6 +154,7 @@
 				"z": 4,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_resource_steak.obj"
 			},
+			"itemStack": {},
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Plastic",
@@ -173,6 +178,7 @@
 				"z": 1,
 				"col": "$SURVIVAL_DATA/Objects/Collision/obj_resource_glowpoop.obj"
 			},
+			"itemStack": {},
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Plastic",
@@ -183,7 +189,7 @@
 				"buoyancy": 3
 			},
 			"flammable": true,
-			"stackSize": 10
+			"stackSize": 20
 		},
 		{
 			"uuid": "c9396a42-67c3-4fa3-b682-31428ff9eced",
@@ -219,6 +225,7 @@
 				"y": 2,
 				"z": 1
 			},
+			"itemStack": {},
 			"rotationSet": "PropY",
 			"sticky": "-Y",
 			"physicsMaterial": "Plastic",
@@ -229,7 +236,7 @@
 				"buoyancy": 3
 			},
 			"flammable": true,
-			"stackSize": 10
+			"stackSize": 20
 		},
 		{
 			"uuid": "1147e59d-6940-42b4-840b-07f05054f5e0",

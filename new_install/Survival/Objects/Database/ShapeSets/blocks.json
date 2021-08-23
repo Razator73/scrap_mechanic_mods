@@ -170,10 +170,7 @@
 			},
 			"flammable": false,
 			"restrictions": {
-				"destructable": true,
-				"erasable": false,
-				"liftable": false,
-				"paintable": false
+				"destructable": true
 			}
 		},
 		{
