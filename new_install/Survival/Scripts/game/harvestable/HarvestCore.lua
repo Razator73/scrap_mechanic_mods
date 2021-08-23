@@ -5,7 +5,7 @@ HarvestCore = class( nil )
 HarvestCore.resetStateOnInteract = false
 
 local RefineStaminaCost = 10
-local RefineTime = 5.2
+local RefineTime = 2.5
 
 function HarvestCore.server_onCreate( self )
 	self:sv_init()
