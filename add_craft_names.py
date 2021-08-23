@@ -13,7 +13,10 @@ def add_item_names(file, names):
     for line in recipe_lines:
         if (line_search := item_id_regex.search(line)) and not comment_line:
             tabs, item_id = line_search.groups()
-            commented_lines.append(f'{tabs}// {names[item_id]}\n')
+            if item_name := names.get(item_id):
+                commented_lines.append(f'{tabs}// {item_name}\n')
+            else:
+                print(f'No item found for {item_id}')
         comment_line = line.strip().startswith('//')
         commented_lines.append(line)
 
@@ -22,8 +25,8 @@ def add_item_names(file, names):
 
 
 if __name__ == '__main__':
-    craftbot_path = Path('Install/Survival/CraftingRecipes/craftbot.json')
-    hideout_path = Path('Install/Survival/CraftingRecipes/hideout.json')
+    craftbot_path = Path('new_install/Survival/CraftingRecipes/craftbot.json')
+    hideout_path = Path('new_install/Survival/CraftingRecipes/hideout.json')
     item_names_file = Path('item_names.json')
 
     with open(item_names_file) as i:

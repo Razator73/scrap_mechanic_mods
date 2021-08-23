@@ -838,5 +838,6 @@
 	"3afbe615-0499-4640-8967-46bc8d6c9c53": "obj_vehicle_biggestwheel",
 	"fe0b5b1c-ae0f-43b3-869b-b0b809958477": "obj_vehicle_biggerwheel",
 	"7700c1f2-a33a-11ea-bb37-0242ac130002": "obj_ren_printer",
-	"d4e6c84c-a493-44b1-81aa-4f4741ea3ee0": "obj_ren_container"
+	"d4e6c84c-a493-44b1-81aa-4f4741ea3ee0": "obj_ren_container",
+	"a5985971-1f95-4373-a5d9-4ce0a3e74851": "obj_beacon"
 }
