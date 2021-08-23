@@ -1,13 +1,17 @@
+import json
 from pathlib import Path
 
 
-new_item_file = Path('game_files') / 'Survival' / 'CraftingRecipes' / 'item_names.json'
+survival_item_file = Path('game_files') / 'Survival' / 'Gui' / 'Language' / 'English' / 'inventoryDescriptions.json'
+data_item_file = Path('game_files') / 'Data' / 'Gui' / 'Language' / 'English' / 'InventoryItemDescriptions.json'
 
 # remove comment lines
-with open(new_item_file) as f:
-    item_lines = f.readlines()
+# item_lines = []
+with open(survival_item_file) as f:
+    item_names = json.load(f)
+with open(data_item_file) as f:
+    item_names = {**item_names, **json.load(f)}
 
 save_item_file = Path('item_names.json')
 with open(save_item_file, 'w') as f:
-    for line in [x for x in item_lines if not x.lstrip().startswith('//')]:
-        f.write(line)
+    json.dump(item_names, f, indent=2)
