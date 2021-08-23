@@ -234,5 +234,196 @@
 				"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7"
 			}
 		]
+	},
+	{
+		// obj_outfitpackage_epic
+		"itemId": "7ab0cac7-b055-4283-b0bc-f85dd4d0416b",
+		"quantity": 1,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// obj_crates_broccoli
+				"itemId": "99477093-e819-4199-b62a-fda6143aae89"
+			},
+			{
+				"quantity": 3,
+				// obj_crates_pineapple
+				"itemId": "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3"
+			},
+			{
+				"quantity": 3,
+				// obj_survivalobject_farmerball
+				"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7"
+			}
+		]
+	},
+	{
+		// obj_containers_treecrate
+		"itemId": "f8b984da-4b24-4e36-b440-86ead126b6dc",
+		"quantity": 1,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// obj_crates_banana
+				"itemId": "0bc74539-df8a-47c7-aad8-d55d809a01e4"
+			},
+			{
+				"quantity": 4,
+				// obj_crates_pineapple
+				"itemId": "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3"
+			},
+			{
+				"quantity": 1,
+				// obj_survivalobject_farmerball
+				"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7"
+			}
+		]
+	},
+	{
+		// obj_containers_stonecrate
+		"itemId": "3bd4430f-75bc-452c-9e80-1bd639898689",
+		"quantity": 1,
+		"craftTime": 0,
+		"ingredientList": [
+		{
+				"quantity": 4,
+				// obj_crates_blueberry
+				"itemId": "e77d9577-589a-446b-96c1-f6d0d7495489"
+			},
+			{
+				"quantity": 4,
+				// obj_crates_orange
+				"itemId": "c10a77d5-3357-4cb4-8113-a2cbe69c7ff2"
+			},
+			{
+				"quantity": 1,
+				// obj_survivalobject_farmerball
+				"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7"
+			}
+			
+		]
+	},
+	{
+		// obj_containers_stack
+		"itemId": "10590ecd-7d2f-4ff9-a6de-e749870ae8b8",
+		"quantity": 1,
+		"craftTime": 0,
+		"ingredientList": [
+		{
+				"quantity": 3,
+				// obj_crates_banana
+				"itemId": "0bc74539-df8a-47c7-aad8-d55d809a01e4"
+			},
+			{
+				"quantity": 3,
+				// obj_crates_blueberry
+				"itemId": "e77d9577-589a-446b-96c1-f6d0d7495489"
+			},
+			{
+				"quantity": 3,
+				// obj_survivalobject_farmerball
+				"itemId": "8d601982-4608-4d5e-bb9e-e4041486f7c7"
+			}
+			
+		]
+	},
+	{
+		// obj_interactive_raftshark
+		"itemId": "4152ce33-9b43-4c51-80a3-e0b4fe38841d",
+		"quantity": 1,
+		"craftTime": 0,
+		"ingredientList": [
+		{
+				"quantity": 1,
+				// obj_crates_pineapple
+				"itemId": "bc69cb3b-7e0c-4c36-805d-f8d89fcfced3"
+			},
+			{
+				"quantity": 1,
+				// obj_crates_blueberry
+				"itemId": "e77d9577-589a-446b-96c1-f6d0d7495489"
+			},
+			{
+				"quantity": 1,
+				// obj_crates_banana
+				"itemId": "0bc74539-df8a-47c7-aad8-d55d809a01e4"
+			}
+			
+		]
+	},
+	{
+		// obj_resource_ember
+		"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4",
+		"quantity": 10,
+		"craftTime": 0,
+		"ingredientList": [
+		{
+				"quantity": 2,
+				// obj_crates_redbeet
+				"itemId": "628fd350-577d-413f-82a8-7f08a83de3d8"
+			}
+			
+		]
+	},
+	{
+		// obj_consumable_component
+		"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf",
+		"quantity": 20,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// obj_crates_blueberry
+				"itemId": "e77d9577-589a-446b-96c1-f6d0d7495489"
+			},
+			{
+				"quantity": 1,
+				// obj_crates_banana
+				"itemId": "0bc74539-df8a-47c7-aad8-d55d809a01e4"
+			},
+			{
+				"quantity": 1,
+				// obj_crates_orange
+				"itemId": "c10a77d5-3357-4cb4-8113-a2cbe69c7ff2"
+			}
+		]
+	},
+	{
+		// obj_resource_circuitboard
+		"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3",
+		"quantity": 20,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// obj_crates_tomato
+				"itemId": "1dcd74ca-39ba-4b00-a36a-3381b25055f4"
+			},
+			{
+				"quantity": 1,
+				// obj_crates_redbeet
+				"itemId": "628fd350-577d-413f-82a8-7f08a83de3d8"
+			},
+			{
+				"quantity": 1,
+				// obj_crates_carrot
+				"itemId": "9cd8288c-5a19-479f-af47-9eb55230ade2"
+			}
+		]
+	},
+	{
+		// obj_consumable_inkammo
+		"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7",
+		"quantity": 50,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// obj_crates_orange
+				"itemId": "c10a77d5-3357-4cb4-8113-a2cbe69c7ff2"
+			}
+		]
 	}
 ]
