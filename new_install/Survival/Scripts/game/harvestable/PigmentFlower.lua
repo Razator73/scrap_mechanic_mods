@@ -19,7 +19,7 @@ function PigmentFlower.server_onMelee( self, hitPos, attacker, damage )
 		if SurvivalGame then
 			local harvest = {
 				lootUid = obj_resource_flower,
-				lootQuantity = 1
+				lootQuantity = math.random( 1, 4 )
 			}
 			local pos = self.harvestable:getPosition() + sm.vec3.new( 0, 0, 0.5 )
 			sm.projectile.harvestableCustomProjectileAttack( harvest, "loot", 0, pos, sm.noise.gunSpread( sm.vec3.new( 0, 0, 1 ), 20 ) * 5, self.harvestable, 0 )
@@ -43,10 +43,11 @@ end
 
 function PigmentFlower.sv_n_harvest( self, params, player )
 	if not self.harvested and sm.exists( self.harvestable ) then
+	    local flowerAmount = math.random( 1, 4 )
 		if SurvivalGame then
 			local container = player:getInventory()
 			if sm.container.beginTransaction() then
-				sm.container.collect( container, obj_resource_flower, 1 )
+				sm.container.collect( container, obj_resource_flower, flowerAmount )
 				if sm.container.endTransaction() then
 					sm.event.sendToPlayer( player, "sv_e_onLoot", { uuid = obj_resource_flower, pos = self.harvestable.worldPosition } )
 					sm.effect.playEffect( "Pigmentflower - Picked", self.harvestable.worldPosition )

@@ -19,7 +19,7 @@ function BeeHive.sv_onHit( self )
 
 		if SurvivalGame then
 			local lootList = {}
-			local slots = math.random( 2, 4 )
+			local slots = math.random( 4, 8 )
 			for i = 1, slots do
 				lootList[i] = { uuid = obj_resource_beewax, quantity = 1 }
 			end

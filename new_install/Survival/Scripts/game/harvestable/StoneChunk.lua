@@ -3,7 +3,7 @@ dofile("$SURVIVAL_DATA/Scripts/game/survival_shapes.lua")
 dofile("$SURVIVAL_DATA/Scripts/game/survival_constants.lua")
 
 StoneChunk = class( nil )
-StoneChunk.DamagerPerHit = 25
+StoneChunk.DamagerPerHit = 50
 
 function StoneChunk.server_onCreate( self )
 	self:sv_init()

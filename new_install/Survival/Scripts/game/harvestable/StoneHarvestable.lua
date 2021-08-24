@@ -5,7 +5,7 @@ dofile("$SURVIVAL_DATA/Scripts/util.lua")
 
 StoneHarvestable = class( nil )
 StoneHarvestable.ChunkHealth = 100
-StoneHarvestable.DamagerPerHit = 25
+StoneHarvestable.DamagerPerHit = 50
 
 function StoneHarvestable.server_onCreate( self )
 	self:sv_init()
