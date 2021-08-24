@@ -16,8 +16,12 @@ for file in shape_sets_path.glob('*.json'):
             if item.get('stackSize') is None and item.get('uuid'):
                 item_name = item_names.get(item['uuid'], {'title': 'ITEM NOT FOUND'})['title']
                 non_stackables[item['uuid']] = {'name': item_name, 'file': file.name}
-                if input(f'Make {item_name} stackable? (y/n)').lower() == 'y':
-                    item['stackSize'] = 10
+                if (size := input(f'Make {item_name} stackable? (y/n)').lower())[0] != 'n':
+                    try:
+                        int(size)
+                        item['stackSize'] = size
+                    except ValueError:
+                        item['stackSize'] = 10
         with open(file, 'w') as f:
             json.dump(shape_data, f, indent='\t')
     except json.decoder.JSONDecodeError:
