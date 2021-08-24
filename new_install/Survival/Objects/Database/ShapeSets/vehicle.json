@@ -194,7 +194,8 @@
 				"friction": 5,
 				"buoyancy": 1
 			},
-			"flammable": false
+			"flammable": false,
+			"stackSize": 10
 		}
 	]
 }
