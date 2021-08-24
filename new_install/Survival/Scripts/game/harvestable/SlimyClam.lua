@@ -15,7 +15,7 @@ function SlimyClam.sv_onHit( self )
 	if not self.harvested and sm.exists( self.harvestable ) then
 		if SurvivalGame then
 			local lootList = {}
-			local count = randomStackAmountAvg2()
+			local count = math.random(3, 5)
 			for i = 1, count do
 				lootList[i] = { uuid = obj_resources_slimyclam }
 			end
