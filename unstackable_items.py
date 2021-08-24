@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 
 
+add_stack_size = True
 shape_sets_path = Path('new_install/Survival/Objects/Database/ShapeSets')
 item_file = Path('item_names.json')
 with open(item_file) as f:
@@ -16,7 +17,7 @@ for file in shape_sets_path.glob('*.json'):
             if item.get('stackSize') is None and item.get('uuid'):
                 item_name = item_names.get(item['uuid'], {'title': 'ITEM NOT FOUND'})['title']
                 non_stackables[item['uuid']] = {'name': item_name, 'file': file.name}
-                if (size := input(f'Make {item_name} stackable? (y/n)').lower())[0] != 'n':
+                if add_stack_size and (size := input(f'Make {item_name} stackable? (y/n)').lower())[0] != 'n':
                     try:
                         int(size)
                         item['stackSize'] = size
