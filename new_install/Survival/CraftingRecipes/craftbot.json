@@ -4308,7 +4308,7 @@
 	{
 		// Scrap Metal Block
 		"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39",
-		"quantity": 1000,
+		"quantity": 2000,
 		"craftTime": 57,
 		"ingredientList": [
 			{
