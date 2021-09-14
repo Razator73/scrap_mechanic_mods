@@ -3,13 +3,14 @@ from pathlib import Path
 
 
 add_stack_size = True
-shape_sets_path = Path('new_install/Survival/Objects/Database/ShapeSets')
+shape_sets_paths = [Path('new_install/Survival/Objects/Database/ShapeSets'),
+                    Path('new_install/Data/Objects/Database/ShapeSets')]
 item_file = Path('item_names.json')
 with open(item_file) as f:
     item_names = json.load(f)
 
 non_stackables = {}
-for file in shape_sets_path.glob('*.json'):
+for file in [_ for path in shape_sets_paths for _ in path.glob('*.json')]:
     try:
         with open(file) as f:
             shape_data = json.load(f)
