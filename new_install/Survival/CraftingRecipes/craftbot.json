@@ -4526,5 +4526,18 @@
 				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
 			}
 		]
+	},
+	{
+		// Rounded Frame Corner
+		"itemId": "64fdc73f-259a-49df-94ac-24db25a4dc42",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
 	}
 ]
