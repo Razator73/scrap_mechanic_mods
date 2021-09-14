@@ -656,7 +656,8 @@
 				"friction": 5,
 				"buoyancy": 1
 			},
-			"flammable": false
+			"flammable": false,
+			"stackSize": "10"
 		},
 		{
 			"uuid": "31ada55e-7c79-4aee-86b6-809c0e5468df",
