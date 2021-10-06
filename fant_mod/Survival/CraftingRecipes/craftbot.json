@@ -1,0 +1,4543 @@
+[
+	{
+		// Connect Tool
+		"itemId": "8c7efc37-cd7c-4262-976e-39585f8527bf",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Paint Tool
+		"itemId": "c60b9627-fc2b-4319-97c5-05921cb976c6",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 3,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Weld Tool
+		"itemId": "fdb8b8be-96e7-4de0-85c7-d2f42e4f33ce",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 5,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Cardboard Block
+		"itemId": "f0cba95b-2dc4-4492-8fd9-36546a4cb5aa",
+		"quantity": 20,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			}
+		]
+	},
+	{
+		// Wood Block 1
+		"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			}
+		]
+	},
+	{
+		// Wood Block 2
+		"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 1,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			}
+		]
+	},
+	{
+		// Wood Block 3
+		"itemId": "061b5d4b-0a6a-4212-b0ae-9e9681f1cbfb",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 1,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+	{
+		// Metal Block 1
+		"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	},
+	{
+		// Metal Block 2
+		"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Ember
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4"
+			},
+			{
+				"quantity": 2,
+				// Water
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			}
+		]
+	},
+	{
+		// Metal Block 3
+		"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				// Ember
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4"
+			},
+			{
+				"quantity": 4,
+				// Water
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			}
+		]
+	},
+	{
+		// Concrete Block 1
+		"itemId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			},
+			{
+				"quantity": 5,
+				// Water
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			},
+			{
+				"quantity": 5,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		// Concrete Block 2
+		"itemId": "ff234e42-5da4-43cc-8893-940547c97882",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Concrete Block 1
+				"itemId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4"
+			},
+			{
+				"quantity": 2,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			}
+		]
+	},
+	{
+		// Concrete Block 3
+		"itemId": "e281599c-2343-4c86-886e-b2c1444e8810",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Concrete Block 2
+				"itemId": "ff234e42-5da4-43cc-8893-940547c97882"
+			},
+			{
+				"quantity": 2,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+	{
+		// Sand Block
+		"itemId": "c56700d9-bbe5-4b17-95ed-cef05bd8be1b",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Glass Block
+		"itemId": "5f41af56-df4c-4837-9b3c-10781335757f",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Sand Block
+				"itemId": "c56700d9-bbe5-4b17-95ed-cef05bd8be1b"
+			},
+			{
+				"quantity": 1,
+				// Ember
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4"
+			}
+		]
+	},
+	{
+		// Glass Tile Block
+		"itemId": "749f69e0-56c9-488c-adf6-66c58531818f",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Sand Block
+				"itemId": "c56700d9-bbe5-4b17-95ed-cef05bd8be1b"
+			},
+			{
+				"quantity": 1,
+				// Ember
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4"
+			}
+		]
+	},
+	{
+		// Armored Glass Block
+		"itemId": "b5ee5539-75a2-4fef-873b-ef7c9398b3f5",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 2,
+				// Net Block
+				"itemId": "4aa2a6f0-65a4-42e3-bf96-7dec62570e0b"
+			},
+			{
+				"quantity": 1,
+				// Ember
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4"
+			}
+		]
+	},
+	{
+		// Diamond Plate Block
+		"itemId": "f7d4bfed-1093-49b9-be32-394c872a1ef4",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Path Light Block
+		"itemId": "073f92af-f37e-4aff-96b3-d66284d5081c",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Extruded Metal Block
+		"itemId": "25a5ffe7-11b1-4d3e-8d7a-48129cbaf05e",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Net Block
+		"itemId": "4aa2a6f0-65a4-42e3-bf96-7dec62570e0b",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Punched Steel Block
+		"itemId": "ea6864db-bb4f-4a89-b9ec-977849b6713a",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Solid Net Block
+		"itemId": "3d0b7a6e-5b40-474c-bbaf-efaa54890e6a",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			}
+		]
+	},
+	{
+		// Spaceship Block
+		"itemId": "027bd4ec-b16d-47d2-8756-e18dc2af3eb6",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Brick Block
+		"itemId": "0603b36e-0bdb-4828-b90c-ff19abcdfe34",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Tile Block
+		"itemId": "8ca49bff-eeef-4b43-abd0-b527a567f1b7",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Restroom Block
+		"itemId": "920b40c8-6dfc-42e7-84e1-d7e7e73128f6",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			},
+			{
+				"quantity": 1,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			}
+		]
+	},
+	{
+		// Barrier Block
+		"itemId": "09ca2713-28ee-4119-9622-e85490034758",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Carpet Block
+		"itemId": "febce8a6-6c05-4e5d-803b-dfa930286944",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Bubble Plastic Block
+		"itemId": "f406bf6e-9fd5-4aa0-97c1-0b3c2118198e",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Plastic Block
+				"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a"
+			}
+		]
+	},
+	{
+		// Bearing
+		"itemId": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	},
+	{
+		// Switch
+		"itemId": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Button
+		"itemId": "1e8d93a4-506b-470d-9ada-9c0a321e2db5",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Sensor 1
+		"itemId": "1d4793af-cb66-4628-804a-9d7404712643",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Sport Suspension 1
+		"itemId": "67da25c9-3825-41f6-9724-4546a11cb2a5",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				// Crude Oil
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			}
+		]
+	},
+	{
+		// Off-Road Suspension 1
+		"itemId": "f3cfef9d-faef-4be8-9283-476eb99614d7",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				// Crude Oil
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			}
+		]
+	},
+	{
+		// Piston 1
+		"itemId": "8c741785-5eae-4c48-9f99-d62bf522a83f",
+		"quantity": 1,
+		"craftTime": 37,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				// Crude Oil
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Gas Engine 1
+		"itemId": "1bfccc0a-828f-475c-882c-87d5a96054c9",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				// Crude Oil
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 3,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Electric Engine 1
+		"itemId": "5e5d231e-405e-4f45-9bd0-b3557dbb42eb",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 5,
+				// Battery
+				"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af"
+			},
+			{
+				"quantity": 10,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 5,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Driver's Seat 1
+		"itemId": "77c2687c-2e13-4df8-996a-96fb26d75ee0",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Seat 1
+		"itemId": "3b972f2f-30c7-4a5e-a100-5e257e62295d",
+		"quantity": 1,
+		"craftTime": 37,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Driver's Saddle 1
+		"itemId": "7d601a5a-796d-4cae-be88-b47479d38d11",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Saddle 1
+		"itemId": "2d3016f7-febe-416e-93bc-41d80ca3910d",
+		"quantity": 1,
+		"craftTime": 37,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Toilet
+		"itemId": "ca003562-fde7-463c-969e-f8334ae54387",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			}
+		]
+	},
+	{
+		// Thruster 1
+		"itemId": "df8528ed-15ad-4a39-a33a-698880684001",
+		"quantity": 1,
+		"craftTime": 117,
+		"ingredientList": [
+			{
+				"quantity": 40,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 10,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Controller 1
+		"itemId": "598d865c-324c-4129-9c57-21a6abd2cb2e",
+		"quantity": 1,
+		"craftTime": 37,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			},
+			{
+				"quantity": 3,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Logic Gate
+		"itemId": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Timer
+		"itemId": "8f7fd0e7-c46e-4944-a414-7ce2437bb30f",
+		"quantity": 1,
+		"craftTime": 42,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Radio
+		"itemId": "dfefc9d7-db03-4d25-ad85-eae1d824d8c0",
+		"quantity": 1,
+		"craftTime": 42,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Battery
+				"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af"
+			},
+			{
+				"quantity": 4,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Horn
+		"itemId": "818f4e15-ff51-4fed-b874-723a25d62e1c",
+		"quantity": 1,
+		"craftTime": 42,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Headlight
+		"itemId": "ed27f5e2-cac5-4a32-a5d9-49f116acc6af",
+		"quantity": 1,
+		"craftTime": 22,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 1,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Beacon
+		"itemId": "a5985971-1f95-4373-a5d9-4ce0a3e74851",
+		"quantity": 1,
+		"craftTime": 42,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 1,
+				// Radio
+				"itemId": "dfefc9d7-db03-4d25-ad85-eae1d824d8c0"
+			},
+			{
+				"quantity": 10,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Respawn Bed
+		"itemId": "5eb8975b-0acf-43a7-ab4e-62ce661c0df7",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 50,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 20,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 10,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Fridge
+		"itemId": "f08d772f-9851-400f-a014-d847900458a7",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Chest
+		"itemId": "fcfae5e2-1df9-47d8-bb9a-30bec9b5b1f5",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 40,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Large Chest
+		"itemId": "ad35f7e6-af8f-40fa-aef4-77d827ac8a8a",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 60,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 3,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			},
+			{
+				"quantity": 5,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Vacuum Pump
+		"itemId": "97f449b6-c948-448b-b8b3-4448e3f6b956",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 5,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 3,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Vacuum Pipe
+		"itemId": "9b8f2abd-265c-4750-b8b9-fe6cb564633c",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 10,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Vacuum Pipe Corner
+		"itemId": "5939f460-ab6c-48f2-9d07-a66845ce8cf2",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 10,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Gas Container
+		"itemId": "056e5ff1-f030-40df-946a-b830bf494c92",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Battery Container
+		"itemId": "da4833fd-f981-4e08-a9f7-48e630a7c146",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 10,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Water Container
+		"itemId": "ea10d1af-b97a-46fb-8895-dfd1becb53bb",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 10,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Chemical Container
+		"itemId": "be29592a-ef58-4b1d-b18c-895023abd27f",
+		"quantity": 1,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 20,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Water Cannon
+		"itemId": "69559e81-50fa-40ae-afa2-a22c1a49eb54",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 10,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 2,
+				// Component Kit
+				"itemId": "5530e6a0-4748-4926-b134-50ca9ecb9dcf"
+			}
+		]
+	},
+	{
+		// Saw Blade
+		"itemId": "3e10ef67-383a-4b60-aa5b-b1173134e437",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Drill
+		"itemId": "276fd55b-ae54-4a7a-ace6-fddd2d3370a5",
+		"quantity": 1,
+		"craftTime": 87,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 30,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Water Bucket
+		"itemId": "798c2c81-1f8e-481b-8c32-b71b5dc5511a",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Plastic Block
+				"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a"
+			}
+		]
+	},
+	{
+		// Soil Bag
+		"itemId": "9a3e478c-2224-44fa-887c-239965bd05ad",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			},
+			{
+				"quantity": 10,
+				// Sand Block
+				"itemId": "c56700d9-bbe5-4b17-95ed-cef05bd8be1b"
+			},
+			{
+				"quantity": 2,
+				// Carrot
+				"itemId": "47ece75a-bfca-4e8a-b618-4f609fcea0da"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Tomato Seed
+				"itemId": "38e41fb5-dd50-4294-829d-a517f0282fed"
+			},
+			{
+				"quantity": 10,
+				// Carrot Seed
+				"itemId": "9c82a525-8a8b-4483-9595-505aaa042486"
+			},
+			{
+				"quantity": 10,
+				// Redbeet Seed
+				"itemId": "64051718-a3f1-422b-bda3-277efa0c4545"
+			}
+		]
+	},
+	{
+		// Gasoline
+		"itemId": "d4d68946-aa03-4b8f-b1af-96b81ad4e305",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Crude Oil
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			}
+		]
+	},
+	{
+		// Battery
+		"itemId": "910a7f2c-52b0-46eb-8873-ad13255539af",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 5,
+				// Glow
+				"itemId": "388adeab-67e5-4901-afe8-c56217754510"
+			},
+			{
+				"quantity": 5,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		// Glue
+		"itemId": "36335664-6e61-4d44-9876-54f9660a8565",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Glue Clam
+				"itemId": "40e8bd0d-04a0-4e95-b593-4038b54b156f"
+			}
+		]
+	},
+	{
+		// Water
+		"itemId": "869d4736-289a-4952-96cd-8a40117a2d28",
+		"extras": [
+			{
+				// Water Bucket
+				"itemId": "798c2c81-1f8e-481b-8c32-b71b5dc5511a",
+				"quantity": 1
+			}
+		],
+		"quantity": 2,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Water Bucket
+				"itemId": "103fc4e6-7e57-465e-a86d-983343415877"
+			}
+		]
+	},
+	{
+		// Chemicals
+		"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25",
+		"extras": [
+			{
+				// Water Bucket
+				"itemId": "798c2c81-1f8e-481b-8c32-b71b5dc5511a",
+				"quantity": 1
+			}
+		],
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Chemical Bucket
+				"itemId": "2e792123-4a10-4cc6-b9ef-c5a518655cb4"
+			}
+		]
+	},
+	{
+		// Paint Ammo
+		"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7",
+		"quantity": 5,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			}
+		]
+	},
+	{
+		// Glowstick
+		"itemId": "3a3280e4-03b6-4a4d-9e02-e348478213c9",
+		"quantity": 4,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			},
+			{
+				"quantity": 4,
+				// Glow
+				"itemId": "388adeab-67e5-4901-afe8-c56217754510"
+			}
+		]
+	},
+	{
+		// Small Explosive Canister
+		"itemId": "8d3b98de-c981-4f05-abfe-d22ee4781d33",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Gasoline
+				"itemId": "d4d68946-aa03-4b8f-b1af-96b81ad4e305"
+			},
+			{
+				"quantity": 6,
+				// Glow
+				"itemId": "388adeab-67e5-4901-afe8-c56217754510"
+			},
+			{
+				"quantity": 5,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Large Explosive Canister
+		"itemId": "24001201-40dd-4950-b99f-17d878a9e07b",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Gasoline
+				"itemId": "d4d68946-aa03-4b8f-b1af-96b81ad4e305"
+			},
+			{
+				"quantity": 8,
+				// Glow
+				"itemId": "388adeab-67e5-4901-afe8-c56217754510"
+			},
+			{
+				"quantity": 10,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Wheel
+		"itemId": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 6,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			}
+		]
+	},
+	{
+		// Big Wheel
+		"itemId": "db66f0b1-0c50-4b74-bdc7-771374204b1f",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 40,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 8,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			}
+		]
+	},
+	{
+		// Small Pipe Short
+		"itemId": "0dba257b-b907-4919-baaf-2fefe19f4e24",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Long
+		"itemId": "927d80d8-84ee-44f0-9d8b-cb7a688e0b6c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Bend
+		"itemId": "8024db09-9147-4fe3-a747-00bc30ab724b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Tee
+		"itemId": "e1273b8a-945b-4080-81eb-cbf79961cccb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Corner
+		"itemId": "203fdf06-b311-49fd-933d-a1c6b671a017",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Four Way
+		"itemId": "387095d6-5aba-45e3-abd0-098710c268f8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Four Way Tee
+		"itemId": "5a106512-9284-40de-be68-2c186e903097",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Five Way
+		"itemId": "c6ebae46-8e69-4ddd-a3c0-895d887027bd",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Pipe Six Way
+		"itemId": "9c6d8dba-1783-4c42-8a02-6af1c5d63ec6",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Pipe Short
+		"itemId": "bbc5cc77-443d-4aa7-a175-ebdeb09c2df3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Pipe Long
+		"itemId": "07232236-22eb-4912-8774-ab185f368bb9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Pipe Corner
+		"itemId": "4f1c0036-389b-432e-81de-8261cb9f9d57",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Pipe Join
+		"itemId": "9f37d9e9-be8d-49c8-a7ac-e59c67786083",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Valve
+		"itemId": "04782466-eca1-4ed9-8502-036ea269aed9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Short I-Beam
+		"itemId": "87878e83-8170-4796-9401-6baba45ccef2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Long I-Beam
+		"itemId": "4c7b8096-b8ca-4341-bfe9-d31d2d5443b8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// I-Beam Corner
+		"itemId": "31768765-5a08-499a-a7e6-7e7613363f75",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// I-Beam End
+		"itemId": "b9775316-7272-4a66-a8a9-179108d76f18",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// I-Beam Holder
+		"itemId": "1ed1d5a8-466a-4b5e-867b-0d93cd9d2dcb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Toilet Paper
+		"itemId": "e2a0770b-9bb9-4b3b-b9f2-994b534b79f3",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			}
+		]
+	},
+	{
+		// Sink
+		"itemId": "3fa0afca-7715-459e-86fa-2a81cf3027b8",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Air Conditioner
+		"itemId": "1325d152-3dd1-41a1-9027-5823c5cb55c4",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			}
+		]
+	},
+	{
+		// Mug
+		"itemId": "a6ec1dcc-07e9-418a-819e-904e28a32f63",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Mannequin Boot
+		"itemId": "c89f7bc8-5720-474d-989d-761916a411b2",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Woc Steak
+				"itemId": "fb0f128c-e607-4c52-9c25-f44dfd2dd95e"
+			},
+			{
+				"quantity": 2,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			},
+			{
+				"quantity": 1,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			}
+		]
+	},
+	{
+		// Mannequin Hand
+		"itemId": "b1dd7967-da2a-4ff5-a90f-bbd7e9bae4d7",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			},
+			{
+				"quantity": 3,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			}
+		]
+	},
+	{
+		// Baby Duck Statuette
+		"itemId": "80bc2b9f-98a9-44e4-9cb8-d4ec7e95b40f",
+		"quantity": 1,
+		"craftTime": 2,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			},
+			{
+				"quantity": 3,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			},
+			{
+				"quantity": 1,
+				// Glue
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565"
+			}
+		]
+	},
+	{
+		// Potted Plant
+		"itemId": "df3734e2-f04b-443f-b568-fe5b076646c7",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Small Potted Plant
+		"itemId": "89f6c762-c0ed-44ad-b3f1-a60dbdd889c5",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Potted Vine Plant
+		"itemId": "cec1d36c-b48a-43d2-9667-5e53b62dd4c5",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			},
+			{
+				"quantity": 2,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			}
+		]
+	},
+	{
+		// Big Pot
+		"itemId": "7826f497-426b-42cb-a857-0d784f3ab2f3",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 10,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Potted Seed Plant
+		"itemId": "c4609540-bc32-4c3f-83b8-3b6926878012",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Potted Blooming Cactus
+		"itemId": "d1421af8-6f80-4413-8099-2c6b217fb929",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Potted Cactus
+		"itemId": "bc575e0c-d1aa-438e-9f3d-0a80f4ea915f",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Potted Blue Flower
+		"itemId": "bb443a05-b5b9-4fad-90fc-5e04aa90fd8f",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Pigment Flower
+				"itemId": "c9396a42-67c3-4fa3-b682-31428ff9eced"
+			},
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Rectangular Window
+		"itemId": "57fad8e9-2aff-40c3-9d5c-8f81573b58b9",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Square Window
+		"itemId": "53349c8d-14e8-4055-bd79-a1ab56fe876e",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Large Rectangular Window
+		"itemId": "763fd838-7ed5-420e-8984-c2ae86da1e5c",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Large Windshield
+		"itemId": "7a0e9041-9dd5-4cb1-b804-69ee16c45efe",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Windshield
+		"itemId": "50007ac9-e97d-4b32-9fd6-de919c8a34a4",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Traffic Cone
+		"itemId": "1f334b62-8955-4406-8848-91e03228c330",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Shack Light
+		"itemId": "ebefa387-fe4a-4839-bdd9-b6b4da39368f",
+		"quantity": 1,
+		"craftTime": 10,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 3,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+
+		]
+	},
+	{
+		// Warehouse Square Light
+		"itemId": "5e3dff9b-2450-44ae-ad46-d2f6b5148cbf",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 5,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 10,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+
+		]
+	},
+
+	{
+		// Warehouse Spotlight
+		"itemId": "695d66c8-b937-472d-8bc2-f3d72dd92879",
+		"quantity": 1,
+		"craftTime": 10,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+
+		]
+	},
+	{
+		// Warehouse Wall Light
+		"itemId": "e91b0bf2-dafa-439e-a503-286e91461bb0",
+		"quantity": 1,
+		"craftTime": 15,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 3,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+
+		]
+	},
+	{
+		// Warehouse Spot Small
+		"itemId": "85339a1d-e67f-4c63-94fd-4a1cf8c25810",
+		"quantity": 1,
+		"craftTime": 20,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 2,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+			
+		]
+	},
+	{
+		// Work Light
+		"itemId": "da6e54df-a223-4a0e-b42f-ddeddd33f5b3",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 6,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 4,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+			
+		]
+	},
+	{
+		// Packing Lamp
+		"itemId": "1e2485d7-f600-406e-b348-9f0b7c1f5077",
+		"quantity": 1,
+		"craftTime": 10,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 1,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 6,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+			
+		]
+	},
+	{
+		// Frame Beam Light
+		"itemId": "abaef792-741e-4c6b-8e79-02461a37b035",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 6,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+			
+		]
+	},
+	{
+		// Warehouse Fluorescent Light
+		"itemId": "7b2c96af-a4a1-420e-9370-ea5b58f23a7e",
+		"quantity": 1,
+		"craftTime": 20,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 4,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 8,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+			
+		]
+	},
+	{
+		// Warehouse Spotlight
+		"itemId": "16ba2d22-7b96-4c5e-9eb7-f6422ed80ad4",
+		"quantity": 1,
+		"craftTime": 27,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 2,
+				// Circuit Board
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3"
+			},
+			{
+				"quantity": 6,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			}
+			
+		]
+	},
+	{
+		// Construction Pallet
+		"itemId": "ec757a7d-a27b-4688-ae85-46167659bf00",
+		"quantity": 1,
+		"craftTime": 18,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+			
+		]
+	},
+	{
+		// Staircase Ramp
+		"itemId": "635eee58-9a36-437f-9e30-78dab0cbcc59",
+		"quantity": 1,
+		"craftTime": 20,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 5,
+				// Solid Net Block
+				"itemId": "3d0b7a6e-5b40-474c-bbaf-efaa54890e6a"
+			}
+			
+		]
+	},
+	{
+		// Large Warehouse Ramp
+		"itemId": "7f0d8b7c-861f-4597-94b4-a87978b3f750",
+		"quantity": 1,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 10,
+				// Diamond Plate Block
+				"itemId": "f7d4bfed-1093-49b9-be32-394c872a1ef4"
+			}
+		]
+	},
+	{
+		// Small Warehouse Ramp
+		"itemId": "3b552b6f-2f32-4c1f-b9c4-ff9ff7dd0ac3",
+		"quantity": 1,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				// Diamond Plate Block
+				"itemId": "f7d4bfed-1093-49b9-be32-394c872a1ef4"
+			}
+		]
+	},
+	{
+		// Large Narrow Warehouse Ramp
+		"itemId": "60075229-2e4e-4aeb-9e64-da41b6ac9611",
+		"quantity": 1,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				// Diamond Plate Block
+				"itemId": "f7d4bfed-1093-49b9-be32-394c872a1ef4"
+			}
+		]
+	},
+	{
+		// Small Narrow Warehouse Ramp
+		"itemId": "04733746-4090-4d63-aff1-47dafae506fd",
+		"quantity": 1,
+		"craftTime": 30,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 1,
+				// Diamond Plate Block
+				"itemId": "f7d4bfed-1093-49b9-be32-394c872a1ef4"
+			}
+		]
+	},
+	{
+		// Concave Wedge
+		"itemId": "6f38a734-571f-4c3d-97b9-c0aa480973af",
+		"quantity": 1,
+		"craftTime": 5,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 2,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam Short
+		"itemId": "6130d484-775e-481a-889a-43d2e8d29058",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam Long
+		"itemId": "a914fcb5-2509-428e-b8ad-80bf28af9f65",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam Corner
+		"itemId": "3ac141b5-3fbe-4588-9679-c458ac07642a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam Corner Bend
+		"itemId": "419fb889-e440-420c-b553-4cdf95e71a61",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam Four Way
+		"itemId": "04680945-5bb7-4a8a-9246-24c6c2b977d1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam Crossing
+		"itemId": "e2844132-31b4-4a2c-af5f-0abd173af1ef",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Industrial Beam End
+		"itemId": "f5b5acb3-afd5-4755-a7fe-2151f0559d43",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Frame Beam Short
+		"itemId": "82694546-92b2-47c3-894d-7fc215e2de4a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			
+			{
+				"quantity": 1,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+	{
+		// Frame Beam Long
+		"itemId": "bdb55551-39a4-437c-aeff-f54368b19b5e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Frame Beam End
+		"itemId": "d42cae51-343e-4847-83a4-e55c1b04aa80",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Frame Beam Corner
+		"itemId": "176f4537-b245-4ba2-a318-da12e15bf789",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+			
+		]
+	},
+	{
+		// Stand Support A
+		"itemId": "9b4ea447-9cd9-4cd1-84d5-8c414890e523",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Stand Support Long
+		"itemId": "e22c8acb-151f-4837-ba32-7c61896b4eec",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Stand Support Corner
+		"itemId": "109e1514-4f3b-4bd9-8d95-2d81fdb8fb25",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Stand Support
+		"itemId": "1dc643c9-6f8e-478a-8ebb-4adf3cb9960f",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Stand Support Base
+		"itemId": "b1c6bac0-4055-4193-8490-7704d0ea7113",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Fan Base
+		"itemId": "6ad9b8c7-4006-43cd-aa95-3d63c0e5c9fb",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			}
+			
+		]
+	},
+	{
+		// Fan Blade Cap
+		"itemId": "414854a9-77bc-48aa-a9d5-0c7cd213e4df",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			}
+			
+		]
+	},
+	{
+		// Fan Blade
+		"itemId": "c2ce40b1-fc95-48bd-bd05-9c3e394a157a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			}
+			
+		]
+	},
+	{
+		// Skull Sign
+		"itemId": "2ccaa006-008e-4069-8de1-15668050f92e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Construction Zone Sign
+		"itemId": "70bf77d0-c9dd-4232-9e05-fbf7f49bd62c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 5,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Caution Sign
+		"itemId": "99b7fd1d-7126-4928-bfc2-f82befcbd905",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 3,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Danger Sign
+		"itemId": "a5198434-2639-4cb0-8e01-865bc4d9b791",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 5,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Stop Sign
+		"itemId": "068a89ca-504e-4782-9ede-48f710aeea73",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Beware Farmbots Sign
+		"itemId": "14e8f5d0-7d6a-41ab-96a1-fc34588de868",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 3,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Welcome Sign
+		"itemId": "d509a432-85f9-419f-8b02-8d58b1082f97",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 7,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 7,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Do Not Enter Sign
+		"itemId": "b4498227-6650-4e52-b5a6-6db7a7b34d14",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Falling Objects Sign
+		"itemId": "c79a1857-a5c7-4616-b507-f1b151c31fe8",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 10,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+			
+		]
+	},
+	{
+		// Arrow Sign
+		"itemId": "3878d965-de4a-4e7b-a15a-73cc032158b6",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+
+	{
+		// Carpet Roll
+		"itemId": "0e695319-afd0-405b-85c8-289df8614c52",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Carpet Block
+				"itemId": "febce8a6-6c05-4e5d-803b-dfa930286944"
+			}
+		]
+	},
+	{
+		// Carpet Spool Holder
+		"itemId": "9f909330-869e-468b-822a-204876118c0a",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Scaffold Plastic Wall
+		"itemId": "82625879-3a0a-4ab8-9895-575d38ec4420",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Plastic Block
+				"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a"
+			},
+			{
+				"quantity": 6,
+				// Wood Block 1
+				"itemId": "df953d9c-234f-4ac2-af5e-f0490b223e71"
+			},
+			{
+				"quantity": 4,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Scaffold Ledger
+		"itemId": "93e32c6b-b9de-4fed-ad9d-49f0850ee634",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+	{
+		// Scaffold Frame
+		"itemId": "094ceb5a-995b-431f-87f4-aac091494ae4",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+	{
+		// Scaffold Plank
+		"itemId": "87a3bc6b-5eb3-43a3-871a-0cb42a415d64",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 4,
+				// Wood Block 2
+				"itemId": "1897ee42-0291-43e4-9645-8c5a5d310398"
+			}
+		]
+	},
+	
+	{
+		// Scaffold Pallet Ramp
+		"itemId": "26119eb4-0e0e-4730-85ad-8a8c44f3d18c",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+	{
+		// Scaffolding Step
+		"itemId": "de7a75db-207d-48fe-a385-fc4c61b40cf6",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			}
+		]
+	},
+
+	{
+		// Cubicle Wall
+		"itemId": "b627c533-f0e7-4fa7-83e6-5c3d517568e0",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Plastic Block
+				"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a"
+			},
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Office Table B
+		"itemId": "47d33078-a9b0-4e30-9610-ad0556be5fa2",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Office Table A
+		"itemId": "1991e0c6-4dd8-4e44-9da8-7fdf4d938fdc",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Office Table Leg
+		"itemId": "3de61f00-5782-40ca-923d-7efabe334572",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 13,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Office Chair Top
+		"itemId": "4c93de5a-72ab-40d0-a081-c41e3aa87e86",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			},
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Office Chair Base
+		"itemId": "1f343b76-3622-4e4b-9de4-238d43d60734",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	
+	
+	
+	
+	{
+		// Traffic Cone
+		"itemId": "1f334b62-8955-4406-8848-91e03228c330",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Beeswax
+				"itemId": "fcf0958c-084d-4854-9b1b-b06594b4262a"
+			}
+		]
+	},
+	
+	
+	{
+		// Warehouse Sign
+		"itemId": "4724913e-4f9b-4334-8408-4b0850a1c7de",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Elevator Sign
+		"itemId": "2bacc33e-60fb-40c3-b751-ef76f79392c7",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Storage Sign
+		"itemId": "e71b55c7-8547-4bef-bb77-e976c8abde0b",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 3,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Packing Sign
+		"itemId": "acc00050-d40e-42e9-9c2e-22ec2109dc3e",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 3,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Office Sign
+		"itemId": "7728c105-1fd9-4aaa-95ec-1da45b425d89",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 3,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Utility Sign
+		"itemId": "884080be-c723-4e6e-828b-6019af8beed6",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				// Metal Block 2
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
+			},
+			{
+				"quantity": 3,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Man Sign
+		"itemId": "221badef-0313-419c-9a7c-7469d26b0d5b",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Woman Sign
+		"itemId": "e08d860d-650e-4b81-8cfa-411ea8e6e9c0",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 4,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 4,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Metal Support
+		"itemId": "c40683f3-d9ce-4067-af24-3514c1867a1a",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 16,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Large Support Structure
+		"itemId": "15a8f24b-016a-4db6-adcc-967ee1b6c7b1",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 25,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Support Structure
+		"itemId": "33d5f0c1-f80c-478a-b69d-9edafe376474",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 18,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Small Support Structure
+		"itemId": "29ededf7-6436-41bf-84f4-8fb5361d29ea",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 12,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// U-Beam
+		"itemId": "56545d5c-556d-4cd5-9125-6e34acf37c3d",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 12,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Metal Column
+		"itemId": "6b78fb4b-2af9-4a01-a7c5-7e333d245adb",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Support Pillar
+		"itemId": "aa5325da-03f9-46cc-9655-983ee7ac2ab2",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Support Pillar Stand
+		"itemId": "45e5c193-8896-4687-a4b0-cf4b2da047d1",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Shack Wall
+		"itemId": "2aa8cb2c-2311-440c-8162-829ee394fbc2",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 12,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			}
+		]
+	},
+	{
+		// Shack Half Wall
+		"itemId": "b94a113d-ddd4-45db-844c-1d97ca0e1d61",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 6,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			}
+		]
+	},
+	{
+		// Shack Shade Sails
+		"itemId": "c8ca8731-3af2-4554-9019-6b941affcb16",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			},
+			{
+				"quantity": 5,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			}
+		]
+	},
+	{
+		// Shack Awning
+		"itemId": "c4ec4d33-83f7-4e7e-bb0a-8df52f96aef5",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 4,
+				// Scrap Wood Block
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811"
+			},
+			{
+				"quantity": 5,
+				// Cotton
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad"
+			}
+		]
+	},
+	{
+		// Shack Roof
+		"itemId": "0c07dba0-be79-40fd-9ed8-5a1c34e2d196",
+		"quantity": 1,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	},
+	{
+		// Generator Pipe Short
+		"itemId": "872ae33f-cf02-4959-91d0-ead1dacfd34b",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Generator Pipe Long
+		"itemId": "838c8d9a-8fc0-4b15-898b-b82bbf8bf2e0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Generator Pipe Corner
+		"itemId": "85623170-074a-4663-8944-97d131aff495",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Generator Pipe Tee
+		"itemId": "1b47f36c-7c6e-451c-87b2-34fdf33d6989",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Generator Pipe Four Way
+		"itemId": "c85957a1-c393-4352-ba79-5004bb4f07a2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Short
+		"itemId": "862f6857-3050-4a84-8191-6a7cbb50bd1a",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 27,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Long
+		"itemId": "53e8478f-517f-4ea0-be9c-f4a357400cc1",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 36,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Corner
+		"itemId": "17153a0e-8461-442f-b172-3a899c1ae99f",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 27,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Join
+		"itemId": "08918d4d-29e6-427d-ad8c-1eafcc4af1f9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 27,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Mount
+		"itemId": "6661da68-74af-4425-ad63-d5b4631ee266",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 9,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Extension
+		"itemId": "3292878f-4d1e-49e3-a80f-16b710dad42e",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 27,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Cap
+		"itemId": "49938942-fbb6-444d-bba6-1fb339ee5cf3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 9,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Large Pipe Compressor
+		"itemId": "412dee88-996e-49c2-8b51-5644f659f9b2",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 40,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			}
+		]
+	},
+	{
+		// Generator Coil Segment
+		"itemId": "7feba511-4910-429d-a0e3-f1727259ae5c",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 90,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Generator Coil Corner
+		"itemId": "23572f75-03c0-4c33-b643-70250d0e4ae0",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 95,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Generator Pipe Holder
+		"itemId": "ad9f6357-b0b4-4dab-b84e-fb20df54d1ac",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Duct Short
+		"itemId": "9d7e182f-c5d6-45e9-af21-1c24977b30c9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Duct Long
+		"itemId": "01d2298b-6cdb-4f4f-bd73-37c76cd60ca3",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Duct Corner
+		"itemId": "d97a85c5-7c0f-4bfb-9ef4-ce6ecdab9539",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Duct Join
+		"itemId": "6f0c29d3-f8c1-4314-b13d-db637ed89061",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Duct Holder
+		"itemId": "b050533f-200b-4253-9532-c2cfa273f982",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Duct End
+		"itemId": "fbc0fbfb-803c-42dd-aace-1ae10e55a785",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	},
+	{
+		// Staircase Step
+		"itemId": "f5786e5d-8366-4ebf-be00-f3a4b036a77b",
+		"quantity": 1,
+		"craftTime": 15,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 3,
+				// Net Block
+				"itemId": "4aa2a6f0-65a4-42e3-bf96-7dec62570e0b"
+			}
+
+		]
+	},
+	{
+		// Staircase Railing Join
+		"itemId": "295451dd-f5b2-421d-9113-b3f704d799d4",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+
+		]
+	},
+	{
+		// Net Fence
+		"itemId": "2228cef0-f22a-4901-93c5-48e4df52caf6",
+		"quantity": 1,
+		"craftTime": 20,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 10,
+				// Net Block
+				"itemId": "4aa2a6f0-65a4-42e3-bf96-7dec62570e0b"
+			}
+
+		]
+	},
+	{
+		// Staircase Banister
+		"itemId": "b50a014c-0785-4b1b-b63e-51cfdb7e49ad",
+		"quantity": 1,
+		"craftTime": 10,
+		"ingredientList": [
+			{
+				"quantity": 3,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+
+		]
+	},
+	{
+		// Staircase Wedge
+		"itemId": "e02620a5-371b-4d63-be35-fd8a0552eba9",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Banana Seed
+				"itemId": "22beade5-38ca-47b4-a2ee-32403f58a862"
+			},
+			{
+				"quantity": 10,
+				// Blueberry Seed
+				"itemId": "4b6d2bee-d0f1-4e56-96f0-d2596388cad2"
+			},
+			{
+				"quantity": 10,
+				// Orange Seed
+				"itemId": "bee966b0-b5e5-41da-b992-5d363ab85ae4"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Tomato Seed
+				"itemId": "38e41fb5-dd50-4294-829d-a517f0282fed"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Carrot Seed
+				"itemId": "9c82a525-8a8b-4483-9595-505aaa042486"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Redbeet Seed
+				"itemId": "64051718-a3f1-422b-bda3-277efa0c4545"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Banana Seed
+				"itemId": "22beade5-38ca-47b4-a2ee-32403f58a862"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Blueberry Seed
+				"itemId": "4b6d2bee-d0f1-4e56-96f0-d2596388cad2"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Orange Seed
+				"itemId": "bee966b0-b5e5-41da-b992-5d363ab85ae4"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Potato Seed
+				"itemId": "eb1ef696-5c05-4662-9e47-fe1e0875ff84"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Broccoli Seed
+				"itemId": "1c6756ca-3a60-4dcb-a5d1-353edf818308"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Pineapple Seed
+				"itemId": "9edb6f7c-fb44-4348-a1c4-8afb41b92d8a"
+			}
+		]
+	},
+	{
+		// Fertilizer
+		"itemId": "ac0b5b0a-14e1-4b31-8944-0a351fbfcc67",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 30,
+				// Cotton Seed
+				"itemId": "93c27ab2-4930-4654-ba1c-bcfe35e966f6"
+			}
+		]
+	},
+	{
+		// Locker
+		"itemId": "d0afb527-e786-4a22-a907-6da7e7cba8cb",
+		"quantity": 1,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+
+		]
+	},
+	{
+		// Crane Wheel
+		"itemId": "c4aa3807-0806-4202-a36d-b5fa254d3046",
+		"quantity": 1,
+		"craftTime": 17,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Scrap Wheel
+				"itemId": "59f6951a-a450-42bf-ad03-54567cb70245"
+			},
+			{
+				"quantity": 30,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			},
+			{
+				"quantity": 10,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		// Striped Net Block
+		"itemId": "a479066d-4b03-46b5-8437-e99fec3f43ee",
+		"quantity": 5,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	},
+	{
+		// Square Mesh Block
+		"itemId": "b4fa180c-2111-4339-b6fd-aed900b57093",
+		"quantity": 5,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	},
+	{
+		// Plastic Block
+		"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a",
+		"quantity": 10,
+		"craftTime": 12,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Crude Oil
+				"itemId": "1147e59d-6940-42b4-840b-07f05054f5e0"
+			}
+
+		]
+	},
+	{
+		// Scrap Wood Block
+		"itemId": "1fc74a28-addb-451a-878d-c3c605d63811",
+		"quantity": 2000,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Tree Crate
+				"itemId": "f8b984da-4b24-4e36-b440-86ead126b6dc"
+			}
+		]
+	},
+	{
+		// Scrap Metal Block
+		"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Rusted Metal Block
+				"itemId": "220b201e-aa40-4995-96c8-e6007af160de"
+			}
+		]
+	},
+	{
+		// Scrap Metal Block
+		"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Totebot Head: Blip
+				"itemId": "1c04327f-1de4-4b06-92a8-2c9b40e491aa"
+			}
+		]
+	},
+	{
+		// Scrap Metal Block
+		"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39",
+		"quantity": 2000,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Warehouse Crate
+				"itemId": "10590ecd-7d2f-4ff9-a6de-e749870ae8b8"
+			}
+		]
+	},
+	{
+		// Rusted Metal Block
+		"itemId": "220b201e-aa40-4995-96c8-e6007af160de",
+		"quantity": 10,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 1,
+				// Water
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			}
+		]
+	},
+	{
+		// Worn Metal Block
+		"itemId": "d740a27d-cc0f-4866-9e07-6a5c516ad719",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	},
+	{
+		// Aluminum Block
+		"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c",
+		"quantity": 5,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 15,
+				// Scrap Metal Block
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			},
+			{
+				"quantity": 5,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		// Scrap Stone Block
+		"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac",
+		"quantity": 2000,
+		"craftTime": 57,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Stone Crate
+				"itemId": "3bd4430f-75bc-452c-9e80-1bd639898689"
+			}
+		]
+	},
+	{
+		// Cracked Concrete Block
+		"itemId": "f5ceb7e3-5576-41d2-82d2-29860cf6e20e",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Brick Block
+		"itemId": "0603b36e-0bdb-4828-b90c-ff19abcdfe34",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			}
+		]
+	},
+	{
+		// Scrap Stone Block
+		"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac",
+		"quantity": 10,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Brick Block
+				"itemId": "0603b36e-0bdb-4828-b90c-ff19abcdfe34"
+			}
+		]
+	},
+	{
+		// Spaceship Floor Block
+		"itemId": "4ad97d49-c8a5-47f3-ace3-d56ba3affe50",
+		"quantity": 10,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Aluminum Block
+				"itemId": "3e3242e4-1791-4f70-8d1d-0ae9ba3ee94c"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Plaster Block
+		"itemId": "b145d9ae-4966-4af6-9497-8fca33f9aee3",
+		"quantity": 10,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Scrap Stone Block
+				"itemId": "30a2288b-e88e-4a92-a916-1edbfc2b2dac"
+			},
+			{
+				"quantity": 4,
+				// Water
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28"
+			}
+		]
+	},
+	{
+		// Painted Wall Block
+		"itemId": "e981c337-1c8a-449c-8602-1dd990cbba3a",
+		"quantity": 10,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				// Plastic Block
+				"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a"
+			},
+			{
+				"quantity": 1,
+				// Paint Ammo
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7"
+			}
+		]
+	},
+	{
+		// Insulation Block
+		"itemId": "9be6047c-3d44-44db-b4b9-9bcf8a9aab20",
+		"quantity": 10,
+		"craftTime": 8,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				// Glass Block
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f"
+			},
+			{
+				"quantity": 5,
+				// Plastic Block
+				"itemId": "628b2d61-5ceb-43e9-8334-a4135566df7a"
+			}
+		]
+	},
+	{
+		// Screw
+		"itemId": "c5e56da5-bc3f-4519-91c2-b307d36e15aa",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 10,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		// Nut
+		"itemId": "edd445cc-c298-4ce3-9a58-745c1bee1bc7",
+		"quantity": 5,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				// Metal Block 3
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46"
+			},
+			{
+				"quantity": 10,
+				// Chemicals
+				"itemId": "f74c2891-79a9-45e0-982e-4896651c2e25"
+			}
+		]
+	},
+	{
+		// Rounded Frame Corner
+		"itemId": "64fdc73f-259a-49df-94ac-24db25a4dc42",
+		"quantity": 1,
+		"craftTime": 7,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				// Metal Block 1
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
+			}
+		]
+	}
+]
