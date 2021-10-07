@@ -222,7 +222,7 @@ local loot_totebot_green = {
 	slots = function() return 1 end,
 	randomLoot = {
 		{ uuid = obj_resource_circuitboard,		chance = 40 },
-		{ uuid = obj_resource_circuitboard,		chance = 10      quantity = 2},
+		{ uuid = obj_resource_circuitboard,		chance = 10,    quantity = 2},
 		{ uuid = obj_consumable_component,		chance = 20 },
 		{ uuid = obj_consumable_component,		chance = 5, 	quantity = 2 },
 	}
